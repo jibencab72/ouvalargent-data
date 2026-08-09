@@ -1,0 +1,149 @@
+{
+  "annee_exercice": "2025",
+  "note": "Moyenne (par habitant) de toutes les communes de la même tranche de population, sur le même exercice. Tranches définies par l'INSEE/OFGL, vérifiées officiellement — pas une approximation.",
+  "tranches": {
+    "0": {
+      "libelle": "moins de 100 habitants",
+      "nb_communes": 3260,
+      "moyennes_euros_par_habitant": {
+        "depenses_fonctionnement": 1299.392185833183,
+        "recettes_fonctionnement": 1719.5299609254091,
+        "depenses_investissement": 1044.8393379541742,
+        "recettes_investissement": 620.0861043690519,
+        "depenses_totales": 2344.2315237873568,
+        "recettes_totales": 2339.616065294461,
+        "dette": 733.5334759696484
+      }
+    },
+    "1": {
+      "libelle": "100 à 199 habitants",
+      "nb_communes": 5326,
+      "moyennes_euros_par_habitant": {
+        "depenses_fonctionnement": 861.7659352400974,
+        "recettes_fonctionnement": 1119.1203486191355,
+        "depenses_investissement": 641.6092214499631,
+        "recettes_investissement": 387.7480244138272,
+        "depenses_totales": 1503.3751566900605,
+        "recettes_totales": 1506.8683730329626,
+        "dette": 575.0969183320298
+      }
+    },
+    "10": {
+      "libelle": "100 000 habitants ou plus",
+      "nb_communes": 42,
+      "moyennes_euros_par_habitant": {
+        "depenses_fonctionnement": 1405.285483992178,
+        "recettes_fonctionnement": 1619.5864771988631,
+        "depenses_investissement": 511.4656166577882,
+        "recettes_investissement": 295.79075287520857,
+        "depenses_totales": 1916.751100649966,
+        "recettes_totales": 1915.3772300740716,
+        "dette": 1236.7533064633699
+      }
+    },
+    "2": {
+      "libelle": "200 à 499 habitants",
+      "nb_communes": 9396,
+      "moyennes_euros_par_habitant": {
+        "depenses_fonctionnement": 745.3951886906914,
+        "recettes_fonctionnement": 938.5373255762183,
+        "depenses_investissement": 522.8870869840487,
+        "recettes_investissement": 311.2729317971799,
+        "depenses_totales": 1268.28227567474,
+        "recettes_totales": 1249.8102573733984,
+        "dette": 515.0000716556955
+      }
+    },
+    "3": {
+      "libelle": "500 à 1 999 habitants",
+      "nb_communes": 11212,
+      "moyennes_euros_par_habitant": {
+        "depenses_fonctionnement": 758.1917042979728,
+        "recettes_fonctionnement": 940.0094855229831,
+        "depenses_investissement": 493.51479844030115,
+        "recettes_investissement": 292.2788393618597,
+        "depenses_totales": 1251.706502738274,
+        "recettes_totales": 1232.288324884843,
+        "dette": 563.7934261782056
+      }
+    },
+    "4": {
+      "libelle": "2 000 à 3 499 habitants",
+      "nb_communes": 2286,
+      "moyennes_euros_par_habitant": {
+        "depenses_fonctionnement": 885.1104740891883,
+        "recettes_fonctionnement": 1080.7584515735693,
+        "depenses_investissement": 526.1466677146636,
+        "recettes_investissement": 294.8455533308479,
+        "depenses_totales": 1411.257141803852,
+        "recettes_totales": 1375.6040049044175,
+        "dette": 658.3137220523987
+      }
+    },
+    "5": {
+      "libelle": "3 500 à 4 999 habitants",
+      "nb_communes": 1021,
+      "moyennes_euros_par_habitant": {
+        "depenses_fonctionnement": 1009.2222422902223,
+        "recettes_fonctionnement": 1230.9748202718506,
+        "depenses_investissement": 546.3630326405748,
+        "recettes_investissement": 288.6713350813762,
+        "depenses_totales": 1555.5852749307971,
+        "recettes_totales": 1519.646155353227,
+        "dette": 716.8882043651698
+      }
+    },
+    "6": {
+      "libelle": "5 000 à 9 999 habitants",
+      "nb_communes": 1216,
+      "moyennes_euros_par_habitant": {
+        "depenses_fonctionnement": 1110.4957640873226,
+        "recettes_fonctionnement": 1326.1249626295873,
+        "depenses_investissement": 559.3692438380435,
+        "recettes_investissement": 304.9943674180734,
+        "depenses_totales": 1669.8650079253662,
+        "recettes_totales": 1631.1193300476607,
+        "dette": 766.5980763919367
+      }
+    },
+    "7": {
+      "libelle": "10 000 à 19 999 habitants",
+      "nb_communes": 568,
+      "moyennes_euros_par_habitant": {
+        "depenses_fonctionnement": 1251.592351292945,
+        "recettes_fonctionnement": 1461.3538350949334,
+        "depenses_investissement": 537.9630479810095,
+        "recettes_investissement": 296.9864298906696,
+        "depenses_totales": 1789.5553992739547,
+        "recettes_totales": 1758.3402649856032,
+        "dette": 808.0441475496825
+      }
+    },
+    "8": {
+      "libelle": "20 000 à 49 999 habitants",
+      "nb_communes": 359,
+      "moyennes_euros_par_habitant": {
+        "depenses_fonctionnement": 1381.4356607299299,
+        "recettes_fonctionnement": 1582.7902888773176,
+        "depenses_investissement": 545.8224939952274,
+        "recettes_investissement": 317.60070560136586,
+        "depenses_totales": 1927.2581547251573,
+        "recettes_totales": 1900.3909944786835,
+        "dette": 968.7608113734899
+      }
+    },
+    "9": {
+      "libelle": "50 000 à 99 999 habitants",
+      "nb_communes": 92,
+      "moyennes_euros_par_habitant": {
+        "depenses_fonctionnement": 1511.1640117937072,
+        "recettes_fonctionnement": 1747.8195895686374,
+        "depenses_investissement": 645.034418606431,
+        "recettes_investissement": 387.8665412018578,
+        "depenses_totales": 2156.1984304001385,
+        "recettes_totales": 2135.6861307704953,
+        "dette": 1332.1992530743657
+      }
+    }
+  }
+}

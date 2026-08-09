@@ -1,0 +1,229 @@
+{
+  "genere_le": "2026-08-09T18:18:20.341039+00:00",
+  "etat": {
+    "annee_exercice": 2025,
+    "label_source": "Projet de loi de finances 2025 (montants prévus, pas exécutés)",
+    "source_url": "https://data.economie.gouv.fr/explore/dataset/plf25-depenses-2025-selon-destination/",
+    "missions": [
+      {
+        "code_mission": "EC",
+        "libelle": "Enseignement scolaire",
+        "credit_paiement_euros": 88817133670.0
+      },
+      {
+        "code_mission": "DA",
+        "libelle": "Défense",
+        "credit_paiement_euros": 60003543448.0
+      },
+      {
+        "code_mission": "RA",
+        "libelle": "Recherche et enseignement supérieur",
+        "credit_paiement_euros": 31285707922.0
+      },
+      {
+        "code_mission": "SE",
+        "libelle": "Solidarité, insertion et égalité des chances",
+        "credit_paiement_euros": 30373601344.0
+      },
+      {
+        "code_mission": "SB",
+        "libelle": "Sécurités",
+        "credit_paiement_euros": 25215409206.0
+      },
+      {
+        "code_mission": "VA",
+        "libelle": "Cohésion des territoires",
+        "credit_paiement_euros": 23781229009.0
+      },
+      {
+        "code_mission": "TB",
+        "libelle": "Travail, emploi et administration des ministères sociaux",
+        "credit_paiement_euros": 21632987399.0
+      },
+      {
+        "code_mission": "TA",
+        "libelle": "Écologie, développement et mobilité durables",
+        "credit_paiement_euros": 20504444099.0
+      },
+      {
+        "code_mission": "JA",
+        "libelle": "Justice",
+        "credit_paiement_euros": 12459092589.0
+      },
+      {
+        "code_mission": "GA",
+        "libelle": "Gestion des finances publiques",
+        "credit_paiement_euros": 10971512721.0
+      },
+      {
+        "code_mission": "RB",
+        "libelle": "Régimes sociaux et de retraite",
+        "credit_paiement_euros": 5995017245.0
+      },
+      {
+        "code_mission": "AD",
+        "libelle": "Aide publique au développement",
+        "credit_paiement_euros": 5153965943.0
+      },
+      {
+        "code_mission": "AB",
+        "libelle": "Administration générale et territoriale de l'État",
+        "credit_paiement_euros": 4960943626.0
+      },
+      {
+        "code_mission": "AC",
+        "libelle": "Agriculture, alimentation, forêt et affaires rurales",
+        "credit_paiement_euros": 4435643789.0
+      },
+      {
+        "code_mission": "RC",
+        "libelle": "Relations avec les collectivités territoriales",
+        "credit_paiement_euros": 4060628302.0
+      },
+      {
+        "code_mission": "AQ",
+        "libelle": "Audiovisuel public",
+        "credit_paiement_euros": 4029162945.0
+      },
+      {
+        "code_mission": "CB",
+        "libelle": "Culture",
+        "credit_paiement_euros": 3919074364.0
+      },
+      {
+        "code_mission": "DB",
+        "libelle": "Économie",
+        "credit_paiement_euros": 3884818906.0
+      },
+      {
+        "code_mission": "AA",
+        "libelle": "Action extérieure de l'État",
+        "credit_paiement_euros": 3532510413.0
+      },
+      {
+        "code_mission": "OA",
+        "libelle": "Outre-mer",
+        "credit_paiement_euros": 2555056198.0
+      },
+      {
+        "code_mission": "IA",
+        "libelle": "Immigration, asile et intégration",
+        "credit_paiement_euros": 2047753910.0
+      },
+      {
+        "code_mission": "MB",
+        "libelle": "Anciens combattants, mémoire et liens avec la Nation",
+        "credit_paiement_euros": 1905972102.0
+      },
+      {
+        "code_mission": "SA",
+        "libelle": "Santé",
+        "credit_paiement_euros": 1643321770.0
+      },
+      {
+        "code_mission": "SF",
+        "libelle": "Sport, jeunesse et vie associative",
+        "credit_paiement_euros": 1578656919.0
+      },
+      {
+        "code_mission": "PB",
+        "libelle": "Pouvoirs publics",
+        "credit_paiement_euros": 1156506686.0
+      },
+      {
+        "code_mission": "DC",
+        "libelle": "Direction de l'action du Gouvernement",
+        "credit_paiement_euros": 1065784558.0
+      },
+      {
+        "code_mission": "CA",
+        "libelle": "Conseil et contrôle de l'État",
+        "credit_paiement_euros": 899725973.0
+      },
+      {
+        "code_mission": "TR",
+        "libelle": "Transformation et fonction publiques",
+        "credit_paiement_euros": 800578998.0
+      },
+      {
+        "code_mission": "MA",
+        "libelle": "Médias, livre et industries culturelles",
+        "credit_paiement_euros": 723659374.0
+      },
+      {
+        "code_mission": "PC",
+        "libelle": "Crédits non répartis",
+        "credit_paiement_euros": 195000000.0
+      },
+      {
+        "code_mission": "PR",
+        "libelle": "Plan de relance",
+        "credit_paiement_euros": 169000000.0
+      }
+    ],
+    "missions_hors_perimetre": [
+      {
+        "code_mission": "RD",
+        "libelle": "Remboursements et dégrèvements",
+        "credit_paiement_euros": 147140795835.0,
+        "explication": "Pas une dépense au sens courant : ce sont des impôts trop perçus que l'État restitue (crédits d'impôt, dégrèvements locaux compensés aux collectivités)."
+      },
+      {
+        "code_mission": "EB",
+        "libelle": "Engagements financiers de l'État",
+        "credit_paiement_euros": 61338164329.0,
+        "explication": "La charge de la dette de l'État : intérêts, frais financiers et garanties. Son montant dépend des marchés et d'engagements passés, pas d'un arbitrage politique annuel."
+      },
+      {
+        "code_mission": "AV",
+        "libelle": "Investir pour la France de 2030",
+        "credit_paiement_euros": 5800000000.0,
+        "explication": "Programme d'investissement exceptionnel pluriannuel (PIA), pas une dépense de fonctionnement courant des politiques publiques."
+      }
+    ],
+    "note_hors_perimetre": "Ces trois postes sont exclus de la « norme de dépenses pilotables » de l'État (loi de programmation des finances publiques 2018-2022, art. 9-I) : leur montant n'est pas arbitrable chaque année de la même façon que les autres missions, et les mélanger avec elles fausserait la lecture (ex. Remboursements et dégrèvements dépasserait à tort Enseignement scolaire en tête de liste).",
+    "note_psr_ue": "Le prélèvement sur recettes au profit de l'Union européenne n'apparaît pas ici : aucune source à jour en open data trouvée (seule une version 2012, obsolète, existe)."
+  },
+  "securite_sociale": {
+    "disponible": false,
+    "raison": "Les chiffres de la Sécurité sociale par branche (maladie, retraites, famille, autonomie) ne sont publiés qu'en PDF par les administrations compétentes, pas en open data structuré interrogeable.",
+    "source_url": "https://www.securite-sociale.fr/files/live/sites/SSFR/files/medias/DSS/2025/Chiffres-cles-DSS-2024-ed25.pdf"
+  },
+  "collectivites_locales": {
+    "annee_exercice": 2025,
+    "label_source": "Comptes des communes, départements et régions (OFGL), budget principal",
+    "total": {
+      "depenses_totales": 248192995077.72,
+      "depenses_fonctionnement": 178284473505.8,
+      "depenses_investissement": 69908521571.92,
+      "recettes_totales": 247509904363.22,
+      "dette": 144051077061.66
+    },
+    "par_niveau": {
+      "commune": {
+        "depenses_totales": 122322672367.89,
+        "depenses_fonctionnement": 83996078976.04,
+        "depenses_investissement": 38326593391.85,
+        "recettes_totales": 121076788948.95,
+        "dette": 68526174043.44
+      },
+      "departement": {
+        "depenses_totales": 84124260121.66,
+        "depenses_fonctionnement": 68847048664.81,
+        "depenses_investissement": 15277211456.85,
+        "recettes_totales": 84648757284.85,
+        "dette": 36430455670.66
+      },
+      "region": {
+        "depenses_totales": 41746062588.17,
+        "depenses_fonctionnement": 25441345864.95,
+        "depenses_investissement": 16304716723.220001,
+        "recettes_totales": 41784358129.42,
+        "dette": 39094447347.560005
+      }
+    },
+    "note": "Total communes + départements + régions. N'inclut pas les groupements de communes (EPCI/intercommunalités) : sous-estime donc le total réel des collectivités locales. Paris (budget fusionné commune+département depuis 2019) n'est compté qu'une fois, au niveau commune."
+  },
+  "depense_publique_totale_euros": null,
+  "note_total": "Le total de la dépense publique ne peut pas être calculé : le bloc Sécurité sociale n'est pas disponible en open data structuré (voir ci-dessous). Une somme incomplète serait trompeuse."
+}
