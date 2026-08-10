@@ -1,0 +1,10 @@
+{
+  "genere_le": "2026-08-10T10:17:39.685820+00:00",
+  "source_url": "https://www.insee.fr/fr/statistiques/2830301",
+  "trimestre": "2026-T1",
+  "date_fin_trimestre": "2026-03-31",
+  "montant_milliards_euros": 3536.06774,
+  "pourcentage_pib": 117.507003097128,
+  "taux_estime_euros_par_seconde": 9722.565586419722,
+  "note_methode": "Chiffre officiel : dette publique au sens de Maastricht, publiée par trimestre par l'INSEE (jamais quotidiennement — aucune \"dette du jour\" officielle n'existe). Le taux €/seconde est une ESTIMATION calculée à partir de la variation réellement mesurée entre les deux derniers trimestres connus, pas une donnée officielle — à afficher toujours clairement distingué du chiffre officiel."
+}
