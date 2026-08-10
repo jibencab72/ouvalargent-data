@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-10T06:37:05.192857+00:00",
+  "genere_le": "2026-08-10T07:04:16.365371+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -520,7 +520,7 @@
       "uid": "DLR5L17N51670",
       "titre": "Fin de vie",
       "procedure": "Proposition de loi ordinaire",
-      "statut": "rejetee",
+      "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2026-07-20T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e"
@@ -1438,7 +1438,7 @@
       "uid": "DLR5L17N54196",
       "titre": "Projet de loi relative aux résultats de la gestion et portant approbation des comptes de l'année 2025",
       "procedure": "Projet de loi relative aux résultats de la gestion et portant approbation des comptes",
-      "statut": "rejetee",
+      "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2026-06-22T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/resultats_gestion_approbation_comptes_2025"
@@ -1447,7 +1447,7 @@
       "uid": "DLR5L17N54373",
       "titre": "Projet de loi portant approbation des comptes de la sécurité sociale de l’année 2025",
       "procedure": "Projet de loi ordinaire",
-      "statut": "rejetee",
+      "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2026-06-22T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_de_loi_portant_approbation_des_comptes_de_la_securite_sociale_de_annee_2025"
@@ -1609,7 +1609,7 @@
       "uid": "DLR5L17N52977",
       "titre": "Nationalisation d'ArcelorMittal France",
       "procedure": "Proposition de loi ordinaire",
-      "statut": "rejetee",
+      "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2026-06-11T10:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/nationalisation_arcelormittal_2025"
@@ -9412,7 +9412,7 @@
       "uid": "DLR5L16N49849",
       "titre": "Programmation nationale et simplification normative dans le secteur économique de l’énergie",
       "procedure": "Proposition de loi ordinaire",
-      "statut": "rejetee",
+      "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2025-07-17T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49849"
@@ -9475,7 +9475,7 @@
       "uid": "DLR5L16N47697",
       "titre": "Réforme de l’audiovisuel public et souveraineté audiovisuelle",
       "procedure": "Proposition de loi ordinaire",
-      "statut": "rejetee",
+      "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2025-07-11T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N47697"
