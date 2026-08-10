@@ -1,6 +1,6 @@
 {
-  "genere_le": "2026-08-10T06:37:05.192089+00:00",
-  "note_methode": "Liste dérivée automatiquement des députés ayant une affiliation partisane connue (mandat PARPOL, source officielle Assemblée nationale) — jamais une sélection éditoriale. Le Sénat n'est pas inclus : sa donnée ne distingue pas l'affiliation partisane réelle du simple groupe parlementaire (cf. docs/DECISIONS.md section 9.1). Ordre alphabétique, jamais par taille. Les liens vers les programmes officiels ne sont pas encore renseignés (recherche manuelle nécessaire, un par un, jamais devinés) — un parti sans lien l'affiche explicitement plutôt que de rester silencieusement vide.",
+  "genere_le": "2026-08-10T09:17:13.241960+00:00",
+  "note_methode": "Liste dérivée automatiquement des députés ayant une affiliation partisane connue (mandat PARPOL, source officielle Assemblée nationale) — jamais une sélection éditoriale. Le Sénat n'est pas inclus : sa donnée ne distingue pas l'affiliation partisane réelle du simple groupe parlementaire (cf. docs/DECISIONS.md section 9.1). Ordre alphabétique, jamais par taille. Les liens vers les programmes officiels sont recherchés manuellement un par un, jamais devinés — un parti sans lien l'affiche explicitement plutôt que de rester silencieusement vide. Dirigeant actuel : source Wikidata (pas une source officielle française — CNCCFP et ministère de l'Intérieur vérifiés, aucun n'expose cette donnée proprement, cf. pipeline/partis.py), récupéré en direct à chaque publication pour refléter un changement sans intervention manuelle. Aucune tendance politique (droite/gauche/centre/extrême) : même l'Arcom a cessé de classer les partis par courant depuis 2018, jugé trop clivant — cette appli fait le même choix.",
   "nb_deputes_non_inscrits": 37,
   "source_url": "https://data.assemblee-nationale.fr/acteurs/deputes-en-exercice",
   "partis": [
@@ -8,151 +8,201 @@
       "nom": "A here ia Porinetia",
       "nb_deputes": 1,
       "lien_programme_officiel": null,
-      "date_releve_lien": null
+      "date_releve_lien": null,
+      "dirigeant_nom": null,
+      "dirigeant_wikipedia": null
     },
     {
       "nom": "Alliance centriste",
       "nb_deputes": 2,
       "lien_programme_officiel": "https://alliancecentriste.fr/",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": "Jean Arthuis",
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Jean_Arthuis"
     },
     {
       "nom": "Archipel demain",
       "nb_deputes": 1,
       "lien_programme_officiel": null,
-      "date_releve_lien": null
+      "date_releve_lien": null,
+      "dirigeant_nom": "Gérard Grignon",
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Gérard_Grignon"
     },
     {
       "nom": "Association ambition Réunion",
       "nb_deputes": 1,
       "lien_programme_officiel": null,
-      "date_releve_lien": null
+      "date_releve_lien": null,
+      "dirigeant_nom": null,
+      "dirigeant_wikipedia": null
     },
     {
       "nom": "Debout la France",
       "nb_deputes": 1,
       "lien_programme_officiel": "https://www.debout-la-france.fr/",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": "Nicolas Dupont-Aignan",
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
     },
     {
       "nom": "Ensemble ! (majorité présidentielle)",
       "nb_deputes": 111,
       "lien_programme_officiel": "https://ensemble-2024.fr/notre-projet",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": null,
+      "dirigeant_wikipedia": null
     },
     {
       "nom": "Générations NC",
       "nb_deputes": 1,
       "lien_programme_officiel": "https://generations.nc/le-projet-de-generations/",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": null,
+      "dirigeant_wikipedia": null
     },
     {
       "nom": "Horizons",
       "nb_deputes": 31,
       "lien_programme_officiel": "https://horizonsleparti.fr/",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": "Édouard Philippe",
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Édouard_Philippe"
     },
     {
       "nom": "La France Insoumise",
       "nb_deputes": 67,
       "lien_programme_officiel": "https://programme.lafranceinsoumise.fr/",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": "Manuel Bompard",
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Manuel_Bompard"
     },
     {
       "nom": "Les Républicains",
       "nb_deputes": 41,
       "lien_programme_officiel": "https://republicains.fr/nos-idees/",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": "Bruno Retailleau",
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
     },
     {
       "nom": "Les Écologistes - EELV",
       "nb_deputes": 33,
       "lien_programme_officiel": "https://projet.lesecologistes.fr/",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": "Marine Tondelier",
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
     },
     {
       "nom": "Mouvement de décolonisation et d'émancipation sociale",
       "nb_deputes": 2,
       "lien_programme_officiel": null,
-      "date_releve_lien": null
+      "date_releve_lien": null,
+      "dirigeant_nom": null,
+      "dirigeant_wikipedia": null
     },
     {
       "nom": "Parti communiste français",
       "nb_deputes": 14,
       "lien_programme_officiel": "https://www.pcf.fr/le_programme",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": null,
+      "dirigeant_wikipedia": null
     },
     {
       "nom": "Parti progressiste démocratique guadeloupéen",
       "nb_deputes": 2,
       "lien_programme_officiel": null,
-      "date_releve_lien": null
+      "date_releve_lien": null,
+      "dirigeant_nom": null,
+      "dirigeant_wikipedia": null
     },
     {
       "nom": "Parti socialiste",
       "nb_deputes": 62,
       "lien_programme_officiel": "https://projet-socialiste.fr/projet/",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": "Olivier Faure",
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Olivier_Faure_(homme_politique)"
     },
     {
       "nom": "Pour la Réunion",
       "nb_deputes": 2,
       "lien_programme_officiel": null,
-      "date_releve_lien": null
+      "date_releve_lien": null,
+      "dirigeant_nom": "Huguette Bello",
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Huguette_Bello"
     },
     {
       "nom": "Progrès-974",
       "nb_deputes": 1,
       "lien_programme_officiel": null,
-      "date_releve_lien": null
+      "date_releve_lien": null,
+      "dirigeant_nom": null,
+      "dirigeant_wikipedia": null
     },
     {
       "nom": "Péyi-A",
       "nb_deputes": 2,
       "lien_programme_officiel": null,
-      "date_releve_lien": null
+      "date_releve_lien": null,
+      "dirigeant_nom": "Jean-Philippe Nilor",
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Jean-Philippe_Nilor"
     },
     {
       "nom": "Rassemblement national",
       "nb_deputes": 118,
       "lien_programme_officiel": "https://rassemblementnational.fr/legislatives-2024",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": "Jordan Bardella",
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Jordan_Bardella"
     },
     {
       "nom": "Régions et peuples solidaires",
       "nb_deputes": 19,
       "lien_programme_officiel": "https://www.federation-rps.org/programme/",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": null,
+      "dirigeant_wikipedia": null
     },
     {
       "nom": "Rézistan's Égalité 974",
       "nb_deputes": 2,
       "lien_programme_officiel": null,
-      "date_releve_lien": null
+      "date_releve_lien": null,
+      "dirigeant_nom": "Jean-Hugues Ratenon",
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Jean-Hugues_Ratenon"
     },
     {
       "nom": "Tapura Huiraatira",
       "nb_deputes": 1,
       "lien_programme_officiel": null,
-      "date_releve_lien": null
+      "date_releve_lien": null,
+      "dirigeant_nom": "Édouard Fritch",
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Édouard_Fritch"
     },
     {
       "nom": "Tavini Huiraatira No Te Ao Ma'ohi - Front de libération de Polynésie",
       "nb_deputes": 1,
       "lien_programme_officiel": "https://tavini-huiraatira.com/",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": null,
+      "dirigeant_wikipedia": null
     },
     {
       "nom": "UDR - Union des Droites pour la République",
       "nb_deputes": 17,
       "lien_programme_officiel": "https://www.udr.fr/",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": null,
+      "dirigeant_wikipedia": null
     },
     {
       "nom": "Union des démocrates européens, centristes et indépendants",
       "nb_deputes": 7,
       "lien_programme_officiel": "https://www.parti-udi.fr/",
-      "date_releve_lien": "2026-08-09T00:00:00+00:00"
+      "date_releve_lien": "2026-08-09T00:00:00+00:00",
+      "dirigeant_nom": null,
+      "dirigeant_wikipedia": null
     }
   ]
 }
