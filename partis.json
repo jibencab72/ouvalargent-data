@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-09T18:18:36.343086+00:00",
+  "genere_le": "2026-08-10T06:37:05.192089+00:00",
   "note_methode": "Liste dérivée automatiquement des députés ayant une affiliation partisane connue (mandat PARPOL, source officielle Assemblée nationale) — jamais une sélection éditoriale. Le Sénat n'est pas inclus : sa donnée ne distingue pas l'affiliation partisane réelle du simple groupe parlementaire (cf. docs/DECISIONS.md section 9.1). Ordre alphabétique, jamais par taille. Les liens vers les programmes officiels ne sont pas encore renseignés (recherche manuelle nécessaire, un par un, jamais devinés) — un parti sans lien l'affiche explicitement plutôt que de rester silencieusement vide.",
   "nb_deputes_non_inscrits": 37,
   "source_url": "https://data.assemblee-nationale.fr/acteurs/deputes-en-exercice",
@@ -43,8 +43,8 @@
     {
       "nom": "Générations NC",
       "nb_deputes": 1,
-      "lien_programme_officiel": null,
-      "date_releve_lien": null
+      "lien_programme_officiel": "https://generations.nc/le-projet-de-generations/",
+      "date_releve_lien": "2026-08-09T00:00:00+00:00"
     },
     {
       "nom": "Horizons",
