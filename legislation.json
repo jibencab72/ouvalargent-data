@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-14T09:02:04.380706+00:00",
+  "genere_le": "2026-08-15T05:14:27.593283+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -11,6 +11,60 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-16T15:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement_2"
+    },
+    {
+      "uid": "DLR5L17N53187",
+      "titre": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-14T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
+    },
+    {
+      "uid": "DLR5L17N51670",
+      "titre": "Fin de vie",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-14T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e"
+    },
+    {
+      "uid": "DLR5L17N54085",
+      "titre": "Projet de loi d’urgence pour la protection et la souveraineté agricoles",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-14T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_urgence_pour_protection_et_souverainete_agricoles"
+    },
+    {
+      "uid": "DLR5L17N52746",
+      "titre": "Moderniser la gestion du patrimoine immobilier de l'État",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-14T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_patrimoine_immobilier_etat_17e"
+    },
+    {
+      "uid": "DLR5L17N54006",
+      "titre": "Pour une montagne vivante et souveraine",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-14T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e"
+    },
+    {
+      "uid": "DLR5L17N53980",
+      "titre": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-14T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53980"
     },
     {
       "uid": "DLR5L17N54776",
@@ -121,24 +175,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retention_admin_prevention_attentats_17e"
     },
     {
-      "uid": "DLR5L17N53187",
-      "titre": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-07-24T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
-    },
-    {
-      "uid": "DLR5L17N54085",
-      "titre": "Projet de loi d’urgence pour la protection et la souveraineté agricoles",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-07-24T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_urgence_pour_protection_et_souverainete_agricoles"
-    },
-    {
       "uid": "DLR5L17N54758",
       "titre": "Proposition de loi constitutionnelle visant à permettre à loi de garantir la représentation des territoires dans la répartition des sièges au sein des groupements de communes",
       "procedure": "Projet ou proposition de loi constitutionnelle",
@@ -164,15 +200,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-07-24T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54760"
-    },
-    {
-      "uid": "DLR5L17N53980",
-      "titre": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-07-24T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53980"
     },
     {
       "uid": "DLR5L17N54712",
@@ -272,15 +299,6 @@
       "date_promulgation": "2026-07-23T00:00:00.000+02:00",
       "derniere_activite": "2026-07-23T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53942"
-    },
-    {
-      "uid": "DLR5L17N52746",
-      "titre": "Moderniser la gestion du patrimoine immobilier de l'État",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-07-23T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_patrimoine_immobilier_etat_17e"
     },
     {
       "uid": "DLR5L17N54708",
@@ -389,15 +407,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-07-23T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_prevention_et_repression_des_occupations_illicites_de_terrain_17e"
-    },
-    {
-      "uid": "DLR5L17N54006",
-      "titre": "Pour une montagne vivante et souveraine",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-07-23T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e"
     },
     {
       "uid": "DLR5L17N54723",
@@ -542,15 +551,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-07-22T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54744"
-    },
-    {
-      "uid": "DLR5L17N51670",
-      "titre": "Fin de vie",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-07-20T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e"
     },
     {
       "uid": "DLR5L17N54704",
