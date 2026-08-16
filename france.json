@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-15T05:13:52.997438+00:00",
+  "genere_le": "2026-08-16T05:25:36.510710+00:00",
   "etat": {
     "annee_exercice": 2025,
     "label_source": "Projet de loi de finances 2025 (montants prévus, pas exécutés)",
@@ -192,6 +192,7 @@
   "collectivites_locales": {
     "annee_exercice": 2025,
     "label_source": "Comptes des communes, départements et régions (OFGL), budget principal",
+    "source_url": "https://data.ofgl.fr/pages/accueil/",
     "total": {
       "depenses_totales": 248192995077.72,
       "depenses_fonctionnement": 178284473505.8,
@@ -218,7 +219,7 @@
         "depenses_totales": 41746062588.17,
         "depenses_fonctionnement": 25441345864.95,
         "depenses_investissement": 16304716723.220001,
-        "recettes_totales": 41784358129.42,
+        "recettes_totales": 41784358129.420006,
         "dette": 39094447347.560005
       }
     },

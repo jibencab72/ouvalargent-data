@@ -1,8 +1,11 @@
 {
-  "genere_le": "2026-08-15T05:14:19.424263+00:00",
-  "note_methode": "Liste dérivée automatiquement des députés ayant une affiliation partisane connue (mandat PARPOL, source officielle Assemblée nationale) — jamais une sélection éditoriale. Le Sénat n'est pas inclus : sa donnée ne distingue pas l'affiliation partisane réelle du simple groupe parlementaire (cf. docs/DECISIONS.md section 9.1). Ordre alphabétique, jamais par taille. Les liens vers les programmes officiels sont recherchés manuellement un par un, jamais devinés — un parti sans lien l'affiche explicitement plutôt que de rester silencieusement vide. Dirigeant actuel : source Wikidata (pas une source officielle française — CNCCFP et ministère de l'Intérieur vérifiés, aucun n'expose cette donnée proprement, cf. pipeline/partis.py), récupéré en direct à chaque publication pour refléter un changement sans intervention manuelle. Aucune tendance politique (droite/gauche/centre/extrême) : même l'Arcom a cessé de classer les partis par courant depuis 2018, jugé trop clivant — cette appli fait le même choix.",
+  "genere_le": "2026-08-16T05:26:00.166328+00:00",
+  "note_methode": "Liste dérivée automatiquement des députés ayant une affiliation partisane connue (mandat PARPOL, source officielle Assemblée nationale) — jamais une sélection éditoriale. Le Sénat n'est pas inclus : sa donnée ne distingue pas l'affiliation partisane réelle du simple groupe parlementaire (cf. docs/DECISIONS.md section 9.1). Ordre alphabétique, jamais par taille. Les liens vers les programmes officiels sont recherchés manuellement un par un, jamais devinés — un parti sans lien l'affiche explicitement plutôt que de rester silencieusement vide. Dirigeant actuel : source Wikidata (pas une source officielle française — CNCCFP et ministère de l'Intérieur vérifiés, aucun n'expose cette donnée proprement, cf. pipeline/partis.py), récupéré en direct à chaque publication pour refléter un changement sans intervention manuelle. Aucune tendance politique (droite/gauche/centre/extrême) : même l'Arcom a cessé de classer les partis par courant depuis 2018, jugé trop clivant — cette appli fait le même choix. Comptes annuels et financement public : source CNCCFP (data.gouv.fr), comptes d'ensemble déclarés par chaque parti, aide publique détaillée par fraction — réinterrogé à chaque run, choisit automatiquement l'exercice le plus récent publié.",
   "nb_deputes_non_inscrits": 37,
   "source_url": "https://data.assemblee-nationale.fr/acteurs/deputes-en-exercice",
+  "comptes_cnccfp_annee_exercice": 2024,
+  "comptes_cnccfp_source_url": "https://static.data.gouv.fr/resources/comptes-des-partis-et-groupements-politiques/20260210-110641/comptes-partis-exercice-2024.csv",
+  "comptes_cnccfp_date_maj_source": "2026-02-10T11:06:41.842000+00:00",
   "partis": [
     {
       "nom": "A here ia Porinetia",
@@ -10,7 +13,17 @@
       "lien_programme_officiel": null,
       "date_releve_lien": null,
       "dirigeant_nom": null,
-      "dirigeant_wikipedia": null
+      "dirigeant_wikipedia": null,
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 18814,
+        "aide_publique_2nde_fraction": 0,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 26631,
+        "dons_personnes_physiques": 16714,
+        "total_produits": 86402,
+        "total_charges": 104971,
+        "excedent_ou_deficit": -18569
+      }
     },
     {
       "nom": "Alliance centriste",
@@ -18,7 +31,17 @@
       "lien_programme_officiel": "https://alliancecentriste.fr/",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": "Jean Arthuis",
-      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Jean_Arthuis"
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Jean_Arthuis",
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 151279,
+        "aide_publique_2nde_fraction": 593909,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 642,
+        "dons_personnes_physiques": 6570,
+        "total_produits": 884335,
+        "total_charges": 1000901,
+        "excedent_ou_deficit": -116566
+      }
     },
     {
       "nom": "Archipel demain",
@@ -26,7 +49,17 @@
       "lien_programme_officiel": null,
       "date_releve_lien": null,
       "dirigeant_nom": "Gérard Grignon",
-      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Gérard_Grignon"
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Gérard_Grignon",
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 0,
+        "aide_publique_2nde_fraction": 0,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 150,
+        "dons_personnes_physiques": 610,
+        "total_produits": 41805,
+        "total_charges": 23634,
+        "excedent_ou_deficit": 18171
+      }
     },
     {
       "nom": "Association ambition Réunion",
@@ -34,7 +67,17 @@
       "lien_programme_officiel": null,
       "date_releve_lien": null,
       "dirigeant_nom": null,
-      "dirigeant_wikipedia": null
+      "dirigeant_wikipedia": null,
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 16537,
+        "aide_publique_2nde_fraction": 74239,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 0,
+        "dons_personnes_physiques": 24900,
+        "total_produits": 115762,
+        "total_charges": 52683,
+        "excedent_ou_deficit": 63079
+      }
     },
     {
       "nom": "Debout la France",
@@ -42,7 +85,17 @@
       "lien_programme_officiel": "https://www.debout-la-france.fr/",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": "Nicolas Dupont-Aignan",
-      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": null,
+        "aide_publique_2nde_fraction": 0,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 94912,
+        "dons_personnes_physiques": null,
+        "total_produits": null,
+        "total_charges": null,
+        "excedent_ou_deficit": null
+      }
     },
     {
       "nom": "Ensemble ! (majorité présidentielle)",
@@ -50,7 +103,17 @@
       "lien_programme_officiel": "https://ensemble-2024.fr/notre-projet",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": null,
-      "dirigeant_wikipedia": null
+      "dirigeant_wikipedia": null,
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 8821573,
+        "aide_publique_2nde_fraction": 10653234,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 0,
+        "dons_personnes_physiques": 0,
+        "total_produits": 19474809,
+        "total_charges": 19482051,
+        "excedent_ou_deficit": -7241
+      }
     },
     {
       "nom": "Générations NC",
@@ -58,7 +121,8 @@
       "lien_programme_officiel": "https://generations.nc/le-projet-de-generations/",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": null,
-      "dirigeant_wikipedia": null
+      "dirigeant_wikipedia": null,
+      "comptes_cnccfp": null
     },
     {
       "nom": "Horizons",
@@ -66,7 +130,17 @@
       "lien_programme_officiel": "https://horizonsleparti.fr/",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": "Édouard Philippe",
-      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Édouard_Philippe"
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Édouard_Philippe",
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 0,
+        "aide_publique_2nde_fraction": 0,
+        "autres_aides_publiques": 3000,
+        "cotisations_adherents": 252106,
+        "dons_personnes_physiques": 693412,
+        "total_produits": 3530387,
+        "total_charges": 2730482,
+        "excedent_ou_deficit": 799905
+      }
     },
     {
       "nom": "La France Insoumise",
@@ -74,7 +148,17 @@
       "lien_programme_officiel": "https://programme.lafranceinsoumise.fr/",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": "Manuel Bompard",
-      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Manuel_Bompard"
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Manuel_Bompard",
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 5272338,
+        "aide_publique_2nde_fraction": 2672588,
+        "autres_aides_publiques": 6000,
+        "cotisations_adherents": 0,
+        "dons_personnes_physiques": 1315768,
+        "total_produits": 13786068,
+        "total_charges": 15095618,
+        "excedent_ou_deficit": -1309550
+      }
     },
     {
       "nom": "Les Républicains",
@@ -82,7 +166,17 @@
       "lien_programme_officiel": "https://republicains.fr/nos-idees/",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": "Bruno Retailleau",
-      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 2298781,
+        "aide_publique_2nde_fraction": 7201141,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 904225,
+        "dons_personnes_physiques": 1298478,
+        "total_produits": 15687744,
+        "total_charges": 15536899,
+        "excedent_ou_deficit": 150845
+      }
     },
     {
       "nom": "Les Écologistes - EELV",
@@ -90,7 +184,17 @@
       "lien_programme_officiel": "https://projet.lesecologistes.fr/",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": "Marine Tondelier",
-      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 1749335,
+        "aide_publique_2nde_fraction": 1447652,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 1237361,
+        "dons_personnes_physiques": 316557,
+        "total_produits": 8790155,
+        "total_charges": 7877896,
+        "excedent_ou_deficit": 912259
+      }
     },
     {
       "nom": "Mouvement de décolonisation et d'émancipation sociale",
@@ -98,7 +202,17 @@
       "lien_programme_officiel": null,
       "date_releve_lien": null,
       "dirigeant_nom": null,
-      "dirigeant_wikipedia": null
+      "dirigeant_wikipedia": null,
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 70527,
+        "aide_publique_2nde_fraction": 0,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 16979,
+        "dons_personnes_physiques": 0,
+        "total_produits": 87506,
+        "total_charges": 54297,
+        "excedent_ou_deficit": 33209
+      }
     },
     {
       "nom": "Parti communiste français",
@@ -106,7 +220,17 @@
       "lien_programme_officiel": "https://www.pcf.fr/le_programme",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": null,
-      "dirigeant_wikipedia": null
+      "dirigeant_wikipedia": null,
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": null,
+        "aide_publique_2nde_fraction": null,
+        "autres_aides_publiques": null,
+        "cotisations_adherents": null,
+        "dons_personnes_physiques": null,
+        "total_produits": null,
+        "total_charges": 32343309,
+        "excedent_ou_deficit": null
+      }
     },
     {
       "nom": "Parti progressiste démocratique guadeloupéen",
@@ -114,7 +238,17 @@
       "lien_programme_officiel": null,
       "date_releve_lien": null,
       "dirigeant_nom": null,
-      "dirigeant_wikipedia": null
+      "dirigeant_wikipedia": null,
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 12733,
+        "aide_publique_2nde_fraction": 111358,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 2920,
+        "dons_personnes_physiques": 0,
+        "total_produits": 128801,
+        "total_charges": 94932,
+        "excedent_ou_deficit": 33869
+      }
     },
     {
       "nom": "Parti socialiste",
@@ -122,7 +256,17 @@
       "lien_programme_officiel": "https://projet-socialiste.fr/projet/",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": "Olivier Faure",
-      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Olivier_Faure_(homme_politique)"
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Olivier_Faure_(homme_politique)",
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 1370704,
+        "aide_publique_2nde_fraction": 3303616,
+        "autres_aides_publiques": 5000,
+        "cotisations_adherents": 2153212,
+        "dons_personnes_physiques": 333010,
+        "total_produits": 15742678,
+        "total_charges": 16992166,
+        "excedent_ou_deficit": -1249488
+      }
     },
     {
       "nom": "Pour la Réunion",
@@ -130,7 +274,17 @@
       "lien_programme_officiel": null,
       "date_releve_lien": null,
       "dirigeant_nom": "Huguette Bello",
-      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Huguette_Bello"
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Huguette_Bello",
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": null,
+        "aide_publique_2nde_fraction": null,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 18604,
+        "dons_personnes_physiques": 113340,
+        "total_produits": null,
+        "total_charges": null,
+        "excedent_ou_deficit": null
+      }
     },
     {
       "nom": "Progrès-974",
@@ -138,7 +292,17 @@
       "lien_programme_officiel": null,
       "date_releve_lien": null,
       "dirigeant_nom": null,
-      "dirigeant_wikipedia": null
+      "dirigeant_wikipedia": null,
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": null,
+        "aide_publique_2nde_fraction": null,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 11760,
+        "dons_personnes_physiques": 0,
+        "total_produits": null,
+        "total_charges": null,
+        "excedent_ou_deficit": null
+      }
     },
     {
       "nom": "Péyi-A",
@@ -146,7 +310,17 @@
       "lien_programme_officiel": null,
       "date_releve_lien": null,
       "dirigeant_nom": "Jean-Philippe Nilor",
-      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Jean-Philippe_Nilor"
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Jean-Philippe_Nilor",
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 21748,
+        "aide_publique_2nde_fraction": 111358,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 6865,
+        "dons_personnes_physiques": 630,
+        "total_produits": 160229,
+        "total_charges": 174274,
+        "excedent_ou_deficit": -14045
+      }
     },
     {
       "nom": "Rassemblement national",
@@ -154,7 +328,17 @@
       "lien_programme_officiel": "https://rassemblementnational.fr/legislatives-2024",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": "Jordan Bardella",
-      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Jordan_Bardella"
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 6797831,
+        "aide_publique_2nde_fraction": 3377855,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 3071583,
+        "dons_personnes_physiques": 1030789,
+        "total_produits": 18704246,
+        "total_charges": 19220251,
+        "excedent_ou_deficit": -516005
+      }
     },
     {
       "nom": "Régions et peuples solidaires",
@@ -162,7 +346,17 @@
       "lien_programme_officiel": "https://www.federation-rps.org/programme/",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": null,
-      "dirigeant_wikipedia": null
+      "dirigeant_wikipedia": null,
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 580920,
+        "aide_publique_2nde_fraction": 482551,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 0,
+        "dons_personnes_physiques": 4275,
+        "total_produits": 1083261,
+        "total_charges": 1150697,
+        "excedent_ou_deficit": -67436
+      }
     },
     {
       "nom": "Rézistan's Égalité 974",
@@ -170,7 +364,17 @@
       "lien_programme_officiel": null,
       "date_releve_lien": null,
       "dirigeant_nom": "Jean-Hugues Ratenon",
-      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Jean-Hugues_Ratenon"
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Jean-Hugues_Ratenon",
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 0,
+        "aide_publique_2nde_fraction": null,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 380,
+        "dons_personnes_physiques": 10,
+        "total_produits": null,
+        "total_charges": null,
+        "excedent_ou_deficit": null
+      }
     },
     {
       "nom": "Tapura Huiraatira",
@@ -178,7 +382,17 @@
       "lien_programme_officiel": null,
       "date_releve_lien": null,
       "dirigeant_nom": "Édouard Fritch",
-      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Édouard_Fritch"
+      "dirigeant_wikipedia": "https://fr.wikipedia.org/wiki/Édouard_Fritch",
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": null,
+        "aide_publique_2nde_fraction": 0,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": null,
+        "dons_personnes_physiques": null,
+        "total_produits": null,
+        "total_charges": null,
+        "excedent_ou_deficit": null
+      }
     },
     {
       "nom": "Tavini Huiraatira No Te Ao Ma'ohi - Front de libération de Polynésie",
@@ -186,7 +400,17 @@
       "lien_programme_officiel": "https://tavini-huiraatira.com/",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": null,
-      "dirigeant_wikipedia": null
+      "dirigeant_wikipedia": null,
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 0,
+        "aide_publique_2nde_fraction": 0,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 6704,
+        "dons_personnes_physiques": 1944,
+        "total_produits": 284887,
+        "total_charges": 172185,
+        "excedent_ou_deficit": 112702
+      }
     },
     {
       "nom": "UDR - Union des Droites pour la République",
@@ -194,7 +418,17 @@
       "lien_programme_officiel": "https://www.udr.fr/",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": null,
-      "dirigeant_wikipedia": null
+      "dirigeant_wikipedia": null,
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 0,
+        "aide_publique_2nde_fraction": 0,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 267748,
+        "dons_personnes_physiques": 429783,
+        "total_produits": 760013,
+        "total_charges": 618066,
+        "excedent_ou_deficit": 141947
+      }
     },
     {
       "nom": "Union des démocrates européens, centristes et indépendants",
@@ -202,7 +436,17 @@
       "lien_programme_officiel": "https://www.parti-udi.fr/",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": null,
-      "dirigeant_wikipedia": null
+      "dirigeant_wikipedia": null,
+      "comptes_cnccfp": {
+        "aide_publique_1ere_fraction": 379506,
+        "aide_publique_2nde_fraction": 1855964,
+        "autres_aides_publiques": 0,
+        "cotisations_adherents": 0,
+        "dons_personnes_physiques": 0,
+        "total_produits": 2235470,
+        "total_charges": 2237429,
+        "excedent_ou_deficit": -1960
+      }
     }
   ]
 }

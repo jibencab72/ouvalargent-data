@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-15T05:14:08.636702+00:00",
+  "genere_le": "2026-08-16T05:25:51.256375+00:00",
   "institutions": {
     "presidence": {
       "nom": "Présidence de la République",
@@ -27,7 +27,7 @@
           "valeur_euros": 77000000,
           "annee_exercice": 2024,
           "statut": "execute",
-          "source_url": "https://www.ccomptes.fr/sites/default/files/2025-07/20250716-Comptes-et-gestion-presidence-de-la-Republique-2024.pdf",
+          "source_url": "https://www.ccomptes.fr/fr/publications/les-comptes-et-la-gestion-des-services-de-la-presidence-de-la-republique-exercice-2024",
           "source_nom": "Cour des comptes, exercice 2024 — « les charges de personnel s'élèvent à 77 M€ en 2024 contre 73,7 M€ en 2023 (+4,5%) »",
           "date_releve": "2026-08-08T00:00:00+00:00"
         },
@@ -36,7 +36,7 @@
           "valeur_euros": 20100000,
           "annee_exercice": 2024,
           "statut": "execute",
-          "source_url": "https://www.ccomptes.fr/sites/default/files/2025-07/20250716-Comptes-et-gestion-presidence-de-la-Republique-2024.pdf",
+          "source_url": "https://www.ccomptes.fr/fr/publications/les-comptes-et-la-gestion-des-services-de-la-presidence-de-la-republique-exercice-2024",
           "source_nom": "Cour des comptes, exercice 2024 — 94 déplacements, -13% par rapport à 2023",
           "date_releve": "2026-08-08T00:00:00+00:00"
         },

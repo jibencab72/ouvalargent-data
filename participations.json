@@ -1,0 +1,610 @@
+{
+  "genere_le": "2026-08-16T05:26:32.550782+00:00",
+  "note_methode": "Liste des participations DIRECTES de l'État (pas les filiales — ex. SNCF Réseau, SNCF Voyageurs, Keolis ne sont pas listées séparément, elles dépendent de SNCF, elle-même détenue à 100 % par l'État). Source unique et officielle : l'annexe « Jaune budgétaire — Rapport relatif à l'État actionnaire », publiée une fois par an par la direction du budget et annexée au projet de loi de finances — pas de donnée ouverte interrogeable équivalente, ce tableau n'existe qu'en PDF. Pourcentages et chiffres d'affaires au titre de l'exercice 2024 (édition annexée au PLF 2026, la plus récente disponible au moment du relevé).",
+  "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+  "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+  "date_releve": "2026-08-15T00:00:00+00:00",
+  "annee_exercice": 2024,
+  "participations": [
+    {
+      "nom": "Areva",
+      "secteur": "Énergie",
+      "pourcentage_detenu": 99.88,
+      "chiffre_affaires_millions_euros": 16,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "EDF",
+      "secteur": "Énergie",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 118690,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Engie",
+      "secteur": "Énergie",
+      "pourcentage_detenu": 23.64,
+      "chiffre_affaires_millions_euros": 73812,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Eramet",
+      "secteur": "Énergie",
+      "pourcentage_detenu": 27.13,
+      "chiffre_affaires_millions_euros": 2933,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "FSI Equation",
+      "secteur": "Énergie",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 0,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Laboratoire français du fractionnement et des biotechnologies (LFB)",
+      "secteur": "Énergie",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 600,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Orano",
+      "secteur": "Énergie",
+      "pourcentage_detenu": 90.33,
+      "chiffre_affaires_millions_euros": 5874,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Airbus",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 10.83,
+      "chiffre_affaires_millions_euros": 69230,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Chantiers de l'Atlantique",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 84.34,
+      "chiffre_affaires_millions_euros": 2540,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Défense Conseil International (DCI)",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 34.0,
+      "chiffre_affaires_millions_euros": 304,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Giat Industries (Nexter)",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 0,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "John Cockerill Defense",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 10.0,
+      "chiffre_affaires_millions_euros": 126,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Monnaie de Paris",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 194,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Naval Group",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 62.25,
+      "chiffre_affaires_millions_euros": 4355,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Odas",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 34.0,
+      "chiffre_affaires_millions_euros": null,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Renault",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 15.01,
+      "chiffre_affaires_millions_euros": 56232,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Safran",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 11.58,
+      "chiffre_affaires_millions_euros": 27716,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "SNPE",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 488,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Sogepa",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 0,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "TechnicAtome",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 50.32,
+      "chiffre_affaires_millions_euros": 633,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Thales",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 26.6,
+      "chiffre_affaires_millions_euros": 20577,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "TSA",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 0,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Alcatel Submarine Networks (ASN)",
+      "secteur": "Industrie",
+      "pourcentage_detenu": 80.0,
+      "chiffre_affaires_millions_euros": null,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Arte France",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 25.01,
+      "chiffre_affaires_millions_euros": 234,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Consortium de réalisation (CDR)",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 0,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Dexia",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 46.81,
+      "chiffre_affaires_millions_euros": 70,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Bpifrance (EPIC)",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 0,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "FDJ United (La Française des Jeux)",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 21.09,
+      "chiffre_affaires_millions_euros": 3065,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "France Médias Monde",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 331,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "France Télévisions",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 3296,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "IN Groupe",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 548,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "La Poste",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 34.0,
+      "chiffre_affaires_millions_euros": 34569,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Orange",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 13.39,
+      "chiffre_affaires_millions_euros": 40260,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Radio France",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 762,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Semmaris (marché de Rungis)",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 33.34,
+      "chiffre_affaires_millions_euros": 160,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Société pour le logement intermédiaire (SLI)",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 0,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Société de prise de participation de l'État (SPPE)",
+      "secteur": "Services et finance",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 0,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Aéroport de Bordeaux-Mérignac",
+      "secteur": "Transports",
+      "pourcentage_detenu": 60.0,
+      "chiffre_affaires_millions_euros": 95,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Aéroport de Guadeloupe (Pôle Caraïbes)",
+      "secteur": "Transports",
+      "pourcentage_detenu": 60.0,
+      "chiffre_affaires_millions_euros": 70,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Aéroport de Marseille-Provence",
+      "secteur": "Transports",
+      "pourcentage_detenu": 60.0,
+      "chiffre_affaires_millions_euros": 197,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Aéroport de Martinique (Aimé Césaire)",
+      "secteur": "Transports",
+      "pourcentage_detenu": 60.0,
+      "chiffre_affaires_millions_euros": 61,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Aéroport de Montpellier-Méditerranée",
+      "secteur": "Transports",
+      "pourcentage_detenu": 60.0,
+      "chiffre_affaires_millions_euros": 34,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Aéroport de La Réunion (Roland Garros)",
+      "secteur": "Transports",
+      "pourcentage_detenu": 60.0,
+      "chiffre_affaires_millions_euros": 88,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Aéroport de Strasbourg-Entzheim",
+      "secteur": "Transports",
+      "pourcentage_detenu": 62.87,
+      "chiffre_affaires_millions_euros": 25,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Air France-KLM",
+      "secteur": "Transports",
+      "pourcentage_detenu": 27.98,
+      "chiffre_affaires_millions_euros": 31459,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "ATMB (Autoroute et tunnel du Mont-Blanc)",
+      "secteur": "Transports",
+      "pourcentage_detenu": 67.3,
+      "chiffre_affaires_millions_euros": 211,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Caisse nationale des autoroutes",
+      "secteur": "Transports",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 0,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Grand port maritime de Bordeaux",
+      "secteur": "Transports",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 45,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Grand port maritime de Dunkerque",
+      "secteur": "Transports",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 114,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Grand port maritime de Guadeloupe",
+      "secteur": "Transports",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 48,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Grand port maritime de La Rochelle",
+      "secteur": "Transports",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 31,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Grand port maritime de Marseille",
+      "secteur": "Transports",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 275,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Grand port maritime de Martinique",
+      "secteur": "Transports",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 36,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Grand port maritime de Nantes Saint-Nazaire",
+      "secteur": "Transports",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 95,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Grand port maritime de La Réunion",
+      "secteur": "Transports",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 62,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "Groupe ADP (Aéroports de Paris)",
+      "secteur": "Transports",
+      "pourcentage_detenu": 50.63,
+      "chiffre_affaires_millions_euros": 6158,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "HAROPA Port",
+      "secteur": "Transports",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 436,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "RATP",
+      "secteur": "Transports",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 7140,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "SFTRF (tunnel du Fréjus)",
+      "secteur": "Transports",
+      "pourcentage_detenu": 99.94,
+      "chiffre_affaires_millions_euros": 228,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "nom": "SNCF",
+      "secteur": "Transports",
+      "pourcentage_detenu": 100.0,
+      "chiffre_affaires_millions_euros": 43354,
+      "annee_exercice": 2024,
+      "source_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+      "source_nom": "Rapport relatif à l'État actionnaire, annexe au PLF 2026 (Annexe 1, données 2024)",
+      "date_releve": "2026-08-15T00:00:00+00:00"
+    }
+  ]
+}
