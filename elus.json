@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-16T05:25:52.730519+00:00",
+  "genere_le": "2026-08-17T06:07:58.790361+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -2429,7 +2429,7 @@
       "prenom": "Chantal",
       "parti": null,
       "profession": "Retraitée",
-      "uri_hatvp": null
+      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/bouloux-chantal-24618"
     },
     {
       "type": "depute",
@@ -3485,7 +3485,7 @@
       "prenom": "Emmanuelle",
       "parti": null,
       "profession": "Avocate",
-      "uri_hatvp": null
+      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/hoffman-emmanuelle-28149"
     },
     {
       "type": "depute",

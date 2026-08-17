@@ -1,0 +1,27 @@
+{
+  "genere_le": "2026-08-17T06:08:37.920765+00:00",
+  "date_releve": "2026-08-16T00:00:00+00:00",
+  "calendrier": {
+    "premier_tour": "2027-04-18",
+    "second_tour": "2027-05-02",
+    "statut": "Dates retenues par le gouvernement, annoncées en Conseil des ministres le 1ᵉʳ juillet 2026. Le décret officiel de convocation des électeurs — l'acte qui les fixe juridiquement de façon définitive — est habituellement publié plus près de l'échéance (quelques semaines avant le scrutin), pas un an à l'avance.",
+    "note_outre_mer": "En Guadeloupe, Martinique, Guyane, à Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin et en Polynésie française, le vote a lieu la veille (décalage horaire) : samedis 17 avril et 1er mai 2027.",
+    "source_url": "https://www.elections.interieur.gouv.fr/scrutins/lelection-presidentielle"
+  },
+  "mode_scrutin": {
+    "libelle": "Scrutin uninominal majoritaire à deux tours",
+    "explication": "Élu au 1ᵉʳ tour en cas de majorité absolue des suffrages exprimés ; sinon, second tour deux semaines plus tard entre les deux candidats arrivés en tête au premier tour.",
+    "duree_mandat": "5 ans (quinquennat, renouvelable une fois consécutivement — art. 6 de la Constitution)"
+  },
+  "qui_peut_voter": "Citoyens français majeurs (18 ans révolus le jour du scrutin), inscrits sur les listes électorales, jouissant de leurs droits civiques et politiques.",
+  "conditions_candidature": {
+    "eligibilite": "Nationalité française, 18 ans révolus, inscrit sur une liste électorale, satisfaire aux règles de financement de campagne.",
+    "parrainages_requis": 500,
+    "regle_repartition": "Les 500 parrainages doivent provenir d'élus habilités (parlementaires, élus locaux) d'au moins 30 départements ou collectivités d'outre-mer différents, sans que plus d'un dixième d'entre eux ne proviennent du même département ou de la même collectivité.",
+    "publicite": "Depuis la loi organique de 2016, l'intégralité des noms des élus parrains est publiée par le Conseil constitutionnel (fin de l'ancien tirage au sort de 500 noms sur l'ensemble reçu).",
+    "destinataire": "Conseil constitutionnel",
+    "source_url": "https://www.conseil-constitutionnel.fr/le-parrainage-des-candidats-a-l-election-presidentielle"
+  },
+  "note_candidats": "Aucune candidature n'est officiellement déposée à ce stade (relevé le 2026-08-16, 8 mois avant le scrutin) — le dépôt et la validation des candidatures par le Conseil constitutionnel n'interviennent que dans les semaines précédant l'élection. Cette page sera complétée avec la liste officielle dès sa publication : jamais un nom ajouté par anticipation, une intention prêtée à quelqu'un, ou une source de presse plutôt qu'institutionnelle.",
+  "candidats_officiels": []
+}
