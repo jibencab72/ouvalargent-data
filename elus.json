@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-17T06:07:58.790361+00:00",
+  "genere_le": "2026-08-19T05:29:42.772580+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -5371,6 +5371,14 @@
     },
     {
       "type": "senateur",
+      "nom": "Camerac",
+      "prenom": "Anne",
+      "groupe_parlementaire": "Les Indépendants",
+      "circonscription": "Aisne",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Canalès",
       "prenom": "Marion",
       "groupe_parlementaire": "SER",
@@ -7616,14 +7624,6 @@
       "groupe_parlementaire": "UC",
       "circonscription": "Jura",
       "profession": "Comptable"
-    },
-    {
-      "type": "senateur",
-      "nom": "Verzelen",
-      "prenom": "Pierre-Jean",
-      "groupe_parlementaire": "Les Indépendants",
-      "circonscription": "Aisne",
-      "profession": "Cadre supérieur"
     },
     {
       "type": "senateur",

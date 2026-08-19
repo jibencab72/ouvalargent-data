@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-17T06:08:28.166873+00:00",
+  "genere_le": "2026-08-19T05:30:24.482559+00:00",
   "source": "api-lannuaire.service-public.fr (DILA, Premier ministre)",
   "prefets": [
     {
@@ -329,14 +329,14 @@
     {
       "code_departement": "91",
       "nom_departement": "Essonne",
-      "civilite": "Mme",
-      "prenom": "Fabienne",
-      "nom": "BALUSSOU",
-      "fonction": "Préfète",
-      "grade": "administratrice de l'État",
-      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052143823",
-      "libelle_nomination_jorf": "JORF n°0199 du 28 août 2025",
-      "date_maj_source": "2026-07-13T14:53:12+00:00"
+      "civilite": null,
+      "prenom": null,
+      "nom": null,
+      "fonction": "Préfet",
+      "grade": null,
+      "lien_nomination_jorf": null,
+      "libelle_nomination_jorf": null,
+      "date_maj_source": "2026-08-17T16:43:59+00:00"
     },
     {
       "code_departement": "27",
@@ -377,14 +377,14 @@
     {
       "code_departement": "30",
       "nom_departement": "Gard",
-      "civilite": "M.",
-      "prenom": "Jérôme",
-      "nom": "BONET",
-      "fonction": "Préfet",
-      "grade": "",
-      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047836360",
-      "libelle_nomination_jorf": "JORF n°0162 du 14 juillet 2023",
-      "date_maj_source": "2026-07-13T08:40:21+00:00"
+      "civilite": "Mme",
+      "prenom": "Fabienne",
+      "nom": "DECOTTIGNIES",
+      "fonction": "Préfète",
+      "grade": "administratrice de l'État hors classe",
+      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054457754",
+      "libelle_nomination_jorf": "JORF n°0170 du 23 juillet 2026",
+      "date_maj_source": "2026-08-17T12:25:17+00:00"
     },
     {
       "code_departement": "32",
@@ -432,7 +432,7 @@
       "grade": "",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047836319",
       "libelle_nomination_jorf": "JORF n°0162 du 14 juillet 2023",
-      "date_maj_source": "2026-07-20T14:19:19+00:00"
+      "date_maj_source": "2026-08-17T15:30:01+00:00"
     },
     {
       "code_departement": "68",
@@ -497,14 +497,14 @@
     {
       "code_departement": "74",
       "nom_departement": "Haute-Savoie",
-      "civilite": "Mme",
-      "prenom": "Emmanuelle",
-      "nom": "DUBÉE",
-      "fonction": "Préfète de la région Bretagne, préfète de la zone de défense et de sécurité Ouest, préfète d'Ille-et-Vilaine",
-      "grade": "administratrice de l'État",
-      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054306137",
-      "libelle_nomination_jorf": "JORF n°0147 du 25 juin 2026",
-      "date_maj_source": "2026-07-03T14:08:30+00:00"
+      "civilite": "M.",
+      "prenom": "Jérôme",
+      "nom": "BONET",
+      "fonction": "Préfet",
+      "grade": "",
+      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054457747",
+      "libelle_nomination_jorf": "JORF n°0170 du 23 juillet 2026",
+      "date_maj_source": "2026-08-17T12:22:11+00:00"
     },
     {
       "code_departement": "70",
@@ -869,14 +869,14 @@
     {
       "code_departement": "58",
       "nom_departement": "Nièvre",
-      "civilite": "Mme",
-      "prenom": "Fabienne",
-      "nom": "DECOTTIGNIES",
+      "civilite": null,
+      "prenom": null,
+      "nom": null,
       "fonction": "Préfète",
-      "grade": "administratrice de l'État hors classe",
-      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050392837",
-      "libelle_nomination_jorf": "JORF n°0253 du 24 octobre 2024",
-      "date_maj_source": "2026-06-25T14:44:25+00:00"
+      "grade": null,
+      "lien_nomination_jorf": null,
+      "libelle_nomination_jorf": null,
+      "date_maj_source": "2026-08-17T12:24:23+00:00"
     },
     {
       "code_departement": "59",
@@ -900,7 +900,7 @@
       "grade": "",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050456649",
       "libelle_nomination_jorf": "JORF n°0264 du 7 novembre 2024",
-      "date_maj_source": "2026-06-23T13:54:09+00:00"
+      "date_maj_source": "2026-08-17T12:36:59+00:00"
     },
     {
       "code_departement": "61",
