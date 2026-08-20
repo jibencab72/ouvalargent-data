@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-20T05:33:17.223967+00:00",
+  "genere_le": "2026-08-20T16:20:45.049937+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -40,6 +40,24 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_patrimoine_immobilier_etat_17e"
     },
     {
+      "uid": "DLR5L17N54006",
+      "titre": "Pour une montagne vivante et souveraine",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "promulguee",
+      "date_promulgation": "2026-08-18T00:00:00.000+02:00",
+      "derniere_activite": "2026-08-18T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e"
+    },
+    {
+      "uid": "DLR5L17N53980",
+      "titre": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "promulguee",
+      "date_promulgation": "2026-08-18T00:00:00.000+02:00",
+      "derniere_activite": "2026-08-18T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53980"
+    },
+    {
       "uid": "DLR5L17N54083",
       "titre": "Projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
       "procedure": "Projet de loi ordinaire",
@@ -56,24 +74,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-08-14T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
-    },
-    {
-      "uid": "DLR5L17N54006",
-      "titre": "Pour une montagne vivante et souveraine",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-08-14T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e"
-    },
-    {
-      "uid": "DLR5L17N53980",
-      "titre": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-08-14T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53980"
     },
     {
       "uid": "DLR5L17N54776",
