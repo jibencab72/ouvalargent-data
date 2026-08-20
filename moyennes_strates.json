@@ -10,7 +10,7 @@
         "recettes_fonctionnement": 1719.5299609254091,
         "depenses_investissement": 1044.8393379541742,
         "recettes_investissement": 620.0861043690519,
-        "depenses_totales": 2344.2315237873568,
+        "depenses_totales": 2344.231523787357,
         "recettes_totales": 2339.616065294461,
         "dette": 733.5334759696484
       }
@@ -34,7 +34,7 @@
       "moyennes_euros_par_habitant": {
         "depenses_fonctionnement": 1405.285483992178,
         "recettes_fonctionnement": 1619.5864771988631,
-        "depenses_investissement": 511.4656166577882,
+        "depenses_investissement": 511.46561665778825,
         "recettes_investissement": 295.79075287520857,
         "depenses_totales": 1916.751100649966,
         "recettes_totales": 1915.3772300740716,
@@ -45,7 +45,7 @@
       "libelle": "200 à 499 habitants",
       "nb_communes": 9396,
       "moyennes_euros_par_habitant": {
-        "depenses_fonctionnement": 745.3951886906914,
+        "depenses_fonctionnement": 745.3951886906915,
         "recettes_fonctionnement": 938.5373255762183,
         "depenses_investissement": 522.8870869840487,
         "recettes_investissement": 311.2729317971799,
@@ -74,7 +74,7 @@
         "depenses_fonctionnement": 885.1104740891883,
         "recettes_fonctionnement": 1080.7584515735693,
         "depenses_investissement": 526.1466677146636,
-        "recettes_investissement": 294.8455533308479,
+        "recettes_investissement": 294.84555333084785,
         "depenses_totales": 1411.257141803852,
         "recettes_totales": 1375.6040049044175,
         "dette": 658.3137220523987
@@ -87,7 +87,7 @@
         "depenses_fonctionnement": 1009.2222422902223,
         "recettes_fonctionnement": 1230.9748202718506,
         "depenses_investissement": 546.3630326405748,
-        "recettes_investissement": 288.6713350813762,
+        "recettes_investissement": 288.67133508137624,
         "depenses_totales": 1555.5852749307971,
         "recettes_totales": 1519.646155353227,
         "dette": 716.8882043651698
@@ -114,7 +114,7 @@
         "recettes_fonctionnement": 1461.3538350949334,
         "depenses_investissement": 537.9630479810095,
         "recettes_investissement": 296.9864298906696,
-        "depenses_totales": 1789.5553992739547,
+        "depenses_totales": 1789.5553992739544,
         "recettes_totales": 1758.3402649856032,
         "dette": 808.0441475496825
       }
@@ -126,7 +126,7 @@
         "depenses_fonctionnement": 1381.4356607299299,
         "recettes_fonctionnement": 1582.7902888773176,
         "depenses_investissement": 545.8224939952274,
-        "recettes_investissement": 317.60070560136586,
+        "recettes_investissement": 317.6007056013659,
         "depenses_totales": 1927.2581547251573,
         "recettes_totales": 1900.3909944786835,
         "dette": 968.7608113734899
@@ -140,7 +140,7 @@
         "recettes_fonctionnement": 1747.8195895686374,
         "depenses_investissement": 645.034418606431,
         "recettes_investissement": 387.8665412018578,
-        "depenses_totales": 2156.1984304001385,
+        "depenses_totales": 2156.198430400138,
         "recettes_totales": 2135.6861307704953,
         "dette": 1332.1992530743657
       }
