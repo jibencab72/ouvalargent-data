@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-21T05:59:54.153236+00:00",
+  "genere_le": "2026-08-22T05:16:57.428916+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -40,6 +40,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_patrimoine_immobilier_etat_17e"
     },
     {
+      "uid": "DLR5L17N54798",
+      "titre": "Proposition de loi visant à sécuriser le financement des dessertes ferroviaires d'aménagement du territoire",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-18T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54798"
+    },
+    {
       "uid": "DLR5L17N54006",
       "titre": "Pour une montagne vivante et souveraine",
       "procedure": "Proposition de loi ordinaire",
@@ -58,6 +67,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53980"
     },
     {
+      "uid": "DLR5L17N54797",
+      "titre": "Proposition de loi visant à renforcer la résilience des territoires forestiers et de leurs infrastructures face aux risques climatiques",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-17T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54797"
+    },
+    {
       "uid": "DLR5L17N54083",
       "titre": "Projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
       "procedure": "Projet de loi ordinaire",
@@ -74,6 +92,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-08-14T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
+    },
+    {
+      "uid": "DLR5L17N54796",
+      "titre": "Proposition de loi tendant à modifier la loi n° 94-665 du 4 août 1994 relative à l'emploi de la langue française, dite « loi Toubon »",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-12T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54796"
     },
     {
       "uid": "DLR5L17N54776",
