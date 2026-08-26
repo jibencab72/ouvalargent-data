@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-25T06:01:10.585604+00:00",
+  "genere_le": "2026-08-26T06:08:18.395685+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -5587,14 +5587,6 @@
     },
     {
       "type": "senateur",
-      "nom": "Cotillot",
-      "prenom": "Annouck",
-      "groupe_parlementaire": "RDPI",
-      "circonscription": "Côte-d'Or",
-      "profession": null
-    },
-    {
-      "type": "senateur",
       "nom": "Courtial",
       "prenom": "Édouard",
       "groupe_parlementaire": "UC",
@@ -6679,6 +6671,14 @@
       "prenom": "Victorin",
       "groupe_parlementaire": "SER",
       "circonscription": "Guadeloupe",
+      "profession": null
+    },
+    {
+      "type": "senateur",
+      "nom": "Maingault",
+      "prenom": "Didier",
+      "groupe_parlementaire": "NI",
+      "circonscription": "Côte-d'Or",
       "profession": null
     },
     {

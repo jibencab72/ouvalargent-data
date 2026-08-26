@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-25T06:01:40.124402+00:00",
+  "genere_le": "2026-08-26T06:08:43.683142+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -11,6 +11,42 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-16T15:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement_2"
+    },
+    {
+      "uid": "DLR5L17N54817",
+      "titre": "Renforcer la responsabilité des occupants et des bailleurs dans le logement social",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-25T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_responsabilite_occupants_bailleurs_logement_social_17e"
+    },
+    {
+      "uid": "DLR5L17N54816",
+      "titre": "Garantir un juste équilibre entre contrôle, sanctions et accompagnement dans l'assainissement non-collectif",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-25T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/equilibre_controle_sanctions_assainissement_17e"
+    },
+    {
+      "uid": "DLR5L17N54818",
+      "titre": "Création du délit de complicité et recel d’ingérence étrangère",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-25T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/delit_complicite_recel_ingerence_17e"
+    },
+    {
+      "uid": "DLR5L17N53187",
+      "titre": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "promulguee",
+      "date_promulgation": "2026-08-24T00:00:00.000+02:00",
+      "derniere_activite": "2026-08-24T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
     },
     {
       "uid": "DLR5L17N51670",
@@ -83,15 +119,6 @@
       "date_promulgation": "2026-08-16T00:00:00.000+02:00",
       "derniere_activite": "2026-08-16T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_actualisation_loi_programmation_militaire_annees_2024_2030_diverses_dispositions_defense"
-    },
-    {
-      "uid": "DLR5L17N53187",
-      "titre": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-08-14T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
     },
     {
       "uid": "DLR5L17N54796",

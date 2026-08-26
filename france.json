@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-25T06:00:50.202493+00:00",
+  "genere_le": "2026-08-26T06:08:02.389158+00:00",
   "etat": {
     "annee_exercice": 2025,
     "label_source": "Projet de loi de finances 2025 (montants prévus, pas exécutés)",
@@ -219,7 +219,7 @@
         "depenses_totales": 41746062588.17,
         "depenses_fonctionnement": 25441345864.95,
         "depenses_investissement": 16304716723.220001,
-        "recettes_totales": 41784358129.420006,
+        "recettes_totales": 41784358129.42,
         "dette": 39094447347.560005
       }
     },
