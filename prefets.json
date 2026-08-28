@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-26T06:08:52.265267+00:00",
+  "genere_le": "2026-08-28T21:29:14.423994+00:00",
   "source": "api-lannuaire.service-public.fr (DILA, Premier ministre)",
   "prefets": [
     {
@@ -17,14 +17,14 @@
     {
       "code_departement": "02",
       "nom_departement": "Aisne",
-      "civilite": null,
-      "prenom": null,
-      "nom": null,
-      "fonction": "Préfet",
-      "grade": null,
-      "lien_nomination_jorf": null,
-      "libelle_nomination_jorf": null,
-      "date_maj_source": "2026-07-28T09:26:27+00:00"
+      "civilite": "Mme",
+      "prenom": "Isabelle",
+      "nom": "EPAILLARD",
+      "fonction": "Préfète",
+      "grade": "",
+      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054499637",
+      "libelle_nomination_jorf": "JORF n°0174 du 28 juillet 2026",
+      "date_maj_source": "2026-08-27T11:55:46+00:00"
     },
     {
       "code_departement": "03",
@@ -354,13 +354,13 @@
       "code_departement": "28",
       "nom_departement": "Eure-et-Loir",
       "civilite": "M.",
-      "prenom": "Hervé",
-      "nom": "JONATHAN",
+      "prenom": "Xavier",
+      "nom": "PELLETIER",
       "fonction": "Préfet",
       "grade": "administrateur de l'État",
-      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047836434",
-      "libelle_nomination_jorf": "JORF n°0162 du 14 juillet 2023",
-      "date_maj_source": "2026-08-05T11:16:32+00:00"
+      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054499653",
+      "libelle_nomination_jorf": "JORF n°0174 du 28 juillet 2026",
+      "date_maj_source": "2026-08-27T11:59:04+00:00"
     },
     {
       "code_departement": "29",
@@ -840,7 +840,7 @@
       "grade": "ingénieure générale des mines",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053777734",
       "libelle_nomination_jorf": "JORF n°0084 du 9 avril 2026",
-      "date_maj_source": "2026-06-24T13:28:49+00:00"
+      "date_maj_source": "2026-08-27T11:45:59+00:00"
     },
     {
       "code_departement": "56",
@@ -924,7 +924,7 @@
       "grade": "administrateur de l'État",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052983672",
       "libelle_nomination_jorf": "JORF n°0283 du 3 décembre 2025",
-      "date_maj_source": "2026-06-23T08:19:54+00:00"
+      "date_maj_source": "2026-08-27T12:03:01+00:00"
     },
     {
       "code_departement": "63",
@@ -1044,7 +1044,7 @@
       "grade": "administrateur de l'État",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048049728",
       "libelle_nomination_jorf": "JORF n°0207 du 7 septembre 2023",
-      "date_maj_source": "2026-07-16T13:29:56+00:00"
+      "date_maj_source": "2026-08-27T14:34:05+00:00"
     },
     {
       "code_departement": "80",
@@ -1104,7 +1104,7 @@
       "grade": "administrateur de l'État",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045327753",
       "libelle_nomination_jorf": "JORF n°0058 du 10 mars 2022",
-      "date_maj_source": "2026-07-21T10:36:02+00:00"
+      "date_maj_source": "2026-08-27T13:44:18+00:00"
     },
     {
       "code_departement": "94",

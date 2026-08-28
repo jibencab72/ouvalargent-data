@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-08-26T06:08:43.683142+00:00",
+  "genere_le": "2026-08-28T21:29:05.937330+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -31,6 +31,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/equilibre_controle_sanctions_assainissement_17e"
     },
     {
+      "uid": "DLR5L17N54819",
+      "titre": "Proposition de loi simplifiant l'ouverture des débits de boissons dans les communes de moins de 3 500 habitants",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-25T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54819"
+    },
+    {
       "uid": "DLR5L17N54818",
       "titre": "Création du délit de complicité et recel d’ingérence étrangère",
       "procedure": "Proposition de loi ordinaire",
@@ -47,6 +56,15 @@
       "date_promulgation": "2026-08-24T00:00:00.000+02:00",
       "derniere_activite": "2026-08-24T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
+    },
+    {
+      "uid": "DLR5L17N54821",
+      "titre": "Proposition de loi visant à renforcer le rôle des communes et des élus municipaux et à remédier aux fractures territoriales par une action volontariste",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-19T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54821"
     },
     {
       "uid": "DLR5L17N51670",
