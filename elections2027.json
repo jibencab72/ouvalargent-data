@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-01T04:20:46.186036+00:00",
+  "genere_le": "2026-08-16T00:00:00+00:00",
   "date_releve": "2026-08-16T00:00:00+00:00",
   "calendrier": {
     "premier_tour": "2027-04-18",
@@ -23,5 +23,34 @@
     "source_url": "https://www.conseil-constitutionnel.fr/le-parrainage-des-candidats-a-l-election-presidentielle"
   },
   "note_candidats": "Aucune candidature n'est officiellement déposée à ce stade (relevé le 2026-08-16, 8 mois avant le scrutin) — le dépôt et la validation des candidatures par le Conseil constitutionnel n'interviennent que dans les semaines précédant l'élection. Cette page sera complétée avec la liste officielle dès sa publication : jamais un nom ajouté par anticipation, une intention prêtée à quelqu'un, ou une source de presse plutôt qu'institutionnelle.",
-  "candidats_officiels": []
+  "candidats_officiels": [],
+  "articles": [
+    {
+      "titre": "Marine Le Pen annonce sa candidature après son jugement en appel",
+      "resume": "Condamnée en appel le 7 juillet 2026 à 45 mois d'inéligibilité dont 30 avec sursis — une peine déjà exécutée au jour du jugement, ce qui la rend éligible — Marine Le Pen annonce sa candidature à la présidentielle le soir même sur TF1, tout en formant un pourvoi en cassation.",
+      "source_nom": "Wikipédia — Élection présidentielle française de 2027",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date_article": "7 juillet 2026",
+      "photo": "portrait_le_pen",
+      "photo_credit": "Vox España, licence CC0 (domaine public) — Wikimedia Commons"
+    },
+    {
+      "titre": "Olivier Faure officialise sa candidature à la primaire du Parti socialiste",
+      "resume": "Après avoir annoncé son intention dans un message aux députés socialistes dans la nuit du 29 au 30 août 2026, Olivier Faure, premier secrétaire du Parti socialiste, officialise sa candidature à la primaire du Parti socialiste le 30 août, lors du journal de 20 heures de TF1.",
+      "source_nom": "Wikipédia — Élection présidentielle française de 2027",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date_article": "30 août 2026",
+      "photo": "portrait_faure",
+      "photo_credit": "KimiRaikkonen3 (via Flickr), domaine public — Wikimedia Commons"
+    },
+    {
+      "titre": "Bruno Retailleau désigné candidat des Républicains",
+      "resume": "Bruno Retailleau est officiellement désigné candidat des Républicains à l'élection présidentielle le 19 avril 2026, à l'issue d'un vote des adhérents du parti.",
+      "source_nom": "Wikipédia — Élection présidentielle française de 2027",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date_article": "19 avril 2026",
+      "photo": "portrait_retailleau",
+      "photo_credit": "Anthony Montardy, licence CC BY 4.0 — Wikimedia Commons"
+    }
+  ]
 }
