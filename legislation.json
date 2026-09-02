@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-01T04:20:29.493885+00:00",
+  "genere_le": "2026-09-02T04:23:49.295865+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -11,6 +11,24 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-16T15:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement_2"
+    },
+    {
+      "uid": "DLR5L17N53053",
+      "titre": "Protéger la santé mentale des agricultrices et des agriculteurs",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-08T11:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_sante_mentale_agricultrices_agriculteurs_17e"
+    },
+    {
+      "uid": "DLR5L17N54837",
+      "titre": "Proposition de loi visant à réduire le temps de travail hebdomadaire à 32 heures en 4 jours",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-08-31T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54837"
     },
     {
       "uid": "DLR5L17N54817",
@@ -184,6 +202,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51732"
     },
     {
+      "uid": "DLR5L17N54838",
+      "titre": "Proposition de loi portant diverses dispositions pour les communes insulaires métropolitaines sans lien permanent avec le continent",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-07-31T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54838"
+    },
+    {
       "uid": "DLR5L17N54766",
       "titre": "Proposition de loi visant à recréer des lieux de socialisation dans les zones rurales",
       "procedure": "Proposition de loi ordinaire",
@@ -209,6 +236,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-07-30T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54778"
+    },
+    {
+      "uid": "DLR5L17N54836",
+      "titre": "Proposition de loi visant à garantir au jeune public la gratuité des piscines municipales pendant les périodes de chaleur intense",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-07-30T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54836"
     },
     {
       "uid": "DLR5L17N54761",
@@ -2027,15 +2063,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-06-04T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/justice_revalorisation_pensions_agricoles_17e"
-    },
-    {
-      "uid": "DLR5L17N53053",
-      "titre": "Protéger la santé mentale des agricultrices et des agriculteurs",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-06-04T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_sante_mentale_agricultrices_agriculteurs_17e"
     },
     {
       "uid": "DLR5L17N54462",

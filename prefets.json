@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-01T04:20:38.819332+00:00",
+  "genere_le": "2026-09-02T04:24:01.582015+00:00",
   "source": "api-lannuaire.service-public.fr (DILA, Premier ministre)",
   "prefets": [
     {
@@ -144,7 +144,7 @@
       "grade": "administrateur de l'État",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052611455",
       "libelle_nomination_jorf": "JORF n°0272 du 20 novembre 2025",
-      "date_maj_source": "2026-06-25T10:23:01+00:00"
+      "date_maj_source": "2026-08-31T13:51:12+00:00"
     },
     {
       "code_departement": "13",
@@ -504,7 +504,7 @@
       "grade": "",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054457747",
       "libelle_nomination_jorf": "JORF n°0170 du 23 juillet 2026",
-      "date_maj_source": "2026-08-17T12:22:11+00:00"
+      "date_maj_source": "2026-08-31T13:34:01+00:00"
     },
     {
       "code_departement": "70",
@@ -576,7 +576,7 @@
       "grade": "",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052983678",
       "libelle_nomination_jorf": "JORF n°0283 du 3 décembre 2025",
-      "date_maj_source": "2026-07-10T15:08:27+00:00"
+      "date_maj_source": "2026-08-31T11:35:17+00:00"
     },
     {
       "code_departement": "35",
@@ -588,7 +588,7 @@
       "grade": "administratrice de l'État",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054306137",
       "libelle_nomination_jorf": "JORF n°0147 du 25 juin 2026",
-      "date_maj_source": "2026-07-03T14:07:45+00:00"
+      "date_maj_source": "2026-08-31T14:00:37+00:00"
     },
     {
       "code_departement": "36",
@@ -924,7 +924,7 @@
       "grade": "administrateur de l'État",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052983672",
       "libelle_nomination_jorf": "JORF n°0283 du 3 décembre 2025",
-      "date_maj_source": "2026-08-27T12:03:01+00:00"
+      "date_maj_source": "2026-08-31T14:17:17+00:00"
     },
     {
       "code_departement": "63",
