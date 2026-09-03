@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-02T04:23:22.739483+00:00",
+  "genere_le": "2026-09-03T05:47:34.749887+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -6679,7 +6679,7 @@
       "prenom": "Didier",
       "groupe_parlementaire": "RDPI",
       "circonscription": "Côte-d'Or",
-      "profession": null
+      "profession": "Chef d'entreprise"
     },
     {
       "type": "senateur",

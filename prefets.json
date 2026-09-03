@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-02T04:24:01.582015+00:00",
+  "genere_le": "2026-09-03T05:48:10.125038+00:00",
   "source": "api-lannuaire.service-public.fr (DILA, Premier ministre)",
   "prefets": [
     {
@@ -828,7 +828,7 @@
       "grade": "administrateur de l'État",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051949784",
       "libelle_nomination_jorf": "JORF n°0170 du 24 juillet 2025",
-      "date_maj_source": "2026-06-24T15:28:37+00:00"
+      "date_maj_source": "2026-09-01T09:07:23+00:00"
     },
     {
       "code_departement": "55",
