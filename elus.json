@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-04T04:21:49.432856+00:00",
+  "genere_le": "2026-09-05T04:21:35.162263+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -753,7 +753,7 @@
     },
     {
       "type": "depute",
-      "nom": "Vermorel-Marques",
+      "nom": "Vermorel",
       "prenom": "Antoine",
       "parti": "Les Républicains",
       "profession": "Conseiller parlementaire",

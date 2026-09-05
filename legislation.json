@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-04T04:22:19.444792+00:00",
+  "genere_le": "2026-09-05T04:21:56.965376+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -9,7 +9,7 @@
       "procedure": "Projet de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-09-16T15:00:00.000+02:00",
+      "derniere_activite": "2026-09-24T14:30:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement_2"
     },
     {
@@ -20,6 +20,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-08T11:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_sante_mentale_agricultrices_agriculteurs_17e"
+    },
+    {
+      "uid": "DLR5L17N54840",
+      "titre": "Garantir le pluralisme et la liberté du parrainage à l’élection présidentielle",
+      "procedure": "Projet ou proposition de loi organique",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-04T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_pluralisme_liberte_parrainage_election_presidentielle_17e"
     },
     {
       "uid": "DLR5L17N54837",
@@ -209,6 +218,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-07-31T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54838"
+    },
+    {
+      "uid": "DLR5L17N54839",
+      "titre": "Proposition de loi visant à garantir la juste compensation des dépenses engagées par les communes pour l'organisation des scrutins",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-07-31T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54839"
     },
     {
       "uid": "DLR5L17N54766",
