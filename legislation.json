@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-08T04:22:53.513527+00:00",
+  "genere_le": "2026-09-09T04:26:54.880434+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -47,6 +47,24 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-04T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_pluralisme_liberte_parrainage_election_presidentielle_17e"
+    },
+    {
+      "uid": "DLR5L17N54842",
+      "titre": "Proposition de loi visant à garantir l'accès à un panier diversifié de denrées alimentaires favorables à la santé et vendues à prix coûtant",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-02T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54842"
+    },
+    {
+      "uid": "DLR5L17N54843",
+      "titre": "Proposition de loi pour une politique du médicament plus prévisible, plus innovante et plus souveraine",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-01T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54843"
     },
     {
       "uid": "DLR5L17N54837",
