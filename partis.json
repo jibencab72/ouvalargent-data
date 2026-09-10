@@ -1,7 +1,7 @@
 {
-  "genere_le": "2026-09-09T04:26:34.320194+00:00",
+  "genere_le": "2026-09-10T08:57:56.833265+00:00",
   "note_methode": "Liste dérivée automatiquement des députés ayant une affiliation partisane connue (mandat PARPOL, source officielle Assemblée nationale) — jamais une sélection éditoriale. Le Sénat n'est pas inclus : sa donnée ne distingue pas l'affiliation partisane réelle du simple groupe parlementaire (cf. docs/DECISIONS.md section 9.1). Ordre alphabétique, jamais par taille. Les liens vers les programmes officiels sont recherchés manuellement un par un, jamais devinés — un parti sans lien l'affiche explicitement plutôt que de rester silencieusement vide. Dirigeant actuel : source Wikidata (pas une source officielle française — CNCCFP et ministère de l'Intérieur vérifiés, aucun n'expose cette donnée proprement, cf. pipeline/partis.py), récupéré en direct à chaque publication pour refléter un changement sans intervention manuelle. Aucune tendance politique (droite/gauche/centre/extrême) : même l'Arcom a cessé de classer les partis par courant depuis 2018, jugé trop clivant — cette appli fait le même choix. Comptes annuels et financement public : source CNCCFP (data.gouv.fr), comptes d'ensemble déclarés par chaque parti, aide publique détaillée par fraction — réinterrogé à chaque run, choisit automatiquement l'exercice le plus récent publié.",
-  "nb_deputes_non_inscrits": 37,
+  "nb_deputes_non_inscrits": 38,
   "source_url": "https://data.assemblee-nationale.fr/acteurs/deputes-en-exercice",
   "comptes_cnccfp_annee_exercice": 2024,
   "comptes_cnccfp_source_url": "https://static.data.gouv.fr/resources/comptes-des-partis-et-groupements-politiques/20260210-110641/comptes-partis-exercice-2024.csv",
@@ -361,7 +361,7 @@
     },
     {
       "nom": "Régions et peuples solidaires",
-      "nb_deputes": 19,
+      "nb_deputes": 18,
       "lien_programme_officiel": "https://www.federation-rps.org/programme/",
       "date_releve_lien": "2026-08-09T00:00:00+00:00",
       "dirigeant_nom": null,

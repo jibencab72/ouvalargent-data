@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-09T04:26:27.240421+00:00",
+  "genere_le": "2026-09-10T08:57:03.743985+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -974,6 +974,17 @@
       "parti": "Rassemblement national",
       "profession": "Profession intermédiaire administrative de la fonction publique",
       "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/grangier-geraldine-24345"
+    },
+    {
+      "type": "depute",
+      "nom": "Gerard",
+      "prenom": "Eric",
+      "parti": null,
+      "profession": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "uri_hatvp": null
     },
     {
       "type": "depute",
@@ -4622,14 +4633,6 @@
       "parti": "Parti socialiste",
       "profession": "(38) - Ingénieur et cadre technique d'entreprise",
       "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/benbrahim-karim-27472"
-    },
-    {
-      "type": "depute",
-      "nom": "Huwart",
-      "prenom": "Harold",
-      "parti": "Régions et peuples solidaires",
-      "profession": "Administrateur de l'État",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/huwart-harold"
     },
     {
       "type": "depute",
