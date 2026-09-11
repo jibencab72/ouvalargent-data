@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-10T08:58:13.120030+00:00",
+  "genere_le": "2026-09-11T08:49:50.416529+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -11,6 +11,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-24T14:30:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement_2"
+    },
+    {
+      "uid": "DLR5L17N54849",
+      "titre": "Renforcer l’autonomie financière des collectivités territoriales",
+      "procedure": "Projet ou proposition de loi organique",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-10T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/autonomie_financiere_des_collectivites_territoriales"
     },
     {
       "uid": "DLR5L17N53053",
