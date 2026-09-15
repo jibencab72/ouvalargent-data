@@ -1,8 +1,17 @@
 {
-  "genere_le": "2026-09-14T09:55:12.969984+00:00",
+  "genere_le": "2026-09-15T09:31:40.552306+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
+    {
+      "uid": "DLR5L17N54776",
+      "titre": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-25T09:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/apporter_reponse_integrale_phenomene_violences_sexuelles_sexistes_contre_femmes_enfants_17e"
+    },
     {
       "uid": "DLR5L17N54608",
       "titre": "La relance et la décentralisation du logement",
@@ -11,6 +20,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-24T14:30:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement_2"
+    },
+    {
+      "uid": "DLR5L17N54777",
+      "titre": "Adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales",
+      "procedure": "Projet ou proposition de loi organique",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-23T09:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_autorite_judiciaire_lutte_contre_violences_sexuelles_intrafamiliales_17e"
     },
     {
       "uid": "DLR5L17N54850",
@@ -40,24 +58,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_sante_mentale_agricultrices_agriculteurs_17e"
     },
     {
-      "uid": "DLR5L17N54776",
-      "titre": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-09-07T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/apporter_reponse_integrale_phenomene_violences_sexuelles_sexistes_contre_femmes_enfants_17e"
-    },
-    {
-      "uid": "DLR5L17N54777",
-      "titre": "Adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales",
-      "procedure": "Projet ou proposition de loi organique",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-09-07T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_autorite_judiciaire_lutte_contre_violences_sexuelles_intrafamiliales_17e"
-    },
-    {
       "uid": "DLR5L17N54840",
       "titre": "Garantir le pluralisme et la liberté du parrainage à l’élection présidentielle",
       "procedure": "Projet ou proposition de loi organique",
@@ -65,6 +65,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-04T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_pluralisme_liberte_parrainage_election_presidentielle_17e"
+    },
+    {
+      "uid": "DLR5L17N54851",
+      "titre": "Proposition de loi visant à transformer les obligations de la loi SRU d'une logique de stock vers une logique de flux",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-02T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54851"
     },
     {
       "uid": "DLR5L17N54842",

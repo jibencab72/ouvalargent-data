@@ -6,7 +6,7 @@
       "libelle": "moins de 100 habitants",
       "nb_communes": 3260,
       "moyennes_euros_par_habitant": {
-        "depenses_fonctionnement": 1299.3921858331826,
+        "depenses_fonctionnement": 1299.392185833183,
         "recettes_fonctionnement": 1719.5299609254091,
         "depenses_investissement": 1044.8393379541742,
         "recettes_investissement": 620.0861043690519,
@@ -71,7 +71,7 @@
       "libelle": "2 000 à 3 499 habitants",
       "nb_communes": 2286,
       "moyennes_euros_par_habitant": {
-        "depenses_fonctionnement": 885.1104740891882,
+        "depenses_fonctionnement": 885.1104740891883,
         "recettes_fonctionnement": 1080.7584515735693,
         "depenses_investissement": 526.1466677146636,
         "recettes_investissement": 294.8455533308479,
