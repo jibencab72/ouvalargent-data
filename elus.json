@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-16T09:24:09.742396+00:00",
+  "genere_le": "2026-09-17T09:36:00.096145+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -977,14 +977,14 @@
     },
     {
       "type": "depute",
-      "nom": "Gerard",
+      "nom": "Gérard",
       "prenom": "Eric",
       "parti": null,
       "profession": {
         "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
         "@xsi:nil": "true"
       },
-      "uri_hatvp": null
+      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
     },
     {
       "type": "depute",
@@ -4742,7 +4742,7 @@
       "type": "depute",
       "nom": "Brun",
       "prenom": "Philippe",
-      "parti": "Parti socialiste",
+      "parti": null,
       "profession": "Magistrat administratif",
       "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/brun-philippe-24275"
     },

@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-16T09:24:36.325957+00:00",
+  "genere_le": "2026-09-17T09:36:29.945232+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -47,6 +47,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-16T12:30:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/cadre_attribution_collectivites_territoriales"
+    },
+    {
+      "uid": "DLR5L17N54817",
+      "titre": "Renforcer la responsabilité des occupants et des bailleurs dans le logement social",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-16T09:30:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_responsabilite_occupants_bailleurs_logement_social_17e"
     },
     {
       "uid": "DLR5L17N54871",
@@ -614,15 +623,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-08-31T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54837"
-    },
-    {
-      "uid": "DLR5L17N54817",
-      "titre": "Renforcer la responsabilité des occupants et des bailleurs dans le logement social",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-08-25T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_responsabilite_occupants_bailleurs_logement_social_17e"
     },
     {
       "uid": "DLR5L17N54816",
