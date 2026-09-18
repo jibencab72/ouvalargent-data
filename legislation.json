@@ -1,8 +1,26 @@
 {
-  "genere_le": "2026-09-17T09:36:29.945232+00:00",
+  "genere_le": "2026-09-18T09:06:05.196224+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
+    {
+      "uid": "DLR5L17N54817",
+      "titre": "Renforcer la responsabilité des occupants et des bailleurs dans le logement social",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-07T19:30:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_responsabilite_occupants_bailleurs_logement_social_17e"
+    },
+    {
+      "uid": "DLR5L17N52296",
+      "titre": "Étendre le statut et les conditions d’attribution de la mention « Mort pour le service de la Nation",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-01T14:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_etendre_statut_attribution_mention_Mort_pour_service_nation_17e"
+    },
     {
       "uid": "DLR5L17N54557",
       "titre": "Abroger les zones à faibles émissions-mobilités",
@@ -27,7 +45,7 @@
       "procedure": "Projet de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-09-24T14:30:00.000+02:00",
+      "derniere_activite": "2026-09-24T21:30:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement_2"
     },
     {
@@ -49,13 +67,13 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/cadre_attribution_collectivites_territoriales"
     },
     {
-      "uid": "DLR5L17N54817",
-      "titre": "Renforcer la responsabilité des occupants et des bailleurs dans le logement social",
-      "procedure": "Proposition de loi ordinaire",
+      "uid": "DLR5L17N54912",
+      "titre": "Projet de loi ratifiant l’ordonnance n° 2026-438 du 3 juin 2026 portant adaptation et modernisation des dispositions du code général des collectivités territoriales applicables en Polynésie française",
+      "procedure": "Projet de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-09-16T09:30:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_responsabilite_occupants_bailleurs_logement_social_17e"
+      "derniere_activite": "2026-09-16T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54912"
     },
     {
       "uid": "DLR5L17N54871",
@@ -337,6 +355,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/sauvegarder_qualifications_infirmiers_bloc_operatoire_17e"
     },
     {
+      "uid": "DLR5L17N54913",
+      "titre": "Proposition de loi organique tendant à abaisser à dix-huit ans l'âge d'éligibilité aux élections sénatoriales",
+      "procedure": "Projet ou proposition de loi organique",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-15T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54913"
+    },
+    {
       "uid": "DLR5L17N54868",
       "titre": "Créer une spécialisation d'ambulancier de structure mobile d'urgence et de réanimation",
       "procedure": "Proposition de loi ordinaire",
@@ -551,6 +578,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-15T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_droits_joueurs_perennite_jeux_videos_17e"
+    },
+    {
+      "uid": "DLR5L17N54914",
+      "titre": "Proposition de loi relative aux modalités de recouvrement de la contribution aux frais de garderie et de la contribution additionnelle versées à l'Office national des forêts (ONF) par les collectivités territoriales et personnes morales propriétaires de bois et forêts relevant du régime forestier",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-14T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54914"
     },
     {
       "uid": "DLR5L17N54850",
@@ -11387,15 +11423,6 @@
       "date_promulgation": null,
       "derniere_activite": "2025-06-10T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_souverainete_europeenne_agence_17e"
-    },
-    {
-      "uid": "DLR5L17N52296",
-      "titre": "Étendre le statut et les conditions d’attribution de la mention « Mort pour le service de la Nation",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2025-06-10T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_etendre_statut_attribution_mention_Mort_pour_service_nation_17e"
     },
     {
       "uid": "DLR5L17N52295",
