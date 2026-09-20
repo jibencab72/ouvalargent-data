@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-18T09:05:22.003785+00:00",
+  "genere_le": "2026-09-20T09:16:43.680530+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -984,7 +984,7 @@
         "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
         "@xsi:nil": "true"
       },
-      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
+      "uri_hatvp": null
     },
     {
       "type": "depute",
