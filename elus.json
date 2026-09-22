@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-21T09:49:08.587060+00:00",
+  "genere_le": "2026-09-22T09:18:00.960131+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -980,10 +980,7 @@
       "nom": "Gérard",
       "prenom": "Eric",
       "parti": null,
-      "profession": {
-        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-        "@xsi:nil": "true"
-      },
+      "profession": "Pharmacien",
       "uri_hatvp": null
     },
     {

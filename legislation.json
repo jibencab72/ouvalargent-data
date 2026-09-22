@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-21T09:49:40.477997+00:00",
+  "genere_le": "2026-09-22T09:18:23.197769+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -56,6 +56,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-23T09:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_autorite_judiciaire_lutte_contre_violences_sexuelles_intrafamiliales_17e"
+    },
+    {
+      "uid": "DLR5L17N54917",
+      "titre": "Étendre la protection de l’emploi local aux emplois de la fonction publique  civile de l’État exercés en Polynésie française",
+      "procedure": "Projet ou proposition de loi organique",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-21T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/protection_emploi_local_polynesie_17e"
     },
     {
       "uid": "DLR5L17N50644",
