@@ -1,15 +1,78 @@
 {
-  "genere_le": "2026-09-22T09:18:23.197769+00:00",
+  "genere_le": "2026-09-23T09:25:15.977569+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
+    {
+      "uid": "DLR5L17N54445",
+      "titre": "Moderniser et rééquilibrer le fonctionnement du titre-restaurant",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-12T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_fonctionnement_titre_restaurant_17e"
+    },
+    {
+      "uid": "DLR5L17N53886",
+      "titre": "Proposition de loi visant à assouplir la procédure d'autorisation des établissements et services médico-sociaux à caractère expérimental",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-12T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53886"
+    },
+    {
+      "uid": "DLR5L17N54096",
+      "titre": "Proposition de loi relative à l’expérimentation d’une gouvernance territoriale unifiée pour le centre de ressources, d’expertise et de performance sportive (CREPS) de Vichy",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-12T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54096"
+    },
+    {
+      "uid": "DLR5L17N54776",
+      "titre": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-09T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/apporter_reponse_integrale_phenomene_violences_sexuelles_sexistes_contre_femmes_enfants_17e"
+    },
+    {
+      "uid": "DLR5L17N50731",
+      "titre": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-09T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731"
+    },
+    {
+      "uid": "DLR5L17N54777",
+      "titre": "Adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales",
+      "procedure": "Projet ou proposition de loi organique",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-09T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_autorite_judiciaire_lutte_contre_violences_sexuelles_intrafamiliales_17e"
+    },
+    {
+      "uid": "DLR5L17N54557",
+      "titre": "Abroger les zones à faibles émissions-mobilités",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-08T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_ZFE-m_17e"
+    },
     {
       "uid": "DLR5L17N54817",
       "titre": "Renforcer la responsabilité des occupants et des bailleurs dans le logement social",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-10-07T19:30:00.000+02:00",
+      "derniere_activite": "2026-10-08T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_responsabilite_occupants_bailleurs_logement_social_17e"
     },
     {
@@ -18,26 +81,26 @@
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-10-01T14:00:00.000+02:00",
+      "derniere_activite": "2026-10-08T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_etendre_statut_attribution_mention_Mort_pour_service_nation_17e"
     },
     {
-      "uid": "DLR5L17N54557",
-      "titre": "Abroger les zones à faibles émissions-mobilités",
+      "uid": "DLR5L17N50644",
+      "titre": "Redéfinir le cadre d'attribution des subventions accordées par les collectivités territoriales",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-09-30T09:30:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_ZFE-m_17e"
+      "derniere_activite": "2026-10-08T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/cadre_attribution_collectivites_territoriales"
     },
     {
-      "uid": "DLR5L17N54776",
-      "titre": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
-      "procedure": "Proposition de loi ordinaire",
+      "uid": "DLR5L17N53743",
+      "titre": "Projet de loi autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement de la République de Moldavie dans le domaine de la sécurité sociale",
+      "procedure": "Projet de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-09-25T09:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/apporter_reponse_integrale_phenomene_violences_sexuelles_sexistes_contre_femmes_enfants_17e"
+      "derniere_activite": "2026-10-05T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moldavie_securite_sociale"
     },
     {
       "uid": "DLR5L17N54608",
@@ -49,15 +112,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement_2"
     },
     {
-      "uid": "DLR5L17N54777",
-      "titre": "Adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales",
-      "procedure": "Projet ou proposition de loi organique",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-09-23T09:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_autorite_judiciaire_lutte_contre_violences_sexuelles_intrafamiliales_17e"
-    },
-    {
       "uid": "DLR5L17N54917",
       "titre": "Étendre la protection de l’emploi local aux emplois de la fonction publique  civile de l’État exercés en Polynésie française",
       "procedure": "Projet ou proposition de loi organique",
@@ -67,13 +121,22 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/protection_emploi_local_polynesie_17e"
     },
     {
-      "uid": "DLR5L17N50644",
-      "titre": "Redéfinir le cadre d'attribution des subventions accordées par les collectivités territoriales",
+      "uid": "DLR5L17N54921",
+      "titre": "Proposition de loi visant à renforcer le réseau d'ingénierie territoriale pour les transitions environnementale, énergétique et climatique",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-09-16T12:30:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/cadre_attribution_collectivites_territoriales"
+      "derniere_activite": "2026-09-17T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54921"
+    },
+    {
+      "uid": "DLR5L17N54922",
+      "titre": "Proposition de loi portant simplification des moyens de paiement des dépenses courantes mis à disposition des élus locaux",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-16T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54922"
     },
     {
       "uid": "DLR5L17N54912",
@@ -596,6 +659,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-14T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54914"
+    },
+    {
+      "uid": "DLR5L17N54924",
+      "titre": "Proposition de loi visant à lutter contre les dérives de la marchandisation du secteur de la petite enfance",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-11T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54924"
     },
     {
       "uid": "DLR5L17N54850",
@@ -1379,15 +1451,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-07-08T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54670"
-    },
-    {
-      "uid": "DLR5L17N54096",
-      "titre": "Proposition de loi relative à l’expérimentation d’une gouvernance territoriale unifiée pour le centre de ressources, d’expertise et de performance sportive (CREPS) de Vichy",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-07-08T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54096"
     },
     {
       "uid": "DLR5L17N54645",
@@ -2515,15 +2578,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reparation_prejudices_resultant_traite_et_esclavage_17e"
     },
     {
-      "uid": "DLR5L17N54445",
-      "titre": "Moderniser et rééquilibrer le fonctionnement du titre-restaurant",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-06-09T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_fonctionnement_titre_restaurant_17e"
-    },
-    {
       "uid": "DLR5L17N54438",
       "titre": "Renforcer la sécurité juridique des projets d’infrastructures publiques nécessaires aux usagers du service public",
       "procedure": "Proposition de loi ordinaire",
@@ -2846,15 +2900,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-05-28T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54057"
-    },
-    {
-      "uid": "DLR5L17N53886",
-      "titre": "Proposition de loi visant à assouplir la procédure d'autorisation des établissements et services médico-sociaux à caractère expérimental",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-05-28T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53886"
     },
     {
       "uid": "DLR5L17N52104",
@@ -4178,15 +4223,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-04-10T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_gestion_commande_publique_17e"
-    },
-    {
-      "uid": "DLR5L17N53743",
-      "titre": "Projet de loi autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement de la République de Moldavie dans le domaine de la sécurité sociale",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-04-10T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moldavie_securite_sociale"
     },
     {
       "uid": "DLR5L17N53775",
@@ -9902,15 +9938,6 @@
       "date_promulgation": null,
       "derniere_activite": "2025-09-11T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53639"
-    },
-    {
-      "uid": "DLR5L17N50731",
-      "titre": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2025-09-10T14:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731"
     },
     {
       "uid": "DLR5L17N52727",
