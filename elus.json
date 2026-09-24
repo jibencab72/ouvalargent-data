@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-23T09:24:42.592046+00:00",
+  "genere_le": "2026-09-24T09:46:24.799592+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -978,10 +978,10 @@
     {
       "type": "depute",
       "nom": "Gérard",
-      "prenom": "Eric",
+      "prenom": "Éric",
       "parti": null,
       "profession": "Pharmacien",
-      "uri_hatvp": null
+      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
     },
     {
       "type": "depute",
