@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-25T09:35:46.166217+00:00",
+  "genere_le": "2026-09-26T09:23:44.661646+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -137,6 +137,24 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-21T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/protection_emploi_local_polynesie_17e"
+    },
+    {
+      "uid": "DLR5L17N54937",
+      "titre": "Proposition de loi pour un régime de responsabilité civile plus juste et adapté en matière de fêtes traditionnelles",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-21T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54937"
+    },
+    {
+      "uid": "DLR5L17N54938",
+      "titre": "Proposition de loi visant à renforcer la lutte contre la précarité énergétique",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-18T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54938"
     },
     {
       "uid": "DLR5L17N54921",
