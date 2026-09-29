@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-28T10:52:29.130886+00:00",
+  "genere_le": "2026-09-29T10:46:17.062105+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -101,6 +101,24 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-05T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moldavie_securite_sociale"
+    },
+    {
+      "uid": "DLR5L17N54606",
+      "titre": "Proposition de loi visant à dématérialiser l'état civil des bénéficiaires de la protection internationale",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-28T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54606"
+    },
+    {
+      "uid": "DLR5L17N54940",
+      "titre": "Conditionner toute dépense publique au bénéfice direct d'un État étranger ou d'une personne étrangère à la démonstration d'un retour sur investissement substantiel pour la France et réserver les dépenses des collectivités territoriales à leurs habitants",
+      "procedure": "Projet ou proposition de loi organique",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-28T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/conditionner_depense_etranger_investissement"
     },
     {
       "uid": "DLR5L17N54608",
@@ -389,6 +407,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-15T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_protection_eleveurs_face_predation_loup_17e"
+    },
+    {
+      "uid": "DLR5L17N54941",
+      "titre": "Proposition de loi visant à instituer une journée nationale du drapeau tricolore français",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-15T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54941"
     },
     {
       "uid": "DLR5L17N54877",
@@ -1991,15 +2018,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-06-24T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_constitutionnelle_pour_Corse_autonome_au_sein_Republique"
-    },
-    {
-      "uid": "DLR5L17N54606",
-      "titre": "Proposition de loi visant à dématérialiser l'état civil des bénéficiaires de la protection internationale",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-06-24T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54606"
     },
     {
       "uid": "DLR5L16N48747",
