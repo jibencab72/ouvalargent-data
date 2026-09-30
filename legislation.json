@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-29T10:46:17.062105+00:00",
+  "genere_le": "2026-09-30T10:30:26.681557+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -146,6 +146,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-22T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54927"
+    },
+    {
+      "uid": "DLR5L17N54945",
+      "titre": "Proposition de loi visant à suspendre les autorisations environnementales pour les élevages de saumons en circuit fermé",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-22T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54945"
     },
     {
       "uid": "DLR5L17N54917",
