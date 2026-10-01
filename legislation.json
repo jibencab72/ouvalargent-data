@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-09-30T10:30:26.681557+00:00",
+  "genere_le": "2026-10-01T10:58:19.288823+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -74,15 +74,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-08T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_responsabilite_occupants_bailleurs_logement_social_17e"
-    },
-    {
-      "uid": "DLR5L17N52296",
-      "titre": "Étendre le statut et les conditions d’attribution de la mention « Mort pour le service de la Nation",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-08T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_etendre_statut_attribution_mention_Mort_pour_service_nation_17e"
     },
     {
       "uid": "DLR5L17N50644",
@@ -11531,6 +11522,15 @@
       "date_promulgation": null,
       "derniere_activite": "2025-06-10T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_souverainete_europeenne_agence_17e"
+    },
+    {
+      "uid": "DLR5L17N52296",
+      "titre": "Étendre le statut et les conditions d’attribution de la mention « Mort pour le service de la Nation",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2025-06-10T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_etendre_statut_attribution_mention_Mort_pour_service_nation_17e"
     },
     {
       "uid": "DLR5L17N52295",
