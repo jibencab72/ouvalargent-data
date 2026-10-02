@@ -1,8 +1,35 @@
 {
-  "genere_le": "2026-10-01T10:58:19.288823+00:00",
+  "genere_le": "2026-10-02T10:38:53.204197+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
+    {
+      "uid": "DLR5L17N54629",
+      "titre": "Projet de loi de finances pour 2027",
+      "procedure": "Projet de loi de finances de l'année",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-16T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027"
+    },
+    {
+      "uid": "DLR5L17N54902",
+      "titre": "Loi d’urgence visant à rétablir l’interdiction de l’acétamipride et du flupyradifurone pour garantir la protection de la santé humaine, de la biodiversité, de l’environnement et notre souveraineté alimentaire",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-21T09:30:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/loi_urgence_retablir_interdiction_acetamipride_17e"
+    },
+    {
+      "uid": "DLR5L17N54907",
+      "titre": "Contrôle réel des investissements étrangers en France",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-21T09:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/controle_reel_investissement_etrangers_17e"
+    },
     {
       "uid": "DLR5L17N54445",
       "titre": "Moderniser et rééquilibrer le fonctionnement du titre-restaurant",
@@ -85,6 +112,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/cadre_attribution_collectivites_territoriales"
     },
     {
+      "uid": "DLR5L17N54900",
+      "titre": "Instaurer un moratoire sur le projet du canal Seine-nord Europe",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-07T09:30:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moratoire_canal_seine_nord_europe_17e"
+    },
+    {
       "uid": "DLR5L17N53743",
       "titre": "Projet de loi autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement de la République de Moldavie dans le domaine de la sécurité sociale",
       "procedure": "Projet de loi ordinaire",
@@ -92,6 +128,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-05T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moldavie_securite_sociale"
+    },
+    {
+      "uid": "DLR5L17N54951",
+      "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+      "procedure": "Projet de loi de financement de la sécurité sociale",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-01T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
     },
     {
       "uid": "DLR5L17N54606",
@@ -355,15 +400,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/assurance_risques_climatiques_agriculture_17e"
     },
     {
-      "uid": "DLR5L17N54902",
-      "titre": "Loi d’urgence visant à rétablir l’interdiction de l’acétamipride et du flupyradifurone pour garantir la protection de la santé humaine, de la biodiversité, de l’environnement et notre souveraineté alimentaire",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-09-15T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/loi_urgence_retablir_interdiction_acetamipride_17e"
-    },
-    {
       "uid": "DLR5L17N54866",
       "titre": "Mieux indemniser les conséquences économiques et sociales des catastrophes naturelles volcaniques",
       "procedure": "Proposition de loi ordinaire",
@@ -598,15 +634,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_fumer_volant_17e"
     },
     {
-      "uid": "DLR5L17N54900",
-      "titre": "Instaurer un moratoire sur le projet du canal Seine-nord Europe",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-09-15T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moratoire_canal_seine_nord_europe_17e"
-    },
-    {
       "uid": "DLR5L17N54867",
       "titre": "Renforcer la répression des incendies volontaires de forêt commis en période de risque exceptionnel de propagation",
       "procedure": "Proposition de loi ordinaire",
@@ -641,15 +668,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-15T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/integrer_grele_rafales_tornades_regime_indemnisation_catastrophes_naturelles_17e"
-    },
-    {
-      "uid": "DLR5L17N54907",
-      "titre": "Contrôle réel des investissements étrangers en France",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-09-15T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/controle_reel_investissement_etrangers_17e"
     },
     {
       "uid": "DLR5L17N54881",
@@ -21476,15 +21494,6 @@
       "date_promulgation": null,
       "derniere_activite": "2024-06-19T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50160"
-    },
-    {
-      "uid": "DLR5L17N54629",
-      "titre": "Projet de loi de finances pour 2027",
-      "procedure": "Projet de loi de finances de l'année",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": null,
-      "lien": null
     }
   ]
 }

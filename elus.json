@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-01T10:57:58.806192+00:00",
+  "genere_le": "2026-10-02T10:38:25.338841+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -1025,14 +1025,6 @@
     },
     {
       "type": "depute",
-      "nom": "Giletti",
-      "prenom": "Frank",
-      "parti": "Rassemblement national",
-      "profession": "Fonctionnaire",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/giletti-frank-24205"
-    },
-    {
-      "type": "depute",
       "nom": "Klinkert",
       "prenom": "Brigitte",
       "parti": "Ensemble ! (majorité présidentielle)",
@@ -1273,14 +1265,6 @@
     },
     {
       "type": "depute",
-      "nom": "Amard",
-      "prenom": "Gabriel",
-      "parti": "La France Insoumise",
-      "profession": "Cadre administratif et commercial d'entreprise",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/amard-gabriel-516"
-    },
-    {
-      "type": "depute",
       "nom": "Blanc",
       "prenom": "Sophie",
       "parti": "Rassemblement national",
@@ -1433,14 +1417,6 @@
     },
     {
       "type": "depute",
-      "nom": "Bouquin",
-      "prenom": "Manon",
-      "parti": "Rassemblement national",
-      "profession": "(33) - Cadre de la fonction publique",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/bouquin-manon-27517"
-    },
-    {
-      "type": "depute",
       "nom": "Casterman",
       "prenom": "Eddy",
       "parti": "Rassemblement national",
@@ -1454,14 +1430,6 @@
       "parti": "Ensemble ! (majorité présidentielle)",
       "profession": "Biologiste A.I.H.P.",
       "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/vigier-philippe"
-    },
-    {
-      "type": "depute",
-      "nom": "Josserand",
-      "prenom": "Sylvie",
-      "parti": "Rassemblement national",
-      "profession": "(31) - Profession libérale",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/josserand-sylvie-27442"
     },
     {
       "type": "depute",
@@ -1718,14 +1686,6 @@
       "parti": "La France Insoumise",
       "profession": "Responsable de la communication numérique",
       "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/leaument-antoine-24198"
-    },
-    {
-      "type": "depute",
-      "nom": "Bazin-Malgras",
-      "prenom": "Valérie",
-      "parti": "Les Républicains",
-      "profession": "Commerçante",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/bazin-malgras-valerie"
     },
     {
       "type": "depute",
@@ -2609,14 +2569,6 @@
     },
     {
       "type": "depute",
-      "nom": "Plassard",
-      "prenom": "Christophe",
-      "parti": "Horizons",
-      "profession": "Profession libérale",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/plassard-christophe-24298"
-    },
-    {
-      "type": "depute",
       "nom": "Colombani",
       "prenom": "Paul-André",
       "parti": "Régions et peuples solidaires",
@@ -2945,14 +2897,6 @@
     },
     {
       "type": "depute",
-      "nom": "Kervran",
-      "prenom": "Loïc",
-      "parti": "Horizons",
-      "profession": "Autre cadre (secteur privé)",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/kervran-loic"
-    },
-    {
-      "type": "depute",
       "nom": "Loubet",
       "prenom": "Alexandre",
       "parti": "Rassemblement national",
@@ -3054,14 +2998,6 @@
       "parti": "Ensemble ! (majorité présidentielle)",
       "profession": "Industriel-Chef d'entreprise",
       "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/dirx-benjamin"
-    },
-    {
-      "type": "depute",
-      "nom": "Diaz",
-      "prenom": "Edwige",
-      "parti": "Rassemblement national",
-      "profession": "Cadre administratif et commercial d'entreprise",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/diaz-edwige-24319"
     },
     {
       "type": "depute",
@@ -4923,17 +4859,33 @@
     },
     {
       "type": "senateur",
-      "nom": "Allizard",
-      "prenom": "Pascal",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Calvados",
-      "profession": "Assistant parlementaire"
+      "nom": "Alexandre",
+      "prenom": "Rodolphe",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Guyane",
+      "profession": null
+    },
+    {
+      "type": "senateur",
+      "nom": "Amard",
+      "prenom": "Gabriel",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Rhône",
+      "profession": "Cadre d'entreprise "
+    },
+    {
+      "type": "senateur",
+      "nom": "Amouroux",
+      "prenom": "Géraldine",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Gironde",
+      "profession": null
     },
     {
       "type": "senateur",
       "nom": "Anglars",
       "prenom": "Jean-Claude",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Aveyron",
       "profession": "Chargé de mission"
     },
@@ -4957,7 +4909,7 @@
       "type": "senateur",
       "nom": "Arnaud",
       "prenom": "Jean-Michel",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Hautes-Alpes",
       "profession": "Exploitant agricole"
     },
@@ -4971,19 +4923,19 @@
     },
     {
       "type": "senateur",
-      "nom": "Bacchi",
-      "prenom": "Jérémy",
-      "groupe_parlementaire": "CRCE-K",
-      "circonscription": "Bouches-du-Rhône",
-      "profession": "Permanent politique"
+      "nom": "Aubey",
+      "prenom": "François",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Calvados",
+      "profession": "Fonctionnaire territorial"
     },
     {
       "type": "senateur",
-      "nom": "Bacci",
-      "prenom": "Jean",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Var",
-      "profession": "Retraité"
+      "nom": "Bacchi",
+      "prenom": "Jérémy",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Bouches-du-Rhône",
+      "profession": "Permanent politique"
     },
     {
       "type": "senateur",
@@ -5003,11 +4955,27 @@
     },
     {
       "type": "senateur",
+      "nom": "Baude",
+      "prenom": "Véronique",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Ain",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Bazin",
       "prenom": "Arnaud",
       "groupe_parlementaire": "Les Républicains",
       "circonscription": "Val-d'Oise",
       "profession": "Vétérinaire"
+    },
+    {
+      "type": "senateur",
+      "nom": "Bazin-Malgras",
+      "prenom": "Valérie",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Aube",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -5021,7 +4989,7 @@
       "type": "senateur",
       "nom": "Belin",
       "prenom": "Bruno",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Vienne",
       "profession": "Pharmacien"
     },
@@ -5029,15 +4997,23 @@
       "type": "senateur",
       "nom": "Bellamy",
       "prenom": "Marie-Jeanne",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Vienne",
       "profession": "Collaboratrice agent assurance"
     },
     {
       "type": "senateur",
+      "nom": "Belloir",
+      "prenom": "Nicolas",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Ille-et-Vilaine",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Bellurot",
       "prenom": "Nadine",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Indre",
       "profession": "Inspectrice Générale de l'Administration du Développement Durable (IGADD)"
     },
@@ -5053,15 +5029,23 @@
       "type": "senateur",
       "nom": "Benarroche",
       "prenom": "Guy",
-      "groupe_parlementaire": "GEST",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Bouches-du-Rhône",
+      "profession": "Retraité"
+    },
+    {
+      "type": "senateur",
+      "nom": "Berard",
+      "prenom": "Serge",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Rhône",
       "profession": "Retraité"
     },
     {
       "type": "senateur",
       "nom": "Berthet",
       "prenom": "Martine",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Savoie",
       "profession": "Pharmacienne"
     },
@@ -5075,17 +5059,9 @@
     },
     {
       "type": "senateur",
-      "nom": "Bilhac",
-      "prenom": "Christian",
-      "groupe_parlementaire": "RDSE",
-      "circonscription": "Hérault",
-      "profession": "Retraité"
-    },
-    {
-      "type": "senateur",
       "nom": "Billon",
       "prenom": "Annick",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Vendée",
       "profession": "Cadre commercial"
     },
@@ -5100,14 +5076,6 @@
     {
       "type": "senateur",
       "nom": "Blanc",
-      "prenom": "Étienne",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Rhône",
-      "profession": "Avocat retraité"
-    },
-    {
-      "type": "senateur",
-      "nom": "Blanc",
       "prenom": "Grégory",
       "groupe_parlementaire": "GEST",
       "circonscription": "Maine-et-Loire",
@@ -5117,15 +5085,23 @@
       "type": "senateur",
       "nom": "Blanc",
       "prenom": "Jean-Baptiste",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Vaucluse",
       "profession": "Avocat"
     },
     {
       "type": "senateur",
+      "nom": "Blanchet",
+      "prenom": "Régis",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Indre",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Blatrix Contat",
       "prenom": "Florence",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Ain",
       "profession": "Professeur agrégé"
     },
@@ -5157,7 +5133,7 @@
       "type": "senateur",
       "nom": "Bonhomme",
       "prenom": "François",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Tarn-et-Garonne",
       "profession": "Fonctionnaire"
     },
@@ -5165,7 +5141,7 @@
       "type": "senateur",
       "nom": "Bonneau",
       "prenom": "François",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Charente",
       "profession": "Docteur en pharmacie"
     },
@@ -5173,33 +5149,49 @@
       "type": "senateur",
       "nom": "Bonnefoy",
       "prenom": "Nicole",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Charente",
       "profession": "Attachée parlementaire"
     },
     {
       "type": "senateur",
-      "nom": "Bonnus",
-      "prenom": "Michel",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Var",
-      "profession": "Commerçant"
-    },
-    {
-      "type": "senateur",
       "nom": "Borchio Fontimp",
       "prenom": "Alexandra",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Alpes-Maritimes",
       "profession": "Journaliste"
     },
     {
       "type": "senateur",
+      "nom": "Bost",
+      "prenom": "Christine",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Gironde",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Bouad",
       "prenom": "Denis",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Gard",
       "profession": "Retraité"
+    },
+    {
+      "type": "senateur",
+      "nom": "Bounie",
+      "prenom": "Julien",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Corrèze",
+      "profession": "Chef d'entreprise "
+    },
+    {
+      "type": "senateur",
+      "nom": "Bouquin",
+      "prenom": "Manon",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Hérault",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -5213,7 +5205,7 @@
       "type": "senateur",
       "nom": "Bourgi",
       "prenom": "Hussein",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Hérault",
       "profession": "Cadre"
     },
@@ -5237,7 +5229,7 @@
       "type": "senateur",
       "nom": "Boyer",
       "prenom": "Valérie",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Bouches-du-Rhône",
       "profession": "Cadre de santé"
     },
@@ -5251,9 +5243,25 @@
     },
     {
       "type": "senateur",
+      "nom": "Bravi",
+      "prenom": "Fabien",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Bouches-du-Rhône",
+      "profession": null
+    },
+    {
+      "type": "senateur",
+      "nom": "Breillat",
+      "prenom": "Jacques",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Gironde",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Briante Guillemont",
       "prenom": "Sophie",
-      "groupe_parlementaire": "RDSE",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Français établis hors de France",
       "profession": "Juriste"
     },
@@ -5261,7 +5269,7 @@
       "type": "senateur",
       "nom": "Briquet",
       "prenom": "Isabelle",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Haute-Vienne",
       "profession": "Sans profession"
     },
@@ -5293,9 +5301,17 @@
       "type": "senateur",
       "nom": "Brulin",
       "prenom": "Céline",
-      "groupe_parlementaire": "CRCE-K",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Seine-Maritime",
       "profession": "Attachée territoriale"
+    },
+    {
+      "type": "senateur",
+      "nom": "Brunet",
+      "prenom": "Florent",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Drôme",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -5307,17 +5323,9 @@
     },
     {
       "type": "senateur",
-      "nom": "Buis",
-      "prenom": "Bernard",
-      "groupe_parlementaire": "RDPI",
-      "circonscription": "Drôme",
-      "profession": null
-    },
-    {
-      "type": "senateur",
       "nom": "Burgoa",
       "prenom": "Laurent",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Gard",
       "profession": "Sans profession"
     },
@@ -5331,17 +5339,9 @@
     },
     {
       "type": "senateur",
-      "nom": "Cabanel",
-      "prenom": "Henri",
-      "groupe_parlementaire": "RDSE",
-      "circonscription": "Hérault",
-      "profession": "Viticulteur"
-    },
-    {
-      "type": "senateur",
       "nom": "Cadec",
       "prenom": "Alain",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Côtes-d'Armor",
       "profession": "Retraité"
     },
@@ -5349,9 +5349,17 @@
       "type": "senateur",
       "nom": "Cadic",
       "prenom": "Olivier",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Français établis hors de France",
       "profession": "Chef d'entreprise"
+    },
+    {
+      "type": "senateur",
+      "nom": "Callet",
+      "prenom": "Marie-Pierre",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Bouches-du-Rhône",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -5371,14 +5379,6 @@
     },
     {
       "type": "senateur",
-      "nom": "Camerac",
-      "prenom": "Anne",
-      "groupe_parlementaire": "Les Indépendants",
-      "circonscription": "Aisne",
-      "profession": null
-    },
-    {
-      "type": "senateur",
       "nom": "Canalès",
       "prenom": "Marion",
       "groupe_parlementaire": "SER",
@@ -5389,7 +5389,7 @@
       "type": "senateur",
       "nom": "Canayer",
       "prenom": "Agnès",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Seine-Maritime",
       "profession": null
     },
@@ -5397,7 +5397,7 @@
       "type": "senateur",
       "nom": "Canévet",
       "prenom": "Michel",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Finistère",
       "profession": "Responsable de collectivités"
     },
@@ -5421,7 +5421,7 @@
       "type": "senateur",
       "nom": "Cardon",
       "prenom": "Rémi",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Somme",
       "profession": "Chef de projet numérique"
     },
@@ -5429,7 +5429,7 @@
       "type": "senateur",
       "nom": "Carlotti",
       "prenom": "Marie-Arlette",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Bouches-du-Rhône",
       "profession": "Retraitée"
     },
@@ -5451,19 +5451,11 @@
     },
     {
       "type": "senateur",
-      "nom": "Cazabonne",
-      "prenom": "Alain",
-      "groupe_parlementaire": "UC",
-      "circonscription": "Gironde",
-      "profession": "Ancien gérant de société"
-    },
-    {
-      "type": "senateur",
-      "nom": "Cazebonne",
-      "prenom": "Samantha",
-      "groupe_parlementaire": "RDPI",
-      "circonscription": "Français établis hors de France",
-      "profession": "Chef d'établissement de l'enseignement secondaire"
+      "nom": "Castillo",
+      "prenom": "Laurent",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Alpes-Maritimes",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -5483,43 +5475,11 @@
     },
     {
       "type": "senateur",
-      "nom": "Chaize",
-      "prenom": "Patrick",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Ain",
-      "profession": "Directeur de syndicat intercommunal"
-    },
-    {
-      "type": "senateur",
       "nom": "Chantrel",
       "prenom": "Yan",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Français établis hors de France",
       "profession": "Coordonnateur "
-    },
-    {
-      "type": "senateur",
-      "nom": "Chasseing",
-      "prenom": "Daniel",
-      "groupe_parlementaire": "Les Indépendants",
-      "circonscription": "Corrèze",
-      "profession": "Médecin"
-    },
-    {
-      "type": "senateur",
-      "nom": "Chatillon",
-      "prenom": "Alain",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Haute-Garonne",
-      "profession": "Chef d'entreprise"
-    },
-    {
-      "type": "senateur",
-      "nom": "Chauvet",
-      "prenom": "Patrick",
-      "groupe_parlementaire": "UC",
-      "circonscription": "Seine-Maritime",
-      "profession": "Agriculteur"
     },
     {
       "type": "senateur",
@@ -5587,6 +5547,22 @@
     },
     {
       "type": "senateur",
+      "nom": "Coriton",
+      "prenom": "Bastien",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Seine-Maritime",
+      "profession": null
+    },
+    {
+      "type": "senateur",
+      "nom": "Coste",
+      "prenom": "Pascal",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Corrèze",
+      "profession": "AGRICULTEUR"
+    },
+    {
+      "type": "senateur",
       "nom": "Courtial",
       "prenom": "Édouard",
       "groupe_parlementaire": "UC",
@@ -5597,7 +5573,7 @@
       "type": "senateur",
       "nom": "Cozic",
       "prenom": "Thierry",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Sarthe",
       "profession": "Cadre territorial"
     },
@@ -5616,6 +5592,22 @@
       "groupe_parlementaire": "Les Républicains",
       "circonscription": "Seine-et-Marne",
       "profession": "Exploitant agricole"
+    },
+    {
+      "type": "senateur",
+      "nom": "Dadkhah",
+      "prenom": "Forough",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Finistère",
+      "profession": null
+    },
+    {
+      "type": "senateur",
+      "nom": "d'Aigremont",
+      "prenom": "Thierry",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Vaucluse",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -5645,7 +5637,7 @@
       "type": "senateur",
       "nom": "Darnaud",
       "prenom": "Mathieu",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Ardèche",
       "profession": "Chargé de mission"
     },
@@ -5693,41 +5685,25 @@
       "type": "senateur",
       "nom": "de La Provôté",
       "prenom": "Sonia",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Calvados",
       "profession": "Médecin du travail"
     },
     {
       "type": "senateur",
-      "nom": "de Legge",
-      "prenom": "Dominique",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Ille-et-Vilaine",
-      "profession": "Cadre dirigeant dans le domaine de l'environnement"
-    },
-    {
-      "type": "senateur",
-      "nom": "de Marco",
-      "prenom": "Monique",
-      "groupe_parlementaire": "GEST",
-      "circonscription": "Gironde",
-      "profession": "Retraitée éducation nationale "
-    },
-    {
-      "type": "senateur",
       "nom": "de Montgolfier",
       "prenom": "Albéric",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Eure-et-Loir",
       "profession": "Avocat au Conseil d'État et à la Cour de cassation"
     },
     {
       "type": "senateur",
-      "nom": "de Nicolaÿ",
-      "prenom": "Louis-Jean",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Sarthe",
-      "profession": "Gérant de société"
+      "nom": "de Rugy",
+      "prenom": "Maxence",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Vendée",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -5741,7 +5717,7 @@
       "type": "senateur",
       "nom": "Delattre",
       "prenom": "Nathalie",
-      "groupe_parlementaire": "RDSE",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Gironde",
       "profession": null
     },
@@ -5749,49 +5725,33 @@
       "type": "senateur",
       "nom": "Delcros",
       "prenom": "Bernard",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Cantal",
       "profession": "Enseignant"
     },
     {
       "type": "senateur",
-      "nom": "Demas",
-      "prenom": "Patricia",
-      "groupe_parlementaire": "Les Républicains",
+      "nom": "Delia",
+      "prenom": "Jean-Marc",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Alpes-Maritimes",
-      "profession": "Chargée de mission - conseillère en prévention de perte d'autonomie"
+      "profession": "Directeur Informatique"
     },
     {
       "type": "senateur",
       "nom": "Demilly",
       "prenom": "Stéphane",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Somme",
       "profession": "Formateur"
     },
     {
       "type": "senateur",
-      "nom": "Deseyne",
-      "prenom": "Chantal",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Eure-et-Loir",
-      "profession": null
-    },
-    {
-      "type": "senateur",
       "nom": "Devésa",
       "prenom": "Brigitte",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Bouches-du-Rhône",
       "profession": "Directrice de centre de formation"
-    },
-    {
-      "type": "senateur",
-      "nom": "Devinaz",
-      "prenom": "Gilbert-Luc",
-      "groupe_parlementaire": "RDSE",
-      "circonscription": "Rhône",
-      "profession": null
     },
     {
       "type": "senateur",
@@ -5805,8 +5765,16 @@
       "type": "senateur",
       "nom": "Di Folco",
       "prenom": "Catherine",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Rhône",
+      "profession": null
+    },
+    {
+      "type": "senateur",
+      "nom": "Diaz",
+      "prenom": "Edwige",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Gironde",
       "profession": null
     },
     {
@@ -5819,25 +5787,49 @@
     },
     {
       "type": "senateur",
+      "nom": "Dollinger",
+      "prenom": "Isabelle",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Bas-Rhin",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Dossus",
       "prenom": "Thomas",
-      "groupe_parlementaire": "GEST",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Rhône",
       "profession": "Chargé de communication"
     },
     {
       "type": "senateur",
+      "nom": "Doussot",
+      "prenom": "Dimitri",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Haute-Saône",
+      "profession": "Avocat"
+    },
+    {
+      "type": "senateur",
       "nom": "Drexler",
       "prenom": "Sabine",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Haut-Rhin",
       "profession": "Professeur des écoles"
     },
     {
       "type": "senateur",
+      "nom": "Duché",
+      "prenom": "Frédéric",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Eure",
+      "profession": "Cadre administratif"
+    },
+    {
+      "type": "senateur",
       "nom": "Duffourg",
       "prenom": "Alain",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Gers",
       "profession": "Avocat"
     },
@@ -5853,7 +5845,7 @@
       "type": "senateur",
       "nom": "Dumont",
       "prenom": "Françoise",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Var",
       "profession": "Guide interprète"
     },
@@ -5867,11 +5859,11 @@
     },
     {
       "type": "senateur",
-      "nom": "Duranton",
-      "prenom": "Nicole",
-      "groupe_parlementaire": "RDPI",
-      "circonscription": "Eure",
-      "profession": null
+      "nom": "Dupont",
+      "prenom": "Bertrand",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Français établis hors de France",
+      "profession": "Chef d'entreprise"
     },
     {
       "type": "senateur",
@@ -5901,7 +5893,7 @@
       "type": "senateur",
       "nom": "Estrosi Sassone",
       "prenom": "Dominique",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Alpes-Maritimes",
       "profession": "Fonctionnaire territoriale"
     },
@@ -5939,11 +5931,11 @@
     },
     {
       "type": "senateur",
-      "nom": "Favreau",
-      "prenom": "Gilbert",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Deux-Sèvres",
-      "profession": "Avocat"
+      "nom": "Faucon Mejean",
+      "prenom": "Claudie",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Aude",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -5957,33 +5949,17 @@
       "type": "senateur",
       "nom": "Féret",
       "prenom": "Corinne",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Calvados",
       "profession": "Fonctionnaire de l'éducation nationale"
     },
     {
       "type": "senateur",
-      "nom": "Fernique",
-      "prenom": "Jacques",
-      "groupe_parlementaire": "GEST",
-      "circonscription": "Bas-Rhin",
-      "profession": "Professeur des Lycées Professionnels"
-    },
-    {
-      "type": "senateur",
       "nom": "Fialaire",
       "prenom": "Bernard",
-      "groupe_parlementaire": "RDSE",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Rhône",
       "profession": "Médecin"
-    },
-    {
-      "type": "senateur",
-      "nom": "Fichet",
-      "prenom": "Jean-Luc",
-      "groupe_parlementaire": "SER",
-      "circonscription": "Finistère",
-      "profession": "Directeur d'institut médico-éducatif"
     },
     {
       "type": "senateur",
@@ -5997,7 +5973,7 @@
       "type": "senateur",
       "nom": "Folliot",
       "prenom": "Philippe",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Tarn",
       "profession": null
     },
@@ -6011,11 +5987,43 @@
     },
     {
       "type": "senateur",
-      "nom": "Frassa",
-      "prenom": "Christophe-André",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Français établis hors de France",
-      "profession": "Consultant juridique"
+      "nom": "Francis",
+      "prenom": "Joseph",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Hérault",
+      "profession": null
+    },
+    {
+      "type": "senateur",
+      "nom": "Frêche",
+      "prenom": "Julie",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Hérault",
+      "profession": "Juriste "
+    },
+    {
+      "type": "senateur",
+      "nom": "Fricoteaux",
+      "prenom": "Nicolas",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Aisne",
+      "profession": null
+    },
+    {
+      "type": "senateur",
+      "nom": "Fritch",
+      "prenom": "Édouard",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Polynésie française",
+      "profession": null
+    },
+    {
+      "type": "senateur",
+      "nom": "Frontoni",
+      "prenom": "Gaëlle",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Alpes-Maritimes",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -6035,6 +6043,22 @@
     },
     {
       "type": "senateur",
+      "nom": "Gasto Oustric",
+      "prenom": "Magali",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Haute-Garonne",
+      "profession": "Formatrice"
+    },
+    {
+      "type": "senateur",
+      "nom": "Gatel",
+      "prenom": "Françoise",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Ille-et-Vilaine",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Gay",
       "prenom": "Fabien",
       "groupe_parlementaire": "CRCE-K",
@@ -6045,23 +6069,31 @@
       "type": "senateur",
       "nom": "Genet",
       "prenom": "Fabien",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Saône-et-Loire",
       "profession": "Juriste"
     },
     {
       "type": "senateur",
-      "nom": "Gerbaud",
-      "prenom": "Frédérique",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Indre",
-      "profession": "Chargée de communication"
+      "nom": "Gibbs",
+      "prenom": "Daniel",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Saint-Martin",
+      "profession": null
+    },
+    {
+      "type": "senateur",
+      "nom": "Giletti",
+      "prenom": "Frank",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Var",
+      "profession": null
     },
     {
       "type": "senateur",
       "nom": "Gillé",
       "prenom": "Hervé",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Gironde",
       "profession": "Directeur de mission locale"
     },
@@ -6109,17 +6141,9 @@
       "type": "senateur",
       "nom": "Goy-Chavent",
       "prenom": "Sylvie",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Ain",
       "profession": "Professeur de l'enseignement professionnel"
-    },
-    {
-      "type": "senateur",
-      "nom": "Grand",
-      "prenom": "Jean-Pierre",
-      "groupe_parlementaire": "Les Indépendants",
-      "circonscription": "Hérault",
-      "profession": "Cadre de la fonction publique"
     },
     {
       "type": "senateur",
@@ -6133,7 +6157,7 @@
       "type": "senateur",
       "nom": "Gremillet",
       "prenom": "Daniel",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Vosges",
       "profession": "Agriculteur"
     },
@@ -6141,7 +6165,7 @@
       "type": "senateur",
       "nom": "Grosperrin",
       "prenom": "Jacques",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Doubs",
       "profession": "Professeur agrégé"
     },
@@ -6152,22 +6176,6 @@
       "groupe_parlementaire": "RDSE",
       "circonscription": "Loire-Atlantique",
       "profession": "Ancien cadre"
-    },
-    {
-      "type": "senateur",
-      "nom": "Gruny",
-      "prenom": "Pascale",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Aisne",
-      "profession": "Directeur administratif et financier"
-    },
-    {
-      "type": "senateur",
-      "nom": "Gueret",
-      "prenom": "Daniel",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Eure-et-Loir",
-      "profession": "Directeur commercial"
     },
     {
       "type": "senateur",
@@ -6187,25 +6195,17 @@
     },
     {
       "type": "senateur",
-      "nom": "Guiol",
-      "prenom": "André",
-      "groupe_parlementaire": "RDSE",
-      "circonscription": "Var",
-      "profession": "Ingénieur retraité"
-    },
-    {
-      "type": "senateur",
-      "nom": "Harribey",
-      "prenom": "Laurence",
-      "groupe_parlementaire": "SER",
-      "circonscription": "Gironde",
-      "profession": "Enseignante chercheur"
+      "nom": "Guilloteau",
+      "prenom": "Christophe",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Rhône",
+      "profession": null
     },
     {
       "type": "senateur",
       "nom": "Havet",
       "prenom": "Nadège",
-      "groupe_parlementaire": "RDPI",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Finistère",
       "profession": "Responsable d'équipe"
     },
@@ -6213,7 +6213,7 @@
       "type": "senateur",
       "nom": "Haye",
       "prenom": "Ludovic",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Haut-Rhin",
       "profession": "Ingénieur en cybersécurité"
     },
@@ -6229,7 +6229,7 @@
       "type": "senateur",
       "nom": "Hervé",
       "prenom": "Loïc",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Haute-Savoie",
       "profession": "Cadre territorial"
     },
@@ -6245,7 +6245,7 @@
       "type": "senateur",
       "nom": "Hingray",
       "prenom": "Jean",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Vosges",
       "profession": "Responsable d'entreprise"
     },
@@ -6261,7 +6261,7 @@
       "type": "senateur",
       "nom": "Houpert",
       "prenom": "Alain",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Côte-d'Or",
       "profession": "Médecin radiologue"
     },
@@ -6269,7 +6269,7 @@
       "type": "senateur",
       "nom": "Housseau",
       "prenom": "Marie-Lise",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Tarn",
       "profession": "Directrice de chambre d'agriculture"
     },
@@ -6280,6 +6280,14 @@
       "groupe_parlementaire": "Les Républicains",
       "circonscription": "Essonne",
       "profession": "Musicien"
+    },
+    {
+      "type": "senateur",
+      "nom": "Huin",
+      "prenom": "Benjamin",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Haut-Rhin",
+      "profession": "Haut-fonctionnaire en disponibilité"
     },
     {
       "type": "senateur",
@@ -6301,23 +6309,15 @@
       "type": "senateur",
       "nom": "Imbert",
       "prenom": "Corinne",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Charente-Maritime",
       "profession": "Pharmacienne"
     },
     {
       "type": "senateur",
-      "nom": "Jacquemet",
-      "prenom": "Annick",
-      "groupe_parlementaire": "UC",
-      "circonscription": "Doubs",
-      "profession": "Vétérinaire"
-    },
-    {
-      "type": "senateur",
       "nom": "Jacques",
       "prenom": "Micheline",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Saint-Barthélemy",
       "profession": "Directrice d'école"
     },
@@ -6336,14 +6336,6 @@
       "groupe_parlementaire": "GEST",
       "circonscription": "Paris",
       "profession": "Economiste"
-    },
-    {
-      "type": "senateur",
-      "nom": "Jeansannetas",
-      "prenom": "Éric",
-      "groupe_parlementaire": "SER",
-      "circonscription": "Creuse",
-      "profession": "Professeur des écoles"
     },
     {
       "type": "senateur",
@@ -6373,17 +6365,17 @@
       "type": "senateur",
       "nom": "Joseph",
       "prenom": "Else",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Ardennes",
       "profession": "Professeur"
     },
     {
       "type": "senateur",
-      "nom": "Jourda",
-      "prenom": "Gisèle",
-      "groupe_parlementaire": "SER",
-      "circonscription": "Aude",
-      "profession": "Cadre territorial"
+      "nom": "Josserand",
+      "prenom": "Sylvie",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Gard",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -6392,22 +6384,6 @@
       "groupe_parlementaire": "Les Républicains",
       "circonscription": "Morbihan",
       "profession": "Avocat"
-    },
-    {
-      "type": "senateur",
-      "nom": "Jouve",
-      "prenom": "Mireille",
-      "groupe_parlementaire": "RDSE",
-      "circonscription": "Bouches-du-Rhône",
-      "profession": "Professeur"
-    },
-    {
-      "type": "senateur",
-      "nom": "Joyandet",
-      "prenom": "Alain",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Haute-Saône",
-      "profession": "Editeur"
     },
     {
       "type": "senateur",
@@ -6427,19 +6403,19 @@
     },
     {
       "type": "senateur",
-      "nom": "Kern",
-      "prenom": "Claude",
-      "groupe_parlementaire": "UC",
-      "circonscription": "Bas-Rhin",
-      "profession": null
-    },
-    {
-      "type": "senateur",
       "nom": "Kerrouche",
       "prenom": "Éric",
       "groupe_parlementaire": "SER",
       "circonscription": "Landes",
       "profession": "Directeur de recherche au CNRS"
+    },
+    {
+      "type": "senateur",
+      "nom": "Kervran",
+      "prenom": "Loïc",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Cher",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -6453,17 +6429,17 @@
       "type": "senateur",
       "nom": "Klinger",
       "prenom": "Christian",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Haut-Rhin",
       "profession": "Exploitant agricole et viticole"
     },
     {
       "type": "senateur",
-      "nom": "Kulimoetoke",
-      "prenom": "Mikaele",
-      "groupe_parlementaire": "RDPI",
-      "circonscription": "Iles Wallis et Futuna",
-      "profession": "Retraité de la gendarmerie"
+      "nom": "Labar",
+      "prenom": "Bertrand",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Creuse",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -6477,7 +6453,7 @@
       "type": "senateur",
       "nom": "Lahellec",
       "prenom": "Gérard",
-      "groupe_parlementaire": "CRCE-K",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Côtes-d'Armor",
       "profession": "Retraité"
     },
@@ -6485,7 +6461,7 @@
       "type": "senateur",
       "nom": "Laménie",
       "prenom": "Marc",
-      "groupe_parlementaire": "Les Indépendants",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Ardennes",
       "profession": "Chargé d'études"
     },
@@ -6507,27 +6483,11 @@
     },
     {
       "type": "senateur",
-      "nom": "Lassarade",
-      "prenom": "Florence",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Gironde",
-      "profession": "Pédiatre"
-    },
-    {
-      "type": "senateur",
       "nom": "Laugier",
       "prenom": "Michel",
       "groupe_parlementaire": "UC",
       "circonscription": "Yvelines",
       "profession": "Journaliste"
-    },
-    {
-      "type": "senateur",
-      "nom": "Laurent",
-      "prenom": "Daniel",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Charente-Maritime",
-      "profession": "Viticulteur - Chef d'entreprise"
     },
     {
       "type": "senateur",
@@ -6549,23 +6509,31 @@
       "type": "senateur",
       "nom": "Le Houerou",
       "prenom": "Annie",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Côtes-d'Armor",
       "profession": "Fonctionnaire"
     },
     {
       "type": "senateur",
-      "nom": "Le Rudulier",
-      "prenom": "Stéphane",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Bouches-du-Rhône",
-      "profession": "Chargé d'enseignement"
+      "nom": "Le Mèner",
+      "prenom": "Dominique",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Sarthe",
+      "profession": null
+    },
+    {
+      "type": "senateur",
+      "nom": "Leclerc",
+      "prenom": "Patrick",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Finistère",
+      "profession": null
     },
     {
       "type": "senateur",
       "nom": "Lefèvre",
       "prenom": "Antoine",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Aisne",
       "profession": "Chargé d'études"
     },
@@ -6573,7 +6541,7 @@
       "type": "senateur",
       "nom": "Lemoyne",
       "prenom": "Jean-Baptiste",
-      "groupe_parlementaire": "RDPI",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Yonne",
       "profession": null
     },
@@ -6588,16 +6556,24 @@
     {
       "type": "senateur",
       "nom": "Leroy",
-      "prenom": "Henri",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Alpes-Maritimes",
-      "profession": "Officier de gendarmerie"
+      "prenom": "Carine",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Var",
+      "profession": null
+    },
+    {
+      "type": "senateur",
+      "nom": "Levasseur",
+      "prenom": "Léon",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Seine-Maritime",
+      "profession": null
     },
     {
       "type": "senateur",
       "nom": "Levi",
       "prenom": "Pierre-Antoine",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Tarn-et-Garonne",
       "profession": "cadre bancaire"
     },
@@ -6621,7 +6597,7 @@
       "type": "senateur",
       "nom": "Loisier",
       "prenom": "Anne-Catherine",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Côte-d'Or",
       "profession": "Gestionnaire de forêts"
     },
@@ -6629,17 +6605,9 @@
       "type": "senateur",
       "nom": "Longeot",
       "prenom": "Jean-François",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Doubs",
       "profession": "Attaché territorial principal"
-    },
-    {
-      "type": "senateur",
-      "nom": "Lopez",
-      "prenom": "Vivette",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Gard",
-      "profession": "Auditrice IHEDN"
     },
     {
       "type": "senateur",
@@ -6653,7 +6621,7 @@
       "type": "senateur",
       "nom": "Lozach",
       "prenom": "Jean-Jacques",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Creuse",
       "profession": "Professeur d'éducation physique et sportive"
     },
@@ -6675,14 +6643,6 @@
     },
     {
       "type": "senateur",
-      "nom": "Maingault",
-      "prenom": "Didier",
-      "groupe_parlementaire": "RDPI",
-      "circonscription": "Côte-d'Or",
-      "profession": "Chef d'entreprise"
-    },
-    {
-      "type": "senateur",
       "nom": "Malet",
       "prenom": "Viviane",
       "groupe_parlementaire": "Les Républicains",
@@ -6693,23 +6653,15 @@
       "type": "senateur",
       "nom": "Malhuret",
       "prenom": "Claude",
-      "groupe_parlementaire": "Les Indépendants",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Allier",
       "profession": "Médecin"
     },
     {
       "type": "senateur",
-      "nom": "Mandelli",
-      "prenom": "Didier",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Vendée",
-      "profession": null
-    },
-    {
-      "type": "senateur",
       "nom": "Marc",
       "prenom": "Alain",
-      "groupe_parlementaire": "Les Indépendants",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Aveyron",
       "profession": "Enseignant"
     },
@@ -6731,14 +6683,6 @@
     },
     {
       "type": "senateur",
-      "nom": "Marie",
-      "prenom": "Didier",
-      "groupe_parlementaire": "SER",
-      "circonscription": "Seine-Maritime",
-      "profession": "Professeur des écoles"
-    },
-    {
-      "type": "senateur",
       "nom": "Marseille",
       "prenom": "Hervé",
       "groupe_parlementaire": "UC",
@@ -6747,9 +6691,17 @@
     },
     {
       "type": "senateur",
+      "nom": "Marthey",
+      "prenom": "Arnaud",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Doubs",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Martin",
       "prenom": "Pascal",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Seine-Maritime",
       "profession": "Officier supérieur des sapeurs pompiers"
     },
@@ -6773,7 +6725,7 @@
       "type": "senateur",
       "nom": "Matray",
       "prenom": "Paulette",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Saône-et-Loire",
       "profession": null
     },
@@ -6781,7 +6733,7 @@
       "type": "senateur",
       "nom": "Maurey",
       "prenom": "Hervé",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Eure",
       "profession": "Chef d'entreprise"
     },
@@ -6789,7 +6741,7 @@
       "type": "senateur",
       "nom": "Médevielle",
       "prenom": "Pierre",
-      "groupe_parlementaire": "Les Indépendants",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Haute-Garonne",
       "profession": "Pharmacien"
     },
@@ -6821,7 +6773,7 @@
       "type": "senateur",
       "nom": "Mercier",
       "prenom": "Marie",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Saône-et-Loire",
       "profession": "Médecin"
     },
@@ -6829,9 +6781,17 @@
       "type": "senateur",
       "nom": "Mérillou",
       "prenom": "Serge",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Dordogne",
       "profession": "Retraité"
+    },
+    {
+      "type": "senateur",
+      "nom": "Merle",
+      "prenom": "Annick",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Isère",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -6845,25 +6805,33 @@
       "type": "senateur",
       "nom": "Michau",
       "prenom": "Jean-Jacques",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Ariège",
       "profession": "Retraité"
     },
     {
       "type": "senateur",
+      "nom": "Michel",
+      "prenom": "Sébastien",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Rhône",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Micouleau",
       "prenom": "Brigitte",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Haute-Garonne",
       "profession": "Assistante de direction"
     },
     {
       "type": "senateur",
-      "nom": "Milon",
-      "prenom": "Alain",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Vaucluse",
-      "profession": "Médecin"
+      "nom": "Missioux",
+      "prenom": "Marie-Pierre",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Deux-Sèvres",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -6883,33 +6851,25 @@
     },
     {
       "type": "senateur",
-      "nom": "Monier",
-      "prenom": "Marie-Pierre",
-      "groupe_parlementaire": "SER",
-      "circonscription": "Drôme",
-      "profession": "Professeur"
-    },
-    {
-      "type": "senateur",
-      "nom": "Montaugé",
-      "prenom": "Franck",
-      "groupe_parlementaire": "SER",
-      "circonscription": "Gers",
-      "profession": "Ingénieur"
-    },
-    {
-      "type": "senateur",
       "nom": "Morin-Desailly",
       "prenom": "Catherine",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Seine-Maritime",
       "profession": "Professeur d'anglais"
     },
     {
       "type": "senateur",
+      "nom": "Mougenot",
+      "prenom": "Paul",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Aisne",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Mouiller",
       "prenom": "Philippe",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Deux-Sèvres",
       "profession": null
     },
@@ -6917,7 +6877,7 @@
       "type": "senateur",
       "nom": "Mouton",
       "prenom": "Marie-Pierre",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Drôme",
       "profession": "Pharmacien"
     },
@@ -6925,9 +6885,17 @@
       "type": "senateur",
       "nom": "Muller-Bronn",
       "prenom": "Laurence",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Bas-Rhin",
       "profession": "Guide interprète"
+    },
+    {
+      "type": "senateur",
+      "nom": "Muselier",
+      "prenom": "Renaud",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Bouches-du-Rhône",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -6963,19 +6931,19 @@
     },
     {
       "type": "senateur",
-      "nom": "Noël",
-      "prenom": "Sylviane",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Haute-Savoie",
-      "profession": "Attachée parlementaire"
+      "nom": "Nieson",
+      "prenom": "Nathalie",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Drôme",
+      "profession": "Cadre fonction publique"
     },
     {
       "type": "senateur",
-      "nom": "Nougein",
-      "prenom": "Claude",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Corrèze",
-      "profession": "Chef d'entreprise"
+      "nom": "Noël",
+      "prenom": "Sylviane",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Haute-Savoie",
+      "profession": "Attachée parlementaire"
     },
     {
       "type": "senateur",
@@ -7019,14 +6987,6 @@
     },
     {
       "type": "senateur",
-      "nom": "Paire",
-      "prenom": "Sandra",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Alpes-Maritimes",
-      "profession": "Gérante"
-    },
-    {
-      "type": "senateur",
       "nom": "Pantel",
       "prenom": "Guylène",
       "groupe_parlementaire": "RDSE",
@@ -7037,7 +6997,7 @@
       "type": "senateur",
       "nom": "Panunzi",
       "prenom": "Jean-Jacques",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Corse-du-Sud",
       "profession": "Attaché d'administration"
     },
@@ -7045,7 +7005,7 @@
       "type": "senateur",
       "nom": "Paoli-Gagin",
       "prenom": "Vanina",
-      "groupe_parlementaire": "Les Indépendants",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Aube",
       "profession": "Avocat"
     },
@@ -7053,33 +7013,9 @@
       "type": "senateur",
       "nom": "Parigi",
       "prenom": "Paul Toussaint",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Haute-Corse",
       "profession": "Fonctionnaire de l'éducation nationale"
-    },
-    {
-      "type": "senateur",
-      "nom": "Patient",
-      "prenom": "Georges",
-      "groupe_parlementaire": "RDPI",
-      "circonscription": "Guyane",
-      "profession": "Consultant financier"
-    },
-    {
-      "type": "senateur",
-      "nom": "Patru",
-      "prenom": "Anne-Sophie",
-      "groupe_parlementaire": "UC",
-      "circonscription": "Ille-et-Vilaine",
-      "profession": "Responsable de clientèle agricole"
-    },
-    {
-      "type": "senateur",
-      "nom": "Paul",
-      "prenom": "Philippe",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Finistère",
-      "profession": "Cadre du secteur privé"
     },
     {
       "type": "senateur",
@@ -7093,9 +7029,17 @@
       "type": "senateur",
       "nom": "Pellevat",
       "prenom": "Cyril",
-      "groupe_parlementaire": "Les Indépendants",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Haute-Savoie",
       "profession": "Directeur des ressources humaines"
+    },
+    {
+      "type": "senateur",
+      "nom": "Péré",
+      "prenom": "Marc",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Haute-Garonne",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -7109,33 +7053,17 @@
       "type": "senateur",
       "nom": "Perrin",
       "prenom": "Cédric",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Territoire de Belfort",
       "profession": "Juriste"
     },
     {
       "type": "senateur",
-      "nom": "Perrot",
-      "prenom": "Évelyne",
-      "groupe_parlementaire": "UC",
-      "circonscription": "Aube",
-      "profession": null
-    },
-    {
-      "type": "senateur",
-      "nom": "Petrus",
-      "prenom": "Annick",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Saint-Martin",
-      "profession": "Directrice d'école "
-    },
-    {
-      "type": "senateur",
-      "nom": "Phinera-Horth",
-      "prenom": "Marie-Laure",
-      "groupe_parlementaire": "RDPI",
+      "nom": "Persaud",
+      "prenom": "Ryan",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Guyane",
-      "profession": "Orthophoniste"
+      "profession": null
     },
     {
       "type": "senateur",
@@ -7157,41 +7085,25 @@
       "type": "senateur",
       "nom": "Pla",
       "prenom": "Sebastien",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Aude",
       "profession": "Cadre tourisme"
     },
     {
       "type": "senateur",
+      "nom": "Plassard",
+      "prenom": "Christophe",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Charente-Maritime",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Pluchet",
       "prenom": "Kristina",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Eure",
       "profession": "salariée"
-    },
-    {
-      "type": "senateur",
-      "nom": "Pointereau",
-      "prenom": "Rémy",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Cher",
-      "profession": "Exploitant agricole"
-    },
-    {
-      "type": "senateur",
-      "nom": "Poncet Monge",
-      "prenom": "Raymonde",
-      "groupe_parlementaire": "GEST",
-      "circonscription": "Rhône",
-      "profession": "Directrice d'association"
-    },
-    {
-      "type": "senateur",
-      "nom": "Poumirol",
-      "prenom": "Émilienne",
-      "groupe_parlementaire": "SER",
-      "circonscription": "Haute-Garonne",
-      "profession": "Médecin retraité"
     },
     {
       "type": "senateur",
@@ -7211,6 +7123,14 @@
     },
     {
       "type": "senateur",
+      "nom": "Quentin",
+      "prenom": "Virginie",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Eure-et-Loir",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Rambaud",
       "prenom": "Didier",
       "groupe_parlementaire": "RDPI",
@@ -7227,25 +7147,17 @@
     },
     {
       "type": "senateur",
-      "nom": "Ravier",
-      "prenom": "Stéphane",
-      "groupe_parlementaire": "NI",
-      "circonscription": "Bouches-du-Rhône",
-      "profession": "Fonctionnaire"
-    },
-    {
-      "type": "senateur",
-      "nom": "Raynal",
-      "prenom": "Claude",
-      "groupe_parlementaire": "SER",
-      "circonscription": "Haute-Garonne",
-      "profession": "Conseiller de tribunal administratif"
+      "nom": "Rebsamen",
+      "prenom": "François",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Côte-d'Or",
+      "profession": "Administrateur territorial"
     },
     {
       "type": "senateur",
       "nom": "Redon-Sarrazy",
       "prenom": "Christian",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Haute-Vienne",
       "profession": "Retraité"
     },
@@ -7261,7 +7173,7 @@
       "type": "senateur",
       "nom": "Retailleau",
       "prenom": "Bruno",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Vendée",
       "profession": "Sans profession déclarée"
     },
@@ -7275,6 +7187,14 @@
     },
     {
       "type": "senateur",
+      "nom": "Rhimini",
+      "prenom": "Samir",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Cher",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Richard",
       "prenom": "Olivia",
       "groupe_parlementaire": "UC",
@@ -7283,17 +7203,17 @@
     },
     {
       "type": "senateur",
-      "nom": "Richer",
-      "prenom": "Marie-Pierre",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Cher",
+      "nom": "Richardot",
+      "prenom": "Pernelle",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Bas-Rhin",
       "profession": null
     },
     {
       "type": "senateur",
       "nom": "Rietmann",
       "prenom": "Olivier",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Haute-Saône",
       "profession": "Exploitant agricole"
     },
@@ -7301,9 +7221,17 @@
       "type": "senateur",
       "nom": "Robert",
       "prenom": "Sylvie",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Ille-et-Vilaine",
       "profession": "Cadre culturel"
+    },
+    {
+      "type": "senateur",
+      "nom": "Robin",
+      "prenom": "Alexis",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Eure-et-Loir",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -7312,14 +7240,6 @@
       "groupe_parlementaire": "Les Indépendants",
       "circonscription": "Loire",
       "profession": "Chef d'entreprise de 10 salariés ou plus"
-    },
-    {
-      "type": "senateur",
-      "nom": "Rohfritsch",
-      "prenom": "Teva",
-      "groupe_parlementaire": "RDPI",
-      "circonscription": "Polynésie française",
-      "profession": "Fondé de pouvoir - secteur bancaire "
     },
     {
       "type": "senateur",
@@ -7333,9 +7253,17 @@
       "type": "senateur",
       "nom": "Rojouan",
       "prenom": "Bruno",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Allier",
       "profession": "Retraité"
+    },
+    {
+      "type": "senateur",
+      "nom": "Rolando",
+      "prenom": "Carole",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Gers",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -7363,9 +7291,17 @@
     },
     {
       "type": "senateur",
+      "nom": "Rousselot",
+      "prenom": "Marie-Ange",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Français établis hors de France",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Roux",
       "prenom": "Jean-Yves",
-      "groupe_parlementaire": "RDSE",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Alpes de Haute-Provence",
       "profession": null
     },
@@ -7389,9 +7325,17 @@
       "type": "senateur",
       "nom": "Salmon",
       "prenom": "Daniel",
-      "groupe_parlementaire": "GEST",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Ille-et-Vilaine",
       "profession": "Retraité de l'enseignement"
+    },
+    {
+      "type": "senateur",
+      "nom": "Santoni",
+      "prenom": "Dominique",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Vaucluse",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -7405,17 +7349,9 @@
       "type": "senateur",
       "nom": "Sautarel",
       "prenom": "Stéphane",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Cantal",
       "profession": "Consultant"
-    },
-    {
-      "type": "senateur",
-      "nom": "Savin",
-      "prenom": "Michel",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Isère",
-      "profession": "Agent technique principal"
     },
     {
       "type": "senateur",
@@ -7429,23 +7365,15 @@
       "type": "senateur",
       "nom": "Schalck",
       "prenom": "Elsa",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Bas-Rhin",
       "profession": "Avocat"
     },
     {
       "type": "senateur",
-      "nom": "Schillinger",
-      "prenom": "Patricia",
-      "groupe_parlementaire": "RDPI",
-      "circonscription": "Haut-Rhin",
-      "profession": "Aide soignante"
-    },
-    {
-      "type": "senateur",
       "nom": "Séné",
       "prenom": "Marc",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Bas-Rhin",
       "profession": null
     },
@@ -7475,6 +7403,14 @@
     },
     {
       "type": "senateur",
+      "nom": "Simon",
+      "prenom": "Christian",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Var",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Sol",
       "prenom": "Jean",
       "groupe_parlementaire": "Les Républicains",
@@ -7493,7 +7429,7 @@
       "type": "senateur",
       "nom": "Somon",
       "prenom": "Laurent",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Somme",
       "profession": "Vétérinaire "
     },
@@ -7507,11 +7443,11 @@
     },
     {
       "type": "senateur",
-      "nom": "Stanzione",
-      "prenom": "Lucien",
-      "groupe_parlementaire": "SER",
-      "circonscription": "Vaucluse",
-      "profession": "Retraité"
+      "nom": "Suaud",
+      "prenom": "Thierry",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Haute-Garonne",
+      "profession": null
     },
     {
       "type": "senateur",
@@ -7541,7 +7477,7 @@
       "type": "senateur",
       "nom": "Tetuanui",
       "prenom": "Lana",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Polynésie française",
       "profession": null
     },
@@ -7563,6 +7499,14 @@
     },
     {
       "type": "senateur",
+      "nom": "Tukumuli",
+      "prenom": "Lafaele",
+      "groupe_parlementaire": "Aucun",
+      "circonscription": "Iles Wallis et Futuna",
+      "profession": null
+    },
+    {
+      "type": "senateur",
       "nom": "Uzenat",
       "prenom": "Simon",
       "groupe_parlementaire": "SER",
@@ -7581,7 +7525,7 @@
       "type": "senateur",
       "nom": "Vallet",
       "prenom": "Mickaël",
-      "groupe_parlementaire": "SER",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Charente-Maritime",
       "profession": "Diplomate"
     },
@@ -7589,7 +7533,7 @@
       "type": "senateur",
       "nom": "Varaillas",
       "prenom": "Marie-Claude",
-      "groupe_parlementaire": "CRCE-K",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Dordogne",
       "profession": "Retraitée fonction publique territoriale"
     },
@@ -7605,7 +7549,7 @@
       "type": "senateur",
       "nom": "Ventalon",
       "prenom": "Anne",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Ardèche",
       "profession": "Enseignante"
     },
@@ -7613,7 +7557,7 @@
       "type": "senateur",
       "nom": "Vérien",
       "prenom": "Dominique",
-      "groupe_parlementaire": "UC",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Yonne",
       "profession": "Ingénieure"
     },
@@ -7629,23 +7573,15 @@
       "type": "senateur",
       "nom": "Vial",
       "prenom": "Cédric",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Savoie",
       "profession": "Sans profession"
     },
     {
       "type": "senateur",
-      "nom": "Vidal",
-      "prenom": "Paul",
-      "groupe_parlementaire": "Les Républicains",
-      "circonscription": "Rhône",
-      "profession": "Ingénieur informatique retraité"
-    },
-    {
-      "type": "senateur",
       "nom": "Vogel",
       "prenom": "Jean Pierre",
-      "groupe_parlementaire": "Les Républicains",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Sarthe",
       "profession": "Expert comptable"
     },
@@ -7661,7 +7597,7 @@
       "type": "senateur",
       "nom": "Vogel",
       "prenom": "Mélanie",
-      "groupe_parlementaire": "GEST",
+      "groupe_parlementaire": "Aucun",
       "circonscription": "Français établis hors de France",
       "profession": "Conseillère politique"
     },
