@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-02T10:38:53.204197+00:00",
+  "genere_le": "2026-10-03T09:53:08.005136+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -130,6 +130,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moldavie_securite_sociale"
     },
     {
+      "uid": "DLR5L17N54953",
+      "titre": "Proposition de loi constitutionnelle visant à refonder le statut constitutionnel des outre-mer en substituant aux articles 73 et 74 un article 73 unique instituant un régime « à la carte », fondé sur la libre administration et la différenciation",
+      "procedure": "Projet ou proposition de loi constitutionnelle",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-01T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54953"
+    },
+    {
       "uid": "DLR5L17N54951",
       "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
       "procedure": "Projet de loi de financement de la sécurité sociale",
@@ -137,6 +146,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-01T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
+    },
+    {
+      "uid": "DLR5L17N54954",
+      "titre": "Proposition de loi visant à garantir un service public de proximité dans chaque commune",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-28T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54954"
     },
     {
       "uid": "DLR5L17N54606",
@@ -157,6 +175,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/conditionner_depense_etranger_investissement"
     },
     {
+      "uid": "DLR5L17N54955",
+      "titre": "Proposition de loi contre la fraude en ligne",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-25T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54955"
+    },
+    {
       "uid": "DLR5L17N54608",
       "titre": "La relance et la décentralisation du logement",
       "procedure": "Projet de loi ordinaire",
@@ -173,6 +200,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-23T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54928"
+    },
+    {
+      "uid": "DLR5L17N54952",
+      "titre": "Proposition de loi visant à faciliter la vie démocratique et l'exercice de la citoyenneté dans les communes",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-09-23T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54952"
     },
     {
       "uid": "DLR5L17N54927",

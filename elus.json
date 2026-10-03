@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-02T10:38:25.338841+00:00",
+  "genere_le": "2026-10-03T09:52:45.786073+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -4879,7 +4879,7 @@
       "prenom": "Géraldine",
       "groupe_parlementaire": "Aucun",
       "circonscription": "Gironde",
-      "profession": null
+      "profession": "Agent Territorial"
     },
     {
       "type": "senateur",
@@ -4959,7 +4959,7 @@
       "prenom": "Véronique",
       "groupe_parlementaire": "Aucun",
       "circonscription": "Ain",
-      "profession": null
+      "profession": "Cadre de la fonction publique territoriale"
     },
     {
       "type": "senateur",
@@ -5311,7 +5311,7 @@
       "prenom": "Florent",
       "groupe_parlementaire": "Aucun",
       "circonscription": "Drôme",
-      "profession": null
+      "profession": "Comptable "
     },
     {
       "type": "senateur",
@@ -6559,7 +6559,7 @@
       "prenom": "Carine",
       "groupe_parlementaire": "Aucun",
       "circonscription": "Var",
-      "profession": null
+      "profession": "Ancienne chef d'entreprise"
     },
     {
       "type": "senateur",
@@ -6815,7 +6815,7 @@
       "prenom": "Sébastien",
       "groupe_parlementaire": "Aucun",
       "circonscription": "Rhône",
-      "profession": null
+      "profession": "Cadre dirigeant "
     },
     {
       "type": "senateur",
@@ -7447,7 +7447,7 @@
       "prenom": "Thierry",
       "groupe_parlementaire": "Aucun",
       "circonscription": "Haute-Garonne",
-      "profession": null
+      "profession": "Attaché territorial "
     },
     {
       "type": "senateur",
@@ -7503,7 +7503,7 @@
       "prenom": "Lafaele",
       "groupe_parlementaire": "Aucun",
       "circonscription": "Iles Wallis et Futuna",
-      "profession": null
+      "profession": "Agent territorial"
     },
     {
       "type": "senateur",
