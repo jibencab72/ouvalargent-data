@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-03T09:52:45.786073+00:00",
+  "genere_le": "2026-10-04T10:37:32.355864+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -757,7 +757,7 @@
       "prenom": "Antoine",
       "parti": "Les Républicains",
       "profession": "Conseiller parlementaire",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/vermorel-marques-antoine-20369"
+      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/vermorel-antoine-20369"
     },
     {
       "type": "depute",
@@ -981,7 +981,7 @@
       "prenom": "Éric",
       "parti": null,
       "profession": "Pharmacien",
-      "uri_hatvp": null
+      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/gerard-eric-4026"
     },
     {
       "type": "depute",
