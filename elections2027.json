@@ -1,12 +1,1484 @@
 {
-  "genere_le": "2026-10-08T11:24:55.826038+00:00",
-  "date_releve": "2026-08-16T00:00:00+00:00",
+  "schema_version": 2,
+  "genere_le": "2026-10-08T16:13:20.977743+00:00",
+  "date_releve": "2026-10-08T00:00:00+00:00",
   "calendrier": {
     "premier_tour": "2027-04-18",
     "second_tour": "2027-05-02",
-    "statut": "Dates retenues par le gouvernement, annoncées en Conseil des ministres le 1ᵉʳ juillet 2026. Le décret officiel de convocation des électeurs — l'acte qui les fixe juridiquement de façon définitive — est habituellement publié plus près de l'échéance (quelques semaines avant le scrutin), pas un an à l'avance.",
-    "note_outre_mer": "En Guadeloupe, Martinique, Guyane, à Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin et en Polynésie française, le vote a lieu la veille (décalage horaire) : samedis 17 avril et 1er mai 2027.",
-    "source_url": "https://www.elections.interieur.gouv.fr/scrutins/lelection-presidentielle"
+    "statut": "Dates arrêtées par le Conseil des ministres du 1ᵉʳ juillet 2026 et publiées par Service-Public.gouv.fr. Le décret de convocation des électeurs, qui les fixe juridiquement, est publié quelques semaines avant le scrutin.",
+    "note_outre_mer": "En Guadeloupe, Martinique, Guyane, à Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin et en Polynésie française, le vote a lieu la veille (décalage horaire) : samedis 17 avril et 1ᵉʳ mai 2027.",
+    "source_nom": "Service-Public.gouv.fr (DILA) — « Les dates de l'élection présidentielle de 2027 sont annoncées », 2 juillet 2026",
+    "source_url": "https://www.service-public.gouv.fr/particuliers/actualites/A15053"
+  },
+  "etapes": [
+    {
+      "date": "2026-07-01",
+      "titre": "Dates des deux tours arrêtées",
+      "detail": "Le Conseil des ministres retient les dimanches 18 avril et 2 mai 2027.",
+      "statut": "fait",
+      "source_nom": "Service-Public.gouv.fr",
+      "source_url": "https://www.service-public.gouv.fr/particuliers/actualites/A15053"
+    },
+    {
+      "date": "2026-10-09",
+      "date_fin": "2026-10-10",
+      "date_approx": null,
+      "titre": "1er tour de la primaire « Choisir 2027 »",
+      "detail": "PS, Place publique et Gauche républicaine et socialiste. Vote en ligne ; 140 282 inscrits. Candidats : Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj, Emmanuel Maurel.",
+      "statut": "prevu",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/primaire-de-gauche-plus-de-140000-inscrits-pour-voter-au-premier-tour-443021"
+    },
+    {
+      "date": "2026-10-15",
+      "date_fin": null,
+      "date_approx": null,
+      "titre": "Date limite des mémoires du pourvoi de Marine Le Pen",
+      "detail": "Les avocats ont jusqu'à cette date pour déposer leurs mémoires devant la Cour de cassation.",
+      "statut": "prevu",
+      "source_nom": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html"
+    },
+    {
+      "date": "2026-10-16",
+      "date_fin": "2026-10-17",
+      "date_approx": null,
+      "titre": "2nd tour éventuel de la primaire « Choisir 2027 »",
+      "detail": "Seulement si aucun candidat n'obtient la majorité au 1er tour.",
+      "statut": "prevu",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/primaire-de-gauche-plus-de-140000-inscrits-pour-voter-au-premier-tour-443021"
+    },
+    {
+      "date": "2026-12-10",
+      "date_fin": "2026-12-13",
+      "date_approx": null,
+      "titre": "Vote des adhérents des Écologistes",
+      "detail": "Choix entre une candidature écologiste (Marine Tondelier) et le soutien à un candidat d'une autre formation de gauche.",
+      "statut": "prevu",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice"
+    },
+    {
+      "date": null,
+      "titre": "Décret de convocation des électeurs",
+      "detail": "Acte qui fixe juridiquement les dates ; publié au Journal officiel quelques semaines avant le scrutin.",
+      "statut": "a_confirmer",
+      "source_nom": "Service-Public.gouv.fr",
+      "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1940"
+    },
+    {
+      "date": null,
+      "titre": "Période de recueil des parrainages",
+      "detail": "Les élus habilités adressent leurs présentations au Conseil constitutionnel ; les noms sont publiés au fur et à mesure.",
+      "statut": "a_confirmer",
+      "source_nom": "Conseil constitutionnel",
+      "source_url": "https://www.conseil-constitutionnel.fr/"
+    },
+    {
+      "date": null,
+      "titre": "Liste officielle des candidats",
+      "detail": "Établie et publiée par le Conseil constitutionnel après vérification des 500 parrainages.",
+      "statut": "a_confirmer",
+      "source_nom": "Conseil constitutionnel",
+      "source_url": "https://www.conseil-constitutionnel.fr/"
+    },
+    {
+      "date": null,
+      "date_fin": null,
+      "date_approx": "au plus tard début avril 2027",
+      "titre": "Décision de la Cour de cassation sur le pourvoi de Marine Le Pen",
+      "detail": "La Cour indique pouvoir statuer « au plus tard début avril 2027 », sous réserve des aléas de procédure.",
+      "statut": "a_confirmer",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/pourvoi-de-marine-le-pen-la-cour-de-cassation-pourrait-etre-en-mesure-de-se-prononcer"
+    },
+    {
+      "date": null,
+      "titre": "Campagne officielle",
+      "detail": "Temps de parole et d'antenne encadrés par l'Arcom à partir de l'ouverture de la campagne officielle.",
+      "statut": "a_confirmer",
+      "source_nom": "Ministère de l'Intérieur",
+      "source_url": "https://www.elections.interieur.gouv.fr/scrutins/lelection-presidentielle"
+    },
+    {
+      "date": "2027-04-18",
+      "titre": "Premier tour",
+      "detail": "Dimanche 18 avril 2027 (samedi 17 avril dans les territoires concernés par le décalage horaire).",
+      "statut": "prevu",
+      "source_nom": "Service-Public.gouv.fr",
+      "source_url": "https://www.service-public.gouv.fr/particuliers/actualites/A15053"
+    },
+    {
+      "date": "2027-05-02",
+      "titre": "Second tour",
+      "detail": "Dimanche 2 mai 2027 (samedi 1ᵉʳ mai dans les territoires concernés), deux semaines après le premier tour.",
+      "statut": "prevu",
+      "source_nom": "Service-Public.gouv.fr",
+      "source_url": "https://www.service-public.gouv.fr/particuliers/actualites/A15053"
+    },
+    {
+      "date": null,
+      "titre": "Proclamation des résultats et prise de fonction",
+      "detail": "Le Conseil constitutionnel proclame les résultats ; le mandat du président élu commence à la fin de celui en cours.",
+      "statut": "a_confirmer",
+      "source_nom": "Conseil constitutionnel",
+      "source_url": "https://www.conseil-constitutionnel.fr/"
+    }
+  ],
+  "candidatures": {
+    "note": "Candidatures déclarées publiquement par la personne ou désignées par son parti, dans l'ordre chronologique des annonces, chacune avec sa source. Une candidature n'est officielle qu'une fois inscrite sur la liste publiée par le Conseil constitutionnel, quelques semaines avant le scrutin.",
+    "declarees": [
+      {
+        "id": "c-philippe",
+        "nom": "Édouard Philippe",
+        "parti": "Horizons",
+        "statut": "Candidature annoncée",
+        "date": "2024-09-03",
+        "detail": "Président d'Horizons et ancien Premier ministre, il a annoncé sa candidature dans un entretien au Point le 3 septembre 2024.",
+        "source_nom": "La Libre (dépêche AFP)",
+        "source_url": "https://www.lalibre.be/international/europe/elections-france/2024/09/03/france-edouard-philippe-sera-candidat-a-la-prochaine-election-presidentielle-M3REBQQWAVDUJBOSZ24LO2R5EI/",
+        "source_titre": "France: Edouard Philippe sera candidat à la prochaine élection présidentielle",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-dupontaignan",
+        "nom": "Nicolas Dupont-Aignan",
+        "parti": "Debout la France",
+        "statut": "Candidature annoncée",
+        "date": "2025-03-08",
+        "detail": "A annoncé le 8 mars 2025, lors d'un meeting à Yerres (Essonne), sa candidature à la présidentielle de 2027, puis l'a officialisée le 19 septembre 2026 lors de sa rentrée politique à Yerres. Il a été candidat en 2012, 2017 et 2022.",
+        "source_nom": "Debout la France (site officiel)",
+        "source_url": "https://www.debout-la-france.fr/actualite/je-suis-candidat-pour/",
+        "source_titre": "Je suis candidat pour rendre le pouvoir aux Français et rendre sa liberté à la France !",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-batho",
+        "nom": "Delphine Batho",
+        "parti": "Génération écologie",
+        "statut": "Candidature annoncée",
+        "date": "2025-11-25",
+        "detail": "Députée des Deux-Sèvres, elle a annoncé sa candidature dans un entretien à L'Obs ; elle a ensuite été investie par Génération écologie.",
+        "source_nom": "ID, l'Info Durable",
+        "source_url": "https://www.linfodurable.fr/lex-ministre-delphine-batho-candidate-la-presidentielle-pour-conjurer-la-rikikisation-de-lecologie",
+        "source_titre": "L'ex-ministre Delphine Batho candidate à la présidentielle pour conjurer la \"rikikisation\" de l'écologie",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-tondelier",
+        "nom": "Marine Tondelier",
+        "parti": "Les Écologistes",
+        "statut": "Désignée par son parti (choix final soumis au vote des adhérents du 10 au 13 décembre 2026)",
+        "date": "2025-12-08",
+        "detail": "Désignée par les adhérents des Écologistes (86 %) pour la primaire de la gauche unitaire. Après l'abandon de cette primaire, le parti a maintenu son investiture jusqu'à un vote des adhérents en décembre 2026.",
+        "source_nom": "Public Sénat",
+        "source_url": "https://www.franceinfo.fr/politique/eelv/presidentielle-2027-sans-surprise-marine-tondelier-a-ete-designee-pour-representer-les-ecologistes-a-la-primaire-de-la-gauche_7666159.html",
+        "source_titre": "Présidentielle 2027 : les Écologistes reportent l'heure du choix à décembre, Marine Tondelier toujours en lice",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-arthaud",
+        "nom": "Nathalie Arthaud",
+        "parti": "Lutte ouvrière (LO)",
+        "statut": "Candidature annoncée",
+        "date": "2025-12-08",
+        "detail": "Porte-parole de Lutte ouvrière, elle a annoncé sa candidature pour 2027. Elle a été candidate en 2012, 2017 et 2022.",
+        "source_nom": "franceinfo",
+        "source_url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html",
+        "source_titre": "Présidentielle 2027 : Nathalie Arthaud, porte-parole de Lutte ouvrière, annonce sa candidature",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-branco",
+        "nom": "Juan Branco",
+        "parti": "Sans parti (mouvement « Les Ruches »)",
+        "statut": "Candidature annoncée",
+        "date": "2025-12-19",
+        "detail": "Avocat et essayiste, il a annoncé sa candidature dans un entretien sur Sud Radio.",
+        "source_nom": "Sud Radio",
+        "source_url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+        "source_titre": "L'avocat Juan Branco, candidat à la présidentielle",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-guedj",
+        "nom": "Jérôme Guedj",
+        "parti": "Parti socialiste (PS)",
+        "statut": "Candidat à la primaire « Choisir 2027 » (PS-Place publique-GRS)",
+        "date": "2026-02-05",
+        "detail": "Député PS, il avait annoncé sa candidature le 5 février 2026 en indiquant ne pas passer par une primaire de toute la gauche ; il figure parmi les cinq candidats retenus pour la primaire « Choisir 2027 ».",
+        "source_nom": "Public Sénat",
+        "source_url": "https://www.cnews.fr/france/2026-02-05/presidentielle-2027-jerome-guedj-annonce-sa-candidature-sans-passer-par-la",
+        "source_titre": "Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-asselineau",
+        "nom": "François Asselineau",
+        "parti": "Union populaire républicaine (UPR)",
+        "statut": "Candidature annoncée",
+        "date": "2026-03-21",
+        "detail": "A lancé formellement sa campagne le 21 mars 2026 lors des 19 ans de l'UPR à Paris (il avait annoncé dès 2023 vouloir se présenter de nouveau). Il a été candidat en 2017.",
+        "source_nom": "UPR (site officiel)",
+        "source_url": "https://upr.fr/militantisme/19-ans-de-lupr-francois-asselineau-lance-sa-campagne-presidentielle-2027-et-nomme-marc-parigot-directeur-de-campagne/",
+        "source_titre": "19 ans de l'UPR : François Asselineau lance sa campagne présidentielle 2027 et nomme Marc Parigot directeur de campagne",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-lisnard",
+        "nom": "David Lisnard",
+        "parti": "Nouvelle Énergie",
+        "statut": "Candidature annoncée",
+        "date": "2026-03-31",
+        "detail": "Maire de Cannes, il a confirmé sa candidature sur France 2 en annonçant son départ des Républicains. Il plaide pour une primaire de la droite.",
+        "source_nom": "Public Sénat",
+        "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-david-lisnard-maire-de-cannes-annonce-sa-candidature-et-quitte-officiellement-les-lr",
+        "source_titre": "Présidentielle 2027 : David Lisnard, maire de Cannes, annonce sa candidature et quitte officiellement les LR",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-retailleau",
+        "nom": "Bruno Retailleau",
+        "parti": "Les Républicains (LR)",
+        "statut": "Désigné par son parti",
+        "date": "2026-04-19",
+        "detail": "A annoncé sa candidature le 12 février 2026 dans une lettre aux élus LR. Les adhérents LR l'ont désigné candidat le 19 avril 2026 (73,8 % des votants, environ 60 % de participation).",
+        "source_nom": "Public Sénat",
+        "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr",
+        "source_titre": "Présidentielle : les adhérents LR désignent Bruno Retailleau comme candidat",
+        "photo": "portrait_retailleau",
+        "photo_credit": "Anthony Montardy, licence CC BY 4.0 — Wikimedia Commons"
+      },
+      {
+        "id": "c-egger",
+        "nom": "Clara Egger",
+        "parti": "Solution démocratique",
+        "statut": "Candidature annoncée",
+        "date": "2026-04-20",
+        "detail": "Candidature présentée par le mouvement Solution démocratique, centré sur la démocratie directe.",
+        "source_nom": "Sud Radio",
+        "source_url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "source_titre": "Présidentielle 2027 : le point sur toutes les candidatures",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-cazeneuve",
+        "nom": "Bernard Cazeneuve",
+        "parti": "La Convention",
+        "statut": "Candidature annoncée",
+        "date": "2026-04-28",
+        "detail": "Ancien Premier ministre et président de La Convention, il s'est dit candidat dans un entretien au Figaro paru le 28 avril 2026, puis a formalisé sa candidature le 16 juillet 2026 dans un entretien au Parisien, accompagné d'une « lettre aux Français » de 86 pages. Il ne passe pas par la primaire « Choisir 2027 ». LCP (mise à jour du 24 septembre) le classe encore parmi les « tentés ».",
+        "source_nom": "Europe 1",
+        "source_url": "https://www.europe1.fr/politique/presidentielle-2027-bernard-cazeneuve-annonce-sa-candidature-le-barrage-a-jean-luc-melenchon-se-precise-929339",
+        "source_titre": "Présidentielle 2027 : Bernard Cazeneuve annonce sa candidature, le barrage à Jean-Luc Mélenchon se précise",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-melenchon",
+        "nom": "Jean-Luc Mélenchon",
+        "parti": "La France insoumise (LFI)",
+        "statut": "Désigné par son parti",
+        "date": "2026-05-03",
+        "detail": "Désigné par les élus LFI réunis à Paris, il a annoncé sa candidature au 20 h de TF1. Quatrième candidature présidentielle ; LFI ne participe à aucune primaire.",
+        "source_nom": "LCP",
+        "source_url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
+        "source_titre": "Présidentielle: Jean-Luc Mélenchon officialise sa candidature pour 2027",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-philippot",
+        "nom": "Florian Philippot",
+        "parti": "Les Patriotes",
+        "statut": "Candidature annoncée",
+        "date": "2026-05-09",
+        "detail": "Président des Patriotes, il a annoncé sa candidature sur franceinfo en indiquant qu'il pourrait se retirer au profit d'une candidature souverainiste plus large.",
+        "source_nom": "Orange Actualités (6Medias)",
+        "source_url": "https://actu.orange.fr/politique/presidentielle-2027-florian-philippot-president-des-patriotes-est-candidat-magic-CNT000002p6PWw.html",
+        "source_titre": "Présidentielle 2027 : Florian Philippot, président des Patriotes, est candidat",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-ruffin",
+        "nom": "François Ruffin",
+        "parti": "Debout !",
+        "statut": "Candidature annoncée (hors primaire)",
+        "date": "2026-05-12",
+        "detail": "A déclaré sur France Inter qu'il serait candidat en l'absence de primaire de la gauche. Il n'a pas été intégré à la primaire « Choisir 2027 » et la primaire unitaire a été abandonnée.",
+        "source_nom": "LCP",
+        "source_url": "https://lcp.fr/actualites/presidentielle-2027-s-il-n-y-a-pas-de-primaire-moi-j-y-vais-annonce-francois-ruffin",
+        "source_titre": "Présidentielle 2027: \"S'il n'y a pas de primaire, moi j'y vais\", annonce François Ruffin",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-attal",
+        "nom": "Gabriel Attal",
+        "parti": "Renaissance",
+        "statut": "Candidature annoncée",
+        "date": "2026-05-22",
+        "detail": "Secrétaire général de Renaissance et ancien Premier ministre, il a annoncé sa candidature à Mur-de-Barrez (Aveyron) à l'issue d'un débat citoyen.",
+        "source_nom": "LCP",
+        "source_url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721",
+        "source_titre": "Présidentielle 2027: Gabriel Attal officialise sa candidature",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-kazib",
+        "nom": "Anasse Kazib",
+        "parti": "Révolution permanente",
+        "statut": "Candidature annoncée",
+        "date": "2026-06-01",
+        "detail": "Cheminot et syndicaliste SUD Rail, il a annoncé sa candidature par un clip de campagne. Il avait tenté de se présenter en 2022 sans obtenir les parrainages.",
+        "source_nom": "franceinfo",
+        "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-cheminot-anasse-kazib-annonce-sa-candidature_8040020.html",
+        "source_titre": "Le cheminot Anasse Kazib annonce sa candidature à la présidentielle 2027",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-bouamrane",
+        "nom": "Karim Bouamrane",
+        "parti": "Parti socialiste (PS)",
+        "statut": "Candidature annoncée (hors primaire « Choisir 2027 »)",
+        "date": "2026-06-09",
+        "detail": "Maire PS de Saint-Ouen, il a annoncé sa candidature sur France Inter. Il ne participe pas à la primaire « Choisir 2027 ».",
+        "source_nom": "Orange Actualités (6Medias)",
+        "source_url": "https://actu.orange.fr/politique/presidentielle-2027-karim-bouamrane-maire-socialiste-de-saint-ouen-annonce-etre-candidat-magic-CNT000002pQAcH.html",
+        "source_titre": "Présidentielle 2027 : Karim Bouamrane, maire socialiste de Saint-Ouen, annonce être candidat",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-labib",
+        "nom": "Selma Labib",
+        "parti": "NPA-Révolutionnaires",
+        "statut": "Désignée par son parti",
+        "date": "2026-06-17",
+        "detail": "Conductrice de bus et porte-parole du NPA-Révolutionnaires, elle a été présentée comme candidate du parti. Elle conduisait la liste du parti aux européennes de 2024.",
+        "source_nom": "LCP",
+        "source_url": "https://npa-revolutionnaires.org/articles/presidentielle-selma-labib-une-candidate-ouvriere-et-revolutionnaire",
+        "source_titre": "Présidentielle 2027: Philippe Poutou renonce à se présenter et se range derrière Jean-Luc Mélenchon",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-mikolajczak",
+        "nom": "Antoine Mikolajczak",
+        "parti": "Équinoxe",
+        "statut": "Candidature annoncée",
+        "date": "2026-06-27",
+        "detail": "Candidature annoncée par le parti Équinoxe.",
+        "source_nom": "Sud Radio",
+        "source_url": "https://www.sudradio.fr/politique/presidentielle-2027-le-point-sur-toutes-les-candidatures",
+        "source_titre": "Présidentielle 2027 : le point sur toutes les candidatures",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-lepen",
+        "nom": "Marine Le Pen",
+        "parti": "Rassemblement national (RN)",
+        "statut": "Candidature annoncée",
+        "date": "2026-07-07",
+        "detail": "A annoncé sa candidature le soir de l'arrêt de la cour d'appel de Paris, qui a jugé sa peine d'inéligibilité déjà purgée. Un pourvoi en cassation est en cours.",
+        "source_nom": "Le Club des Juristes",
+        "source_url": "https://www.leclubdesjuristes.com/en-bref/marine-le-pen-candidate-a-la-presidentielle-de-2027-malgre-sa-condamnation-en-appel-16843/",
+        "source_titre": "Marine Le Pen candidate à la présidentielle de 2027 malgré sa condamnation en appel",
+        "photo": "portrait_le_pen",
+        "photo_credit": "Vox España, licence CC0 (domaine public) — Wikimedia Commons"
+      },
+      {
+        "id": "c-royal",
+        "nom": "Ségolène Royal",
+        "parti": "Parti socialiste (PS)",
+        "statut": "Candidate à la primaire « Choisir 2027 » (PS-Place publique-GRS)",
+        "date": "2026-07-10",
+        "detail": "A annoncé sur X sa candidature à la primaire du pôle socialiste, au lendemain du vote des militants PS fixant les règles de cette primaire.",
+        "source_nom": "LCP",
+        "source_url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste",
+        "source_titre": "Présidentielle 2027: Ségolène Royal annonce sa candidature à la primaire socialiste",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-lalanne",
+        "nom": "Francis Lalanne",
+        "parti": "France Libre (mouvement citoyen)",
+        "statut": "Candidature annoncée",
+        "date": "2026-08-19",
+        "detail": "Le chanteur a annoncé sa candidature le 19 août 2026 par un communiqué relayé par Le Parisien, avec un meeting de lancement au théâtre Galabru (Paris 18e) le vendredi suivant.",
+        "source_nom": "La Libre",
+        "source_url": "https://www.lalibre.be/international/europe/2026/08/19/francis-lalanne-officiellement-candidat-a-la-presidentielle-2027-IYHINYS4IJG43AHUFIS2XZVX54/",
+        "source_titre": "Francis Lalanne officiellement candidat à la présidentielle 2027",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-glucksmann",
+        "nom": "Raphaël Glucksmann",
+        "parti": "Place publique",
+        "statut": "Candidat à la primaire « Choisir 2027 » (PS-Place publique-GRS)",
+        "date": "2026-08-23",
+        "detail": "A annoncé sa candidature au 20 h de TF1 et sa participation à la primaire organisée par le PS, Place publique et la GRS (1er tour les 9 et 10 octobre 2026).",
+        "source_nom": "Journal du Net",
+        "source_url": "https://www.journaldunet.com/business/action-publique/1553959-raphael-glucksmann-annonce-sa-candidature-a-la-presidentielle-de-2027/",
+        "source_titre": "Raphaël Glucksmann annonce sa candidature à la présidentielle de 2027",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-bertrand",
+        "nom": "Xavier Bertrand",
+        "parti": "Nous France (membre de LR ; se présente en candidat indépendant)",
+        "statut": "Candidature annoncée",
+        "date": "2026-08-27",
+        "detail": "Président de la région Hauts-de-France, il a déclaré « Je serai candidat » à l'université de rentrée du Medef et a écarté toute primaire de la droite et du centre.",
+        "source_nom": "Le JDD",
+        "source_url": "https://www.lejdd.fr/politique/presidentielle-2027-xavier-bertrand-officialise-sa-candidature-et-ecarte-toute-primaire-181947",
+        "source_titre": "Présidentielle 2027 : Xavier Bertrand officialise sa candidature et écarte toute primaire",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-faure",
+        "nom": "Olivier Faure",
+        "parti": "Parti socialiste (PS)",
+        "statut": "Candidat à la primaire « Choisir 2027 » (PS-Place publique-GRS)",
+        "date": "2026-08-30",
+        "detail": "Premier secrétaire du PS, il a annoncé sa candidature à la primaire du pôle social-démocrate.",
+        "source_nom": "France 24",
+        "source_url": "https://www.france24.com/fr/france/20260830-pr%C3%A9sidentielle-2027-olivier-faure-annonce-sa-candidature-%C3%A0-la-primaire-de-la-gauche",
+        "source_titre": "Présidentielle 2027 : Olivier Faure annonce sa candidature à la primaire de la gauche",
+        "photo": "portrait_faure",
+        "photo_credit": "KimiRaikkonen3 (via Flickr), domaine public — Wikimedia Commons"
+      },
+      {
+        "id": "c-maurel",
+        "nom": "Emmanuel Maurel",
+        "parti": "Gauche républicaine et socialiste (GRS)",
+        "statut": "Candidat à la primaire « Choisir 2027 » (PS-Place publique-GRS)",
+        "date": "2026-09-04",
+        "detail": "Député du Val-d'Oise et président de la GRS, il a annoncé sa candidature à la primaire sur franceinfo ; la GRS l'a investi directement.",
+        "source_nom": "HuffPost (via Yahoo Actualités)",
+        "source_url": "https://fr.news.yahoo.com/sport/pr%C3%A9sidentielle-2027-d%C3%A9put%C3%A9-emmanuel-maurel-100011116.html",
+        "source_titre": "Présidentielle 2027 : le député Emmanuel Maurel annonce sa candidature à la primaire du PS",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-roussel",
+        "nom": "Fabien Roussel",
+        "parti": "Parti communiste français (PCF)",
+        "statut": "Désigné par son parti",
+        "date": "2026-09-06",
+        "detail": "Les adhérents du PCF ont approuvé sa candidature à 72 % lors d'un vote du 3 au 6 septembre 2026. Il avait obtenu 2,28 % en 2022.",
+        "source_nom": "LCP",
+        "source_url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+        "source_titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-zemmour",
+        "nom": "Éric Zemmour",
+        "parti": "Reconquête",
+        "statut": "Candidature annoncée (déclaration formelle attendue)",
+        "date": "2026-09-17",
+        "detail": "Président de Reconquête, il a confirmé sa candidature lors d'un entretien sur BFMTV. Sarah Knafo a indiqué qu'il était le candidat du parti.",
+        "source_nom": "LCP",
+        "source_url": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871",
+        "source_titre": "Présidentielle 2027: Éric Zemmour officialise sa candidature",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-becht",
+        "nom": "Olivier Becht",
+        "parti": "Sans parti (ex-Agir ensemble, apparenté Ensemble pour la République)",
+        "statut": "Candidature annoncée",
+        "date": "2026-09-24",
+        "detail": "Député du Haut-Rhin et ancien ministre délégué au Commerce extérieur, il a annoncé sa candidature en se présentant hors des partis.",
+        "source_nom": "France 3 Grand Est",
+        "source_url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/je-suis-lucide-je-ne-suis-pas-le-favori-olivier-becht-depute-du-haut-rhin-declare-sa-candidature-a-l-election-presidentielle-3422486.html",
+        "source_titre": "\"Je suis lucide, je ne suis pas le favori\", Olivier Becht, député du Haut-Rhin, déclare sa candidature à l'élection présidentielle",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-markovic",
+        "nom": "Mira Markovic",
+        "parti": "Parti animaliste",
+        "statut": "Désignée par son parti",
+        "date": "2026-10-02",
+        "detail": "Cofondatrice du Parti animaliste (2016) et ancienne conseillère de Paris, elle a été présentée comme candidate du parti lors d'une conférence de presse. Le parti n'avait pas obtenu les 500 parrainages en 2022.",
+        "source_nom": "CNews",
+        "source_url": "https://www.cnews.fr/france/2026-10-02/presidentielle-2027-si-nous-ne-sommes-pas-la-personne-ne-parle-des-animaux",
+        "source_titre": "Présidentielle 2027 : «Si nous ne sommes pas là, personne ne parle des animaux», déplore Mira Markovic, la candidate du Parti animaliste",
+        "photo": null,
+        "photo_credit": null
+      }
+    ],
+    "officielles": [],
+    "note_officielles": "La liste officielle des candidats n'est pas encore publiée par le Conseil constitutionnel."
+  },
+  "actualites": [
+    {
+      "id": "a25",
+      "date": "2026-10-06",
+      "type": "primaire",
+      "titre": "140 282 inscrits pour le 1er tour de la primaire",
+      "resume": "Dont 31 030 militants PS, 37 017 sympathisants inscrits via le PS et 28 456 inscriptions Place publique.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/primaire-de-gauche-plus-de-140000-inscrits-pour-voter-au-premier-tour-443021"
+    },
+    {
+      "id": "a24",
+      "date": "2026-10-04",
+      "type": "debat",
+      "titre": "Dernier débat de la primaire « Choisir 2027 »",
+      "resume": "Les cinq candidats débattent sur BFMTV avant le 1er tour des 9 et 10 octobre.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat"
+    },
+    {
+      "id": "a-add-markovic",
+      "date": "2026-10-02",
+      "type": "candidature",
+      "titre": "Le Parti animaliste présente Mira Markovic",
+      "resume": "Le Parti animaliste désigne sa cofondatrice comme candidate à la présidentielle.",
+      "source_nom": "CNews",
+      "source_url": "https://www.cnews.fr/france/2026-10-02/presidentielle-2027-si-nous-ne-sommes-pas-la-personne-ne-parle-des-animaux"
+    },
+    {
+      "id": "a23",
+      "date": "2026-09-24",
+      "type": "institutions",
+      "titre": "Emmanuel Macron écarte une dissolution avant la présidentielle",
+      "resume": "Sur TF1 et France 2, le président estime qu'une dissolution « bloquerait le prochain président ».",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/ce-ne-serait-pas-bon-pour-le-pays-emmanuel-macron-ecarte-l-hypothese-d-une-dissolution"
+    },
+    {
+      "id": "a22",
+      "date": "2026-09-21",
+      "type": "primaire",
+      "titre": "Les Écologistes abandonnent la primaire unitaire",
+      "resume": "Le conseil fédéral renvoie le choix de la stratégie à un vote des adhérents du 10 au 13 décembre 2026.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice"
+    },
+    {
+      "id": "a21",
+      "date": "2026-09-20",
+      "type": "primaire",
+      "titre": "François Bayrou propose une primaire du bloc central",
+      "resume": "Le président du MoDem propose une primaire en ligne début 2027 pour un candidat unique et exclut d'être lui-même candidat.",
+      "source_nom": "Journal du Net",
+      "source_url": "https://www.journaldunet.com/business/action-publique/1555143-francois-bayrou-propose-une-primaire-ouverte-du-grand-fleuve-central-pour-designer-un-candidat-unique-avant-la-presidentielle-de-2027/"
+    },
+    {
+      "id": "a-add-nda",
+      "date": "2026-09-19",
+      "type": "candidature",
+      "titre": "Nicolas Dupont-Aignan officialise sa candidature",
+      "resume": "Lors de sa rentrée politique à Yerres, le président de Debout la France officialise sa quatrième candidature présidentielle.",
+      "source_nom": "CNews",
+      "source_url": "https://www.cnews.fr/france/2026-09-19/presidentielle-2027-nicolas-dupont-aignan-officialise-sa-candidature-lors-de-son"
+    },
+    {
+      "id": "a20",
+      "date": "2026-09-17",
+      "type": "candidature",
+      "titre": "Éric Zemmour confirme sa candidature",
+      "resume": "Le président de Reconquête se déclare candidat sur BFMTV.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871"
+    },
+    {
+      "id": "a19",
+      "date": "2026-09-16",
+      "type": "primaire",
+      "titre": "Cinq candidats retenus pour « Choisir 2027 »",
+      "resume": "Glucksmann, Faure, Royal, Guedj et Maurel sont retenus ; Philippe Brun, suspendu à titre conservatoire par le PS, n'y participe pas.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence"
+    },
+    {
+      "id": "a-add-massard",
+      "date": "2026-09-09",
+      "type": "retrait",
+      "titre": "Lydie Massard se retire",
+      "resume": "L'ancienne eurodéputée UDB renonce à sa candidature après l'échec de la primaire de la gauche unitaire.",
+      "source_nom": "franceinfo (trombinoscope des candidats)",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html"
+    },
+    {
+      "id": "a18",
+      "date": "2026-09-06",
+      "type": "designation",
+      "titre": "Fabien Roussel désigné par le PCF",
+      "resume": "Les adhérents communistes approuvent sa candidature à 72 %.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389"
+    },
+    {
+      "id": "a17",
+      "date": "2026-09-04",
+      "type": "justice",
+      "titre": "Délais de mémoires fixés pour le pourvoi de Marine Le Pen",
+      "resume": "Les avocats de Marine Le Pen ont jusqu'au 15 octobre 2026 pour déposer leurs mémoires devant la Cour de cassation.",
+      "source_nom": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html"
+    },
+    {
+      "id": "a16",
+      "date": "2026-08-27",
+      "type": "debat",
+      "titre": "Premier débat entre sept candidats",
+      "resume": "Le Medef réunit Retailleau, Glucksmann, Le Pen, Philippe, Mélenchon, Tondelier et Attal à Roland-Garros.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670"
+    },
+    {
+      "id": "a-add-bertrand",
+      "date": "2026-08-27",
+      "type": "candidature",
+      "titre": "Xavier Bertrand se déclare candidat",
+      "resume": "À l'université de rentrée du Medef, le président de la région Hauts-de-France confirme qu'il sera candidat et écarte toute primaire de la droite et du centre.",
+      "source_nom": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html"
+    },
+    {
+      "id": "a-add-darmanin",
+      "date": "2026-08-17",
+      "type": "retrait",
+      "titre": "Gérald Darmanin renonce et soutient Édouard Philippe",
+      "resume": "Dans La Voix du Nord, le garde des Sceaux annonce qu'il ne sera pas candidat et qu'il soutient Édouard Philippe.",
+      "source_nom": "CNews",
+      "source_url": "https://www.cnews.fr/france/2026-08-17/presidentielle-2027-gerald-darmanin-apporte-son-soutien-edouard-philippe-1906011"
+    },
+    {
+      "id": "a-add-cazeneuve",
+      "date": "2026-07-16",
+      "type": "candidature",
+      "titre": "Bernard Cazeneuve formalise sa candidature",
+      "resume": "Dans un entretien au Parisien, l'ancien Premier ministre présente sa candidature avec une « lettre aux Français » et confirme qu'il ne passera pas par une primaire.",
+      "source_nom": "Orange Actualités (6Medias)",
+      "source_url": "https://actu.orange.fr/france/presidentielle-2027-l-ancien-premier-ministre-bernard-cazeneuve-annonce-sa-candidature-magic-CNT000002qxP1P.html"
+    },
+    {
+      "id": "a15",
+      "date": "2026-07-11",
+      "type": "retrait",
+      "titre": "Clémentine Autain renonce",
+      "resume": "La députée de L'Après renonce à se présenter, estimant que la primaire ouverte n'aura pas lieu.",
+      "source_nom": "Orange Actualités (6Medias / L'Express)",
+      "source_url": "https://actu.orange.fr/politique/presidentielle-2027-clementine-autain-renonce-et-ouvre-la-porte-a-un-soutien-a-melenchon-magic-CNT000002qsy6X.html"
+    },
+    {
+      "id": "a14",
+      "date": "2026-07-09",
+      "type": "primaire",
+      "titre": "Le PS choisit une primaire restreinte",
+      "resume": "Les militants socialistes retiennent à 55,5 % une primaire limitée au pôle socialiste et à ses alliés.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-le-ps-se-prononce-pour-une-primaire-fermee-un-desaveu-pour-olivier-faure"
+    },
+    {
+      "id": "a13",
+      "date": "2026-07-08",
+      "type": "justice",
+      "titre": "Calendrier de la Cour de cassation",
+      "resume": "La Cour de cassation indique pouvoir statuer « au plus tard début avril 2027 », sous réserve des aléas de procédure.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/pourvoi-de-marine-le-pen-la-cour-de-cassation-pourrait-etre-en-mesure-de-se-prononcer"
+    },
+    {
+      "id": "a11",
+      "date": "2026-07-07",
+      "type": "justice",
+      "titre": "Arrêt de la cour d'appel dans l'affaire des assistants du FN",
+      "resume": "Marine Le Pen est condamnée à 3 ans de prison dont 2 avec sursis (partie ferme sous bracelet) et à 45 mois d'inéligibilité dont 30 avec sursis, considérée comme déjà exécutée.",
+      "source_nom": "Cour d'appel de Paris (communiqué)",
+      "source_url": "https://www.cours-appel.justice.fr/sites/default/files/2026-07/20260707%20-%20CA%20Paris%20-%20CP.pdf"
+    },
+    {
+      "id": "a12",
+      "date": "2026-07-07",
+      "type": "candidature",
+      "titre": "Marine Le Pen se déclare candidate et annonce un pourvoi",
+      "resume": "Le soir de l'arrêt, elle annonce sa candidature et un pourvoi en cassation, qui suspend l'exécution des peines.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/pourvoi-en-cassation-de-marine-le-pen-les-cles-pour-comprendre-les-consequences-de-cette"
+    },
+    {
+      "id": "dates-2027",
+      "date": "2026-07-02",
+      "type": "fait",
+      "titre": "Les dates de la présidentielle 2027 sont annoncées",
+      "resume": "Premier tour le dimanche 18 avril 2027, second tour le dimanche 2 mai 2027 ; la veille dans les territoires concernés par le décalage horaire.",
+      "source_nom": "Service-Public.gouv.fr",
+      "source_url": "https://www.service-public.gouv.fr/particuliers/actualites/A15053"
+    },
+    {
+      "id": "a10",
+      "date": "2026-07-01",
+      "type": "declaration",
+      "titre": "Laurent Wauquiez appelle au rassemblement de la droite et du centre",
+      "resume": "Dans Le Figaro, le président du groupe Droite républicaine juge qu'Édouard Philippe « peut incarner l'ordre et le sérieux », estime qu'« il faut, le plus tôt possible, savoir se retirer si c'est nécessaire » et appelle à un candidat unique de la droite et du centre. Son entourage dément tout « soutien » formel.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/main-tendue-de-laurent-wauquiez-a-edouard-philippe-cest-le-retour-de-la-droite-la-plus-bete-du-monde-tacle-le-camp-de-bruno-retailleau",
+      "sources_complementaires": [
+        "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-peut-incarner-l-ordre-et-le-serieux-laurent-wauquiez-tend-la-main-au-candidat-horizons-pour-la-presidentielle-2027_8088695.html"
+      ]
+    },
+    {
+      "id": "a08",
+      "date": "2026-06-30",
+      "type": "regles",
+      "titre": "L'Arcom modifie le décompte des temps de parole",
+      "resume": "Selon France-Soir, l'Arcom a décidé de ne plus comptabiliser les temps de parole diffusés la nuit, à compter du 1er octobre 2026.",
+      "source_nom": "France-Soir",
+      "source_url": "https://www.arcom.fr/presse/pluralisme-politique-larcom-publie-son-rapport-sur-la-campagne-des-municipales-et-precise-les-modalites-de-mesure-des-temps-de-parole-des-personnalites-politiques"
+    },
+    {
+      "id": "a07",
+      "date": "2026-06-28",
+      "type": "retrait",
+      "titre": "Le NPA ne présentera pas de candidat",
+      "resume": "La conférence nationale du NPA décide de ne présenter personne et de soutenir Jean-Luc Mélenchon ; Philippe Poutou ne sera pas candidat.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-philippe-poutou-renonce-a-se-presenter-et-se-range-derriere-jean-luc"
+    },
+    {
+      "id": "a-add-batho-investie",
+      "date": "2026-06-06",
+      "type": "designation",
+      "titre": "Génération écologie investit Delphine Batho",
+      "resume": "La convention nationale de Génération écologie adopte à l'unanimité la candidature de sa présidente, déclarée depuis novembre 2025.",
+      "source_nom": "ICI (France Bleu)",
+      "source_url": "https://www.ici.fr/nouvelle-aquitaine/deux-sevres-79/delphine-batho-officiellement-investie-par-generation-ecologie-pour-la-presidentielle-de-2027-3649308"
+    },
+    {
+      "id": "a06",
+      "date": "2026-05-22",
+      "type": "candidature",
+      "titre": "Gabriel Attal annonce sa candidature",
+      "resume": "Le secrétaire général de Renaissance se déclare candidat dans l'Aveyron.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721"
+    },
+    {
+      "id": "a-add-wauquiez-retrait",
+      "date": "2026-05-12",
+      "type": "retrait",
+      "titre": "Laurent Wauquiez renonce à sa candidature",
+      "resume": "Sur franceinfo, le président du groupe Droite républicaine reconnaît Bruno Retailleau comme « candidat légitime » de LR, retire sa propre candidature et plaide pour une primaire de la droite.",
+      "source_nom": "Orange Actualités (6Medias)",
+      "source_url": "https://actu.orange.fr/politique/presidentielle-2027-laurent-wauquiez-assure-que-retailleau-est-un-candidat-legitime-lr-et-appelle-a-une-primaire-de-la-droite-magic-CNT000002pjO1H.html"
+    },
+    {
+      "id": "a05",
+      "date": "2026-05-03",
+      "type": "designation",
+      "titre": "Jean-Luc Mélenchon candidat de LFI",
+      "resume": "Désigné par les élus LFI, il annonce sa quatrième candidature au 20 h de TF1.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851"
+    },
+    {
+      "id": "a04",
+      "date": "2026-04-19",
+      "type": "designation",
+      "titre": "Les adhérents LR désignent Bruno Retailleau",
+      "resume": "73,8 % des votants choisissent la désignation directe plutôt qu'une primaire.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr"
+    },
+    {
+      "id": "a03",
+      "date": "2026-04-01",
+      "type": "financement",
+      "titre": "Ouverture de la période de financement de la campagne",
+      "resume": "La période de comptabilisation des recettes et dépenses de campagne court depuis le 1er avril 2026, un an avant le mois du scrutin (code électoral).",
+      "source_nom": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/presidentielle-2027-a-un-an-de-l-echeance-les-comptes-de-campagne-sont-deja-ouverts_7883699.html"
+    },
+    {
+      "id": "a02",
+      "date": "2026-03-31",
+      "type": "candidature",
+      "titre": "David Lisnard quitte LR et confirme sa candidature",
+      "resume": "Le maire de Cannes annonce sur France 2 son départ des Républicains et confirme sa candidature.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-david-lisnard-maire-de-cannes-annonce-sa-candidature-et-quitte-officiellement-les-lr"
+    },
+    {
+      "id": "a01",
+      "date": "2026-02-12",
+      "type": "candidature",
+      "titre": "Bruno Retailleau annonce sa candidature",
+      "resume": "Le président de LR annonce sa candidature dans une lettre aux élus du parti, avant une décision des adhérents sur le mode de désignation.",
+      "source_nom": "Sud Radio",
+      "source_url": "https://www.sudradio.fr/politique/bruno-retailleau-annonce-sa-candidature-a-la-presidentielle-2027"
+    }
+  ],
+  "rubriques_a_venir": [
+    {
+      "cle": "programmes",
+      "titre": "Programmes",
+      "texte": "Les programmes seront relayés tels que publiés par les candidats officiels, avec un lien vers le document d'origine, sans résumé ni commentaire de l'application."
+    },
+    {
+      "cle": "participation",
+      "titre": "Participation",
+      "texte": "Les chiffres de participation seront ceux publiés par le ministère de l'Intérieur, les soirs de scrutin."
+    },
+    {
+      "cle": "resultats",
+      "titre": "Résultats",
+      "texte": "Les résultats affichés seront ceux proclamés par le Conseil constitutionnel, avec leur source."
+    }
+  ],
+  "presse": {
+    "releve_le": "2026-10-08",
+    "note": "Informations relevées dans la presse nationale et régionale, les chaînes parlementaires et les sites des partis, chacune avec sa date et son lien. Rien de tout cela n'est officiel avant les publications du Conseil constitutionnel."
+  },
+  "pressentis": [
+    {
+      "id": "p-hollande",
+      "nom": "François Hollande",
+      "parti": "Parti socialiste (PS)",
+      "statut": "Décision annoncée pour décembre 2026",
+      "date": "2026-09-15",
+      "detail": "L'ancien président ne participe pas à la primaire « Choisir 2027 » et doit dire en décembre s'il se présente.",
+      "source_nom": "La Libre",
+      "source_titre": "En France, cinq candidats et beaucoup d'absents à la primaire de gauche pour la présidentielle : \"Il leur faudra aussi gérer le cas François Hollande\"",
+      "source_url": "https://www.lalibre.be/international/2026/09/15/en-france-sept-candidats-et-beaucoup-dabsents-a-la-primaire-de-gauche-pour-la-presidentielle-il-leur-faudra-aussi-gerer-le-cas-francois-hollande-4KCNNEZPPFHONOIK4XQ33KV2I4/",
+      "sources_complementaires": [
+        "https://www.lalibre.be/international/2026/09/15/en-france-sept-candidats-et-beaucoup-dabsents-a-la-primaire-de-gauche-pour-la-presidentielle-il-leur-faudra-aussi-gerer-le-cas-francois-hollande-4KCNNEZPPFHONOIK4XQ33KV2I4/"
+      ]
+    },
+    {
+      "id": "p-villepin",
+      "nom": "Dominique de Villepin",
+      "parti": "La France humaniste",
+      "statut": "Envisage une candidature, non déclaré",
+      "date": "2026-09-20",
+      "detail": "A indiqué sur franceinfo ne pas être candidat « à ce jour » ; il dit chercher les parrainages nécessaires.",
+      "source_nom": "Journal du Net",
+      "source_titre": "Présidentielle 2027 : Dominique de Villepin juge les programmes \"un peu courts sur pattes\"",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html"
+    },
+    {
+      "id": "p-lemaire",
+      "nom": "Bruno Le Maire",
+      "parti": "Sans étiquette (ex-Renaissance)",
+      "statut": "Envisage une candidature, non déclaré",
+      "date": "2026-09-13",
+      "detail": "Interrogé sur LCI, il a répondu « Bien sûr que j'y réfléchis » sans annoncer de candidature. Il a publié un manifeste.",
+      "source_nom": "21 News",
+      "source_titre": "Bruno Le Maire candidat en 2027 ? « Peut-être que ça viendra »",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373"
+    },
+    {
+      "id": "p-lassalle",
+      "nom": "Jean Lassalle",
+      "parti": "Résistons !",
+      "statut": "Candidature annoncée sous condition de financement",
+      "date": "2026-07-10",
+      "detail": "A lancé une cagnotte pour financer une éventuelle candidature et indique qu'il faudrait au moins 100 000 euros pour se lancer officiellement.",
+      "source_nom": "franceinfo",
+      "source_titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour pouvoir être de nouveau candidat à l'élection",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html",
+      "sources_complementaires": [
+        "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html"
+      ]
+    }
+  ],
+  "primaires": [
+    {
+      "id": "pr-choisir2027",
+      "nom": "Primaire « Choisir 2027 » (pôle social-démocrate)",
+      "organisateur": "Parti socialiste, Place publique, Gauche républicaine et socialiste",
+      "dates": "1er tour du 9 octobre (8 h) au 10 octobre 2026 (20 h) ; 2nd tour éventuel du 16 au 17 octobre 2026",
+      "modalites": "Vote électronique (à distance ou sur tablette en bureau de vote). Ouvert aux adhérents à jour des trois partis et aux sympathisants inscrits sur la plateforme moyennant 15 euros (10 euros tarif réduit). Inscriptions closes le 5 octobre pour le 1er tour, possibles jusqu'au 12 octobre pour un 2nd tour. 140 282 inscrits au 1er tour selon la commission d'organisation. Débats : LCI (23 sept.), France 2/France Inter (1er oct.), BFMTV (4 oct.).",
+      "candidats": [
+        "Raphaël Glucksmann (Place publique)",
+        "Olivier Faure (PS)",
+        "Ségolène Royal (PS)",
+        "Jérôme Guedj (PS)",
+        "Emmanuel Maurel (GRS)"
+      ],
+      "resultat": "Non disponible au 8 octobre 2026 (vote à venir). Philippe Brun (PS), suspendu par le bureau national du PS le 16 septembre, n'y participe pas.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/primaire-de-gauche-plus-de-140000-inscrits-pour-voter-au-premier-tour-443021"
+    },
+    {
+      "id": "pr-ps-format",
+      "nom": "Vote des militants PS sur le format de la primaire",
+      "organisateur": "Parti socialiste",
+      "dates": "2026-07-09",
+      "modalites": "Choix entre une primaire réservée au pôle socialiste (membres et organisations alliées) et une primaire ouverte aux sympathisants à 2 euros.",
+      "candidats": [],
+      "resultat": "Primaire restreinte retenue à 55,5 % contre 44,5 % pour la primaire ouverte.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-le-ps-se-prononce-pour-une-primaire-fermee-un-desaveu-pour-olivier-faure"
+    },
+    {
+      "id": "pr-gauche-unitaire",
+      "nom": "Primaire de la gauche unitaire (« Nouveau Front populaire 2027 »)",
+      "organisateur": "Gauche unitaire : Les Écologistes, PS (Olivier Faure), L'Après, Debout !, Génération.s, avec Lucie Castets ; « serment » d'un candidat commun en juillet 2025 à Bagneux, principe d'une primaire à « l'automne 2026 » annoncé le 15 novembre 2025 à Trappes",
+      "dates": "Prévue le 11 octobre 2026 ; abandonnée",
+      "modalites": "Annoncée le 24 janvier 2026 à Tours. Le PS a opté le 9 juillet pour sa propre primaire restreinte ; Les Écologistes ont acté l'abandon de la primaire unitaire le 21 septembre 2026.",
+      "candidats": [
+        "Marine Tondelier (Les Écologistes)",
+        "François Ruffin (Debout !)",
+        "Clémentine Autain (L'Après, retirée le 11 juillet 2026)",
+        "Benjamin Lucas (Génération.s, retiré le 7 juillet 2026)",
+        "Lydie Massard (UDB, retirée début septembre 2026)"
+      ],
+      "resultat": "Abandonnée, aucun vote organisé.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice",
+      "sources_complementaires": [
+        "https://www.ici.fr/centre-val-de-loire/indre-et-loire-37/tours/presidentielle-2027-la-primaire-de-la-gauche-sans-lfi-ni-raphael-glucksmann-se-deroulera-le-11-octobre-prochain-4726834",
+        "https://www.franceinfo.fr/elections/presidentielle/ps-eelv-generation-s-la-gauche-unitaire-annonce-l-organisation-d-une-primaire-a-l-automne-2026_7618508.html",
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373"
+      ]
+    },
+    {
+      "id": "pr-ecologistes",
+      "nom": "Vote des adhérents des Écologistes sur la stratégie présidentielle",
+      "organisateur": "Les Écologistes",
+      "dates": "Du 10 au 13 décembre 2026 (options présentées fin novembre)",
+      "modalites": "Motion adoptée par le conseil fédéral (69,44 %). Les adhérents choisiront entre une candidature écologiste (celle de Marine Tondelier) et le soutien à un candidat d'une autre formation de gauche.",
+      "candidats": [
+        "Marine Tondelier (investie jusqu'au vote)"
+      ],
+      "resultat": "À venir.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice"
+    },
+    {
+      "id": "pr-ecologistes-2025",
+      "nom": "Désignation interne des Écologistes (2025)",
+      "organisateur": "Les Écologistes",
+      "dates": "Du 5 au 8 décembre 2025",
+      "modalites": "Vote des adhérents (participation 54 %).",
+      "candidats": [
+        "Marine Tondelier",
+        "Waleed Mouhali"
+      ],
+      "resultat": "Marine Tondelier désignée avec 86 % des voix.",
+      "source_nom": "Les Écologistes (site officiel)",
+      "source_url": "https://lesecologistes.fr/posts/4DGpyusxBAU4xQPexfncsx/marine-tondelier-designee-pour-representer-les-ecologistes-a-l-election-presidentielle"
+    },
+    {
+      "id": "pr-lr",
+      "nom": "Consultation des adhérents LR sur la désignation du candidat",
+      "organisateur": "Les Républicains",
+      "dates": "Résultat le 2026-04-19",
+      "modalites": "Trois options : désignation directe de Bruno Retailleau, primaire ouverte aux sympathisants, primaire réservée aux adhérents. Environ 46 000 votants sur 76 653 adhérents à jour.",
+      "candidats": [
+        "Bruno Retailleau"
+      ],
+      "resultat": "Désignation directe retenue à 73,8 % (14 % primaire ouverte, 12,2 % primaire fermée).",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr"
+    },
+    {
+      "id": "pr-pcf",
+      "nom": "Vote des adhérents du PCF",
+      "organisateur": "Parti communiste français",
+      "dates": "Du 3 au 6 septembre 2026",
+      "modalites": "Après un vote de juin (61,4 % pour une candidature communiste) et une proposition de la conférence nationale de juillet.",
+      "candidats": [
+        "Fabien Roussel"
+      ],
+      "resultat": "Candidature approuvée à 72 %.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389"
+    },
+    {
+      "id": "pr-lfi",
+      "nom": "Désignation du candidat LFI",
+      "organisateur": "La France insoumise",
+      "dates": "2026-05-03",
+      "modalites": "Désignation par les élus LFI réunis à Paris ; pas de primaire. Collecte de 150 000 parrainages citoyens annoncée.",
+      "candidats": [
+        "Jean-Luc Mélenchon"
+      ],
+      "resultat": "Jean-Luc Mélenchon désigné.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851"
+    },
+    {
+      "id": "pr-bloc-central",
+      "nom": "Primaire du « grand fleuve central » (proposition)",
+      "organisateur": "Proposée par François Bayrou (MoDem)",
+      "dates": "Proposition : candidatures jusqu'à fin octobre 2026, vote en ligne vers le 15 janvier et début février 2027",
+      "modalites": "Parrainage d'au moins dix parlementaires par candidat. Édouard Philippe et Gabriel Attal n'étaient pas invités à l'événement du MoDem ; aucune réponse publique de leur part rapportée.",
+      "candidats": [],
+      "resultat": "Proposition non organisée à ce stade. François Bayrou a exclu d'être candidat.",
+      "source_nom": "Journal du Net",
+      "source_url": "https://www.journaldunet.com/business/action-publique/1555143-francois-bayrou-propose-une-primaire-ouverte-du-grand-fleuve-central-pour-designer-un-candidat-unique-avant-la-presidentielle-de-2027/"
+    }
+  ],
+  "sondages": {
+    "note": "Intentions de vote au 1er tour publiées par les instituts, hypothèse principale. Un sondage n'est pas une prédiction : chaque enquête est déposée auprès de la Commission des sondages (notice : méthode, échantillon, marge d'erreur).",
+    "liste": [
+      {
+        "id": "s-ifop-v6",
+        "institut": "Ifop-Fiducial",
+        "commanditaire": "LCI, Le Figaro, Sud Radio",
+        "terrain_debut": "2026-09-25",
+        "terrain_fin": "2026-09-29",
+        "echantillon": "1 393 inscrits (sur 1 527 personnes)",
+        "marge": "Environ ±3,1 points pour un score de 50 % (base de 1 027 personnes exprimant une intention de vote en H1) ; dix hypothèses testées ; 26 % ne se prononcent pas",
+        "hypothese": "H1 : Philippe et Attal candidats, Glucksmann candidat PS-Place publique",
+        "scores": [
+          {
+            "nom": "Marine Le Pen",
+            "parti": "RN",
+            "score": 32
+          },
+          {
+            "nom": "Édouard Philippe",
+            "parti": "Horizons",
+            "score": 16
+          },
+          {
+            "nom": "Jean-Luc Mélenchon",
+            "parti": "LFI",
+            "score": 15
+          },
+          {
+            "nom": "Raphaël Glucksmann",
+            "parti": "Place publique",
+            "score": 11
+          },
+          {
+            "nom": "Gabriel Attal",
+            "parti": "Renaissance",
+            "score": 8
+          },
+          {
+            "nom": "Bruno Retailleau",
+            "parti": "LR",
+            "score": 7
+          },
+          {
+            "nom": "Éric Zemmour",
+            "parti": "Reconquête",
+            "score": 4
+          },
+          {
+            "nom": "Marine Tondelier",
+            "parti": "Les Écologistes",
+            "score": 3
+          },
+          {
+            "nom": "Fabien Roussel",
+            "parti": "PCF",
+            "score": 2.5
+          },
+          {
+            "nom": "Nicolas Dupont-Aignan",
+            "parti": "DLF",
+            "score": 1
+          },
+          {
+            "nom": "Nathalie Arthaud",
+            "parti": "LO",
+            "score": 0.5
+          }
+        ],
+        "source_nom": "Sud Radio",
+        "source_url": "https://www.sudradio.fr/sud-radio/presidentielle-2027-marine-le-pen-inebranlable-malgre-laffaire-bardella",
+        "notice_url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10284-pres-barometre-election-presidentielle-v6-ifop-le-figaro-30-septembre.pdf"
+      },
+      {
+        "id": "s-toluna-v6",
+        "institut": "Toluna Harris Interactive",
+        "commanditaire": "M6, RTL",
+        "terrain_debut": "2026-09-22",
+        "terrain_fin": "2026-09-24",
+        "echantillon": "1 974 inscrits (sur 2 334 personnes)",
+        "marge": "Entre ±1,4 et ±2,9 points selon le score",
+        "hypothese": "H1 : Glucksmann, Attal et Philippe candidats",
+        "scores": [
+          {
+            "nom": "Marine Le Pen",
+            "parti": "RN",
+            "score": 35
+          },
+          {
+            "nom": "Jean-Luc Mélenchon",
+            "parti": "LFI",
+            "score": 17
+          },
+          {
+            "nom": "Édouard Philippe",
+            "parti": "Horizons",
+            "score": 13
+          },
+          {
+            "nom": "Raphaël Glucksmann",
+            "parti": "Place publique",
+            "score": 10
+          },
+          {
+            "nom": "Bruno Retailleau",
+            "parti": "LR",
+            "score": 7
+          },
+          {
+            "nom": "Gabriel Attal",
+            "parti": "Renaissance",
+            "score": 5
+          },
+          {
+            "nom": "Éric Zemmour",
+            "parti": "Reconquête",
+            "score": 5
+          },
+          {
+            "nom": "Marine Tondelier",
+            "parti": "Les Écologistes",
+            "score": 3
+          },
+          {
+            "nom": "Fabien Roussel",
+            "parti": "PCF",
+            "score": 2
+          },
+          {
+            "nom": "Nicolas Dupont-Aignan",
+            "parti": "DLF",
+            "score": 2
+          },
+          {
+            "nom": "Nathalie Arthaud",
+            "parti": "LO",
+            "score": 1
+          }
+        ],
+        "source_nom": "Le JDD",
+        "source_url": "https://www.lejdd.fr/politique/presidentielle-melenchon-face-a-le-pen-au-second-tour-dans-toutes-les-configurations-selon-un-nouveau-sondage-184599",
+        "notice_url": "http://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10277-pres-toluna-harris-interactive-rtl-28-septembre.pdf"
+      },
+      {
+        "id": "s-yougov",
+        "institut": "YouGov",
+        "commanditaire": "Le HuffPost",
+        "terrain_debut": "2026-09-17",
+        "terrain_fin": "2026-09-21",
+        "echantillon": "1 008 inscrits (sur 1 103 personnes) ; base d'environ 650 votants décidés",
+        "marge": "±1,4 à ±3,1 points pour 1 000 personnes (plus élevée sur la base des votants décidés)",
+        "hypothese": "H1 (première hypothèse de la notice)",
+        "scores": [
+          {
+            "nom": "Marine Le Pen",
+            "parti": "RN",
+            "score": 34
+          },
+          {
+            "nom": "Jean-Luc Mélenchon",
+            "parti": "LFI",
+            "score": 17
+          },
+          {
+            "nom": "Édouard Philippe",
+            "parti": "Horizons",
+            "score": 12
+          },
+          {
+            "nom": "Gabriel Attal",
+            "parti": "Renaissance",
+            "score": 9
+          },
+          {
+            "nom": "Bruno Retailleau",
+            "parti": "LR",
+            "score": 8
+          },
+          {
+            "nom": "Raphaël Glucksmann",
+            "parti": "Place publique",
+            "score": 8
+          },
+          {
+            "nom": "Éric Zemmour",
+            "parti": "Reconquête",
+            "score": 6
+          },
+          {
+            "nom": "Marine Tondelier",
+            "parti": "Les Écologistes",
+            "score": 3
+          },
+          {
+            "nom": "Fabien Roussel",
+            "parti": "PCF",
+            "score": 2
+          },
+          {
+            "nom": "Nicolas Dupont-Aignan",
+            "parti": "DLF",
+            "score": 2
+          },
+          {
+            "nom": "Nathalie Arthaud",
+            "parti": "LO",
+            "score": 1
+          }
+        ],
+        "source_nom": "Commission des sondages (notice ; article du HuffPost non consulté)",
+        "source_url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf",
+        "notice_url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf",
+        "note_arrondis": "Résultats arrondis à l'unité par l'institut (total de 102 % dû aux arrondis) ; base : 646 votants décidés (pondérée)."
+      },
+      {
+        "id": "s-cluster17",
+        "institut": "Cluster17",
+        "commanditaire": "Politico",
+        "terrain_debut": "2026-09-15",
+        "terrain_fin": "2026-09-16",
+        "echantillon": "1 943 inscrits (sur 2 045 personnes)",
+        "marge": "±2,7 points autour de 50 % pour un effectif d'environ 1 340 par hypothèse",
+        "hypothese": "H1 : avec Philippe et Zemmour, sans Attal ni Hollande (scores redressés)",
+        "scores": [
+          {
+            "nom": "Marine Le Pen",
+            "parti": "RN",
+            "score": 30.8
+          },
+          {
+            "nom": "Jean-Luc Mélenchon",
+            "parti": "LFI",
+            "score": 19.1
+          },
+          {
+            "nom": "Édouard Philippe",
+            "parti": "Horizons",
+            "score": 18.8
+          },
+          {
+            "nom": "Raphaël Glucksmann",
+            "parti": "Place publique",
+            "score": 11.8
+          },
+          {
+            "nom": "Bruno Retailleau",
+            "parti": "LR",
+            "score": 7.6
+          },
+          {
+            "nom": "Éric Zemmour",
+            "parti": "Reconquête",
+            "score": 3.5
+          },
+          {
+            "nom": "Nicolas Dupont-Aignan",
+            "parti": "DLF",
+            "score": 3.2
+          },
+          {
+            "nom": "Marine Tondelier",
+            "parti": "Les Écologistes",
+            "score": 2.6
+          },
+          {
+            "nom": "Fabien Roussel",
+            "parti": "PCF",
+            "score": 2.2
+          },
+          {
+            "nom": "Nathalie Arthaud",
+            "parti": "LO",
+            "score": 0.4
+          }
+        ],
+        "source_nom": "Public Sénat",
+        "source_url": "https://www.publicsenat.fr/actualites/politique/sondage-presidentielle-2027-marine-le-pen-largement-en-tete-suivi-de-jean-luc-melenchon-et-edouard-philippe-a-egalite",
+        "notice_url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10273-pres-iv-cluster17-politico-24-septembre.pdf"
+      },
+      {
+        "id": "s-toluna-v5",
+        "institut": "Toluna Harris Interactive",
+        "commanditaire": "M6, RTL",
+        "terrain_debut": "2026-09-08",
+        "terrain_fin": "2026-09-10",
+        "echantillon": "2 052 inscrits (sur 2 358 personnes)",
+        "marge": "Entre ±1,4 et ±2,9 points selon le score",
+        "hypothese": "H1 : Glucksmann, Attal et Philippe candidats",
+        "scores": [
+          {
+            "nom": "Marine Le Pen",
+            "parti": "RN",
+            "score": 33
+          },
+          {
+            "nom": "Jean-Luc Mélenchon",
+            "parti": "LFI",
+            "score": 16
+          },
+          {
+            "nom": "Édouard Philippe",
+            "parti": "Horizons",
+            "score": 14
+          },
+          {
+            "nom": "Raphaël Glucksmann",
+            "parti": "Place publique",
+            "score": 9
+          },
+          {
+            "nom": "Gabriel Attal",
+            "parti": "Renaissance",
+            "score": 8
+          },
+          {
+            "nom": "Bruno Retailleau",
+            "parti": "LR",
+            "score": 7
+          },
+          {
+            "nom": "Éric Zemmour",
+            "parti": "Reconquête",
+            "score": 5
+          },
+          {
+            "nom": "Marine Tondelier",
+            "parti": "Les Écologistes",
+            "score": 3
+          },
+          {
+            "nom": "Fabien Roussel",
+            "parti": "PCF",
+            "score": 2
+          },
+          {
+            "nom": "Nicolas Dupont-Aignan",
+            "parti": "DLF",
+            "score": 2
+          },
+          {
+            "nom": "Nathalie Arthaud",
+            "parti": "LO",
+            "score": 1
+          }
+        ],
+        "source_nom": "Commission des sondages (notice) ; relayé par Public Sénat sur X",
+        "source_url": "https://tolunacorporate.com/fr/intentions-de-vote-a-lelection-presidentielle-2027-septembre-2026/",
+        "notice_url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10263-pres-iv-toluna-harris-interactive-rtl-14-septembre.pdf"
+      },
+      {
+        "id": "s-ipsos-lemonde",
+        "institut": "Ipsos BVA (avec le Cevipof)",
+        "commanditaire": "Cevipof, Le Monde, Fondation Jean-Jaurès, Institut Montaigne (réalisé par Ipsos BVA avec CESI École d'ingénieurs)",
+        "terrain_debut": "2026-09-03",
+        "terrain_fin": "2026-09-09",
+        "echantillon": "13 060 inscrits (environ 9 400 certains d'aller voter)",
+        "marge": "Entre ±0,1 et ±0,9 point selon le candidat (H1)",
+        "hypothese": "H1 : Glucksmann, Attal et Philippe candidats (Enquête électorale française, vague 3)",
+        "scores": [
+          {
+            "nom": "Marine Le Pen",
+            "parti": "RN",
+            "score": 33
+          },
+          {
+            "nom": "Jean-Luc Mélenchon",
+            "parti": "LFI",
+            "score": 15.5
+          },
+          {
+            "nom": "Édouard Philippe",
+            "parti": "Horizons",
+            "score": 14
+          },
+          {
+            "nom": "Raphaël Glucksmann",
+            "parti": "Place publique",
+            "score": 11.5
+          },
+          {
+            "nom": "Bruno Retailleau",
+            "parti": "LR",
+            "score": 7
+          },
+          {
+            "nom": "Gabriel Attal",
+            "parti": "Renaissance",
+            "score": 6
+          },
+          {
+            "nom": "Marine Tondelier",
+            "parti": "Les Écologistes",
+            "score": 4
+          },
+          {
+            "nom": "Éric Zemmour",
+            "parti": "Reconquête",
+            "score": 4
+          },
+          {
+            "nom": "Fabien Roussel",
+            "parti": "PCF",
+            "score": 2.5
+          },
+          {
+            "nom": "Nicolas Dupont-Aignan",
+            "parti": "DLF",
+            "score": 2
+          },
+          {
+            "nom": "Nathalie Arthaud",
+            "parti": "LO",
+            "score": 0.5
+          }
+        ],
+        "source_nom": "Public Sénat",
+        "source_url": "https://www.publicsenat.fr/actualites/politique/sondage-jean-luc-melenchon-et-edouard-philippe-se-disputent-le-second-tour-face-a-marine-le-pen",
+        "notice_url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10262-pres-enquete-electorale-ipsos-bva-le-monde-13-septembre.pdf"
+      }
+    ]
+  },
+  "comment_ca_marche": {
+    "mode_scrutin": {
+      "libelle": "Scrutin uninominal majoritaire à deux tours",
+      "explication": "Élu au 1ᵉʳ tour en cas de majorité absolue des suffrages exprimés ; sinon, second tour deux semaines plus tard entre les deux candidats arrivés en tête au premier tour.",
+      "duree_mandat": "5 ans (quinquennat, renouvelable une fois consécutivement — art. 6 de la Constitution)",
+      "source_nom": "Service-Public.gouv.fr — fiche « Élection présidentielle »",
+      "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1940"
+    },
+    "qui_peut_voter": "Citoyens français majeurs (18 ans révolus le jour du scrutin), inscrits sur les listes électorales, jouissant de leurs droits civiques et politiques.",
+    "conditions_candidature": {
+      "eligibilite": "Nationalité française, 18 ans révolus, inscrit sur une liste électorale, respect des règles de financement de campagne.",
+      "parrainages_requis": 500,
+      "regle_repartition": "Les 500 présentations (« parrainages ») doivent émaner d'élus habilités d'au moins 30 départements ou collectivités d'outre-mer différents, sans que plus d'un dixième d'entre elles proviennent du même département ou de la même collectivité.",
+      "publicite": "L'intégralité des noms des élus présentateurs est publiée par le Conseil constitutionnel.",
+      "destinataire": "Conseil constitutionnel",
+      "source_nom": "Loi n° 62-1292 du 6 novembre 1962 (art. 3) — Légifrance",
+      "source_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000684037/"
+    }
   },
   "mode_scrutin": {
     "libelle": "Scrutin uninominal majoritaire à deux tours",
@@ -15,42 +1487,246 @@
   },
   "qui_peut_voter": "Citoyens français majeurs (18 ans révolus le jour du scrutin), inscrits sur les listes électorales, jouissant de leurs droits civiques et politiques.",
   "conditions_candidature": {
-    "eligibilite": "Nationalité française, 18 ans révolus, inscrit sur une liste électorale, satisfaire aux règles de financement de campagne.",
+    "eligibilite": "Nationalité française, 18 ans révolus, inscrit sur une liste électorale, respect des règles de financement de campagne.",
     "parrainages_requis": 500,
-    "regle_repartition": "Les 500 parrainages doivent provenir d'élus habilités (parlementaires, élus locaux) d'au moins 30 départements ou collectivités d'outre-mer différents, sans que plus d'un dixième d'entre eux ne proviennent du même département ou de la même collectivité.",
-    "publicite": "Depuis la loi organique de 2016, l'intégralité des noms des élus parrains est publiée par le Conseil constitutionnel (fin de l'ancien tirage au sort de 500 noms sur l'ensemble reçu).",
+    "regle_repartition": "Les 500 présentations doivent émaner d'élus habilités d'au moins 30 départements ou collectivités d'outre-mer différents, sans que plus d'un dixième proviennent du même département.",
+    "publicite": "L'intégralité des noms des élus présentateurs est publiée par le Conseil constitutionnel.",
     "destinataire": "Conseil constitutionnel",
-    "source_url": "https://www.conseil-constitutionnel.fr/le-parrainage-des-candidats-a-l-election-presidentielle"
+    "source_url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000684037/"
   },
-  "note_candidats": "Aucune candidature n'est officiellement déposée à ce stade (relevé le 2026-08-16, 8 mois avant le scrutin) — le dépôt et la validation des candidatures par le Conseil constitutionnel n'interviennent que dans les semaines précédant l'élection. Cette page sera complétée avec la liste officielle dès sa publication : jamais un nom ajouté par anticipation, une intention prêtée à quelqu'un, ou une source de presse plutôt qu'institutionnelle.",
+  "note_candidats": "La liste officielle des candidats n'est pas encore publiée par le Conseil constitutionnel.",
   "candidats_officiels": [],
   "articles": [
     {
-      "titre": "Marine Le Pen annonce sa candidature après son jugement en appel",
-      "resume": "Condamnée en appel le 7 juillet 2026 à 45 mois d'inéligibilité dont 30 avec sursis — une peine déjà exécutée au jour du jugement, ce qui la rend éligible — Marine Le Pen annonce sa candidature à la présidentielle le soir même sur TF1, tout en formant un pourvoi en cassation.",
-      "source_nom": "Wikipédia — Élection présidentielle française de 2027",
-      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-      "date_article": "7 juillet 2026",
-      "photo": "portrait_le_pen",
-      "photo_credit": "Vox España, licence CC0 (domaine public) — Wikimedia Commons"
+      "titre": "140 282 inscrits pour le 1er tour de la primaire",
+      "resume": "Dont 31 030 militants PS, 37 017 sympathisants inscrits via le PS et 28 456 inscriptions Place publique.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/primaire-de-gauche-plus-de-140000-inscrits-pour-voter-au-premier-tour-443021",
+      "date_article": "2026-10-06"
     },
     {
-      "titre": "Olivier Faure officialise sa candidature à la primaire du Parti socialiste",
-      "resume": "Après avoir annoncé son intention dans un message aux députés socialistes dans la nuit du 29 au 30 août 2026, Olivier Faure, premier secrétaire du Parti socialiste, officialise sa candidature à la primaire du Parti socialiste le 30 août, lors du journal de 20 heures de TF1.",
-      "source_nom": "Wikipédia — Élection présidentielle française de 2027",
-      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-      "date_article": "30 août 2026",
-      "photo": "portrait_faure",
-      "photo_credit": "KimiRaikkonen3 (via Flickr), domaine public — Wikimedia Commons"
+      "titre": "Dernier débat de la primaire « Choisir 2027 »",
+      "resume": "Les cinq candidats débattent sur BFMTV avant le 1er tour des 9 et 10 octobre.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "date_article": "2026-10-04"
     },
     {
-      "titre": "Bruno Retailleau désigné candidat des Républicains",
-      "resume": "Bruno Retailleau est officiellement désigné candidat des Républicains à l'élection présidentielle le 19 avril 2026, à l'issue d'un vote des adhérents du parti.",
-      "source_nom": "Wikipédia — Élection présidentielle française de 2027",
-      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-      "date_article": "19 avril 2026",
-      "photo": "portrait_retailleau",
-      "photo_credit": "Anthony Montardy, licence CC BY 4.0 — Wikimedia Commons"
+      "titre": "Le Parti animaliste présente Mira Markovic",
+      "resume": "Le Parti animaliste désigne sa cofondatrice comme candidate à la présidentielle.",
+      "source_nom": "CNews",
+      "source_url": "https://www.cnews.fr/france/2026-10-02/presidentielle-2027-si-nous-ne-sommes-pas-la-personne-ne-parle-des-animaux",
+      "date_article": "2026-10-02"
+    },
+    {
+      "titre": "Emmanuel Macron écarte une dissolution avant la présidentielle",
+      "resume": "Sur TF1 et France 2, le président estime qu'une dissolution « bloquerait le prochain président ».",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/ce-ne-serait-pas-bon-pour-le-pays-emmanuel-macron-ecarte-l-hypothese-d-une-dissolution",
+      "date_article": "2026-09-24"
+    },
+    {
+      "titre": "Les Écologistes abandonnent la primaire unitaire",
+      "resume": "Le conseil fédéral renvoie le choix de la stratégie à un vote des adhérents du 10 au 13 décembre 2026.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice",
+      "date_article": "2026-09-21"
+    },
+    {
+      "titre": "François Bayrou propose une primaire du bloc central",
+      "resume": "Le président du MoDem propose une primaire en ligne début 2027 pour un candidat unique et exclut d'être lui-même candidat.",
+      "source_nom": "Journal du Net",
+      "source_url": "https://www.journaldunet.com/business/action-publique/1555143-francois-bayrou-propose-une-primaire-ouverte-du-grand-fleuve-central-pour-designer-un-candidat-unique-avant-la-presidentielle-de-2027/",
+      "date_article": "2026-09-20"
+    },
+    {
+      "titre": "Nicolas Dupont-Aignan officialise sa candidature",
+      "resume": "Lors de sa rentrée politique à Yerres, le président de Debout la France officialise sa quatrième candidature présidentielle.",
+      "source_nom": "CNews",
+      "source_url": "https://www.cnews.fr/france/2026-09-19/presidentielle-2027-nicolas-dupont-aignan-officialise-sa-candidature-lors-de-son",
+      "date_article": "2026-09-19"
+    },
+    {
+      "titre": "Éric Zemmour confirme sa candidature",
+      "resume": "Le président de Reconquête se déclare candidat sur BFMTV.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871",
+      "date_article": "2026-09-17"
+    },
+    {
+      "titre": "Cinq candidats retenus pour « Choisir 2027 »",
+      "resume": "Glucksmann, Faure, Royal, Guedj et Maurel sont retenus ; Philippe Brun, suspendu à titre conservatoire par le PS, n'y participe pas.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence",
+      "date_article": "2026-09-16"
+    },
+    {
+      "titre": "Lydie Massard se retire",
+      "resume": "L'ancienne eurodéputée UDB renonce à sa candidature après l'échec de la primaire de la gauche unitaire.",
+      "source_nom": "franceinfo (trombinoscope des candidats)",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+      "date_article": "2026-09-09"
+    },
+    {
+      "titre": "Fabien Roussel désigné par le PCF",
+      "resume": "Les adhérents communistes approuvent sa candidature à 72 %.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+      "date_article": "2026-09-06"
+    },
+    {
+      "titre": "Délais de mémoires fixés pour le pourvoi de Marine Le Pen",
+      "resume": "Les avocats de Marine Le Pen ont jusqu'au 15 octobre 2026 pour déposer leurs mémoires devant la Cour de cassation.",
+      "source_nom": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html",
+      "date_article": "2026-09-04"
+    },
+    {
+      "titre": "Premier débat entre sept candidats",
+      "resume": "Le Medef réunit Retailleau, Glucksmann, Le Pen, Philippe, Mélenchon, Tondelier et Attal à Roland-Garros.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670",
+      "date_article": "2026-08-27"
+    },
+    {
+      "titre": "Xavier Bertrand se déclare candidat",
+      "resume": "À l'université de rentrée du Medef, le président de la région Hauts-de-France confirme qu'il sera candidat et écarte toute primaire de la droite et du centre.",
+      "source_nom": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
+      "date_article": "2026-08-27"
+    },
+    {
+      "titre": "Gérald Darmanin renonce et soutient Édouard Philippe",
+      "resume": "Dans La Voix du Nord, le garde des Sceaux annonce qu'il ne sera pas candidat et qu'il soutient Édouard Philippe.",
+      "source_nom": "CNews",
+      "source_url": "https://www.cnews.fr/france/2026-08-17/presidentielle-2027-gerald-darmanin-apporte-son-soutien-edouard-philippe-1906011",
+      "date_article": "2026-08-17"
+    },
+    {
+      "titre": "Bernard Cazeneuve formalise sa candidature",
+      "resume": "Dans un entretien au Parisien, l'ancien Premier ministre présente sa candidature avec une « lettre aux Français » et confirme qu'il ne passera pas par une primaire.",
+      "source_nom": "Orange Actualités (6Medias)",
+      "source_url": "https://actu.orange.fr/france/presidentielle-2027-l-ancien-premier-ministre-bernard-cazeneuve-annonce-sa-candidature-magic-CNT000002qxP1P.html",
+      "date_article": "2026-07-16"
+    },
+    {
+      "titre": "Clémentine Autain renonce",
+      "resume": "La députée de L'Après renonce à se présenter, estimant que la primaire ouverte n'aura pas lieu.",
+      "source_nom": "Orange Actualités (6Medias / L'Express)",
+      "source_url": "https://actu.orange.fr/politique/presidentielle-2027-clementine-autain-renonce-et-ouvre-la-porte-a-un-soutien-a-melenchon-magic-CNT000002qsy6X.html",
+      "date_article": "2026-07-11"
+    },
+    {
+      "titre": "Le PS choisit une primaire restreinte",
+      "resume": "Les militants socialistes retiennent à 55,5 % une primaire limitée au pôle socialiste et à ses alliés.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-le-ps-se-prononce-pour-une-primaire-fermee-un-desaveu-pour-olivier-faure",
+      "date_article": "2026-07-09"
+    },
+    {
+      "titre": "Calendrier de la Cour de cassation",
+      "resume": "La Cour de cassation indique pouvoir statuer « au plus tard début avril 2027 », sous réserve des aléas de procédure.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/pourvoi-de-marine-le-pen-la-cour-de-cassation-pourrait-etre-en-mesure-de-se-prononcer",
+      "date_article": "2026-07-08"
+    },
+    {
+      "titre": "Arrêt de la cour d'appel dans l'affaire des assistants du FN",
+      "resume": "Marine Le Pen est condamnée à 3 ans de prison dont 2 avec sursis (partie ferme sous bracelet) et à 45 mois d'inéligibilité dont 30 avec sursis, considérée comme déjà exécutée.",
+      "source_nom": "Cour d'appel de Paris (communiqué)",
+      "source_url": "https://www.cours-appel.justice.fr/sites/default/files/2026-07/20260707%20-%20CA%20Paris%20-%20CP.pdf",
+      "date_article": "2026-07-07"
+    },
+    {
+      "titre": "Marine Le Pen se déclare candidate et annonce un pourvoi",
+      "resume": "Le soir de l'arrêt, elle annonce sa candidature et un pourvoi en cassation, qui suspend l'exécution des peines.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/pourvoi-en-cassation-de-marine-le-pen-les-cles-pour-comprendre-les-consequences-de-cette",
+      "date_article": "2026-07-07"
+    },
+    {
+      "titre": "Les dates de la présidentielle 2027 sont annoncées",
+      "resume": "Premier tour le dimanche 18 avril 2027, second tour le dimanche 2 mai 2027 ; la veille dans les territoires concernés par le décalage horaire.",
+      "source_nom": "Service-Public.gouv.fr",
+      "source_url": "https://www.service-public.gouv.fr/particuliers/actualites/A15053",
+      "date_article": "2026-07-02"
+    },
+    {
+      "titre": "Laurent Wauquiez appelle au rassemblement de la droite et du centre",
+      "resume": "Dans Le Figaro, le président du groupe Droite républicaine juge qu'Édouard Philippe « peut incarner l'ordre et le sérieux », estime qu'« il faut, le plus tôt possible, savoir se retirer si c'est nécessaire » et appelle à un candidat unique de la droite et du centre. Son entourage dément tout « soutien » formel.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/main-tendue-de-laurent-wauquiez-a-edouard-philippe-cest-le-retour-de-la-droite-la-plus-bete-du-monde-tacle-le-camp-de-bruno-retailleau",
+      "date_article": "2026-07-01"
+    },
+    {
+      "titre": "L'Arcom modifie le décompte des temps de parole",
+      "resume": "Selon France-Soir, l'Arcom a décidé de ne plus comptabiliser les temps de parole diffusés la nuit, à compter du 1er octobre 2026.",
+      "source_nom": "France-Soir",
+      "source_url": "https://www.arcom.fr/presse/pluralisme-politique-larcom-publie-son-rapport-sur-la-campagne-des-municipales-et-precise-les-modalites-de-mesure-des-temps-de-parole-des-personnalites-politiques",
+      "date_article": "2026-06-30"
+    },
+    {
+      "titre": "Le NPA ne présentera pas de candidat",
+      "resume": "La conférence nationale du NPA décide de ne présenter personne et de soutenir Jean-Luc Mélenchon ; Philippe Poutou ne sera pas candidat.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-philippe-poutou-renonce-a-se-presenter-et-se-range-derriere-jean-luc",
+      "date_article": "2026-06-28"
+    },
+    {
+      "titre": "Génération écologie investit Delphine Batho",
+      "resume": "La convention nationale de Génération écologie adopte à l'unanimité la candidature de sa présidente, déclarée depuis novembre 2025.",
+      "source_nom": "ICI (France Bleu)",
+      "source_url": "https://www.ici.fr/nouvelle-aquitaine/deux-sevres-79/delphine-batho-officiellement-investie-par-generation-ecologie-pour-la-presidentielle-de-2027-3649308",
+      "date_article": "2026-06-06"
+    },
+    {
+      "titre": "Gabriel Attal annonce sa candidature",
+      "resume": "Le secrétaire général de Renaissance se déclare candidat dans l'Aveyron.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721",
+      "date_article": "2026-05-22"
+    },
+    {
+      "titre": "Laurent Wauquiez renonce à sa candidature",
+      "resume": "Sur franceinfo, le président du groupe Droite républicaine reconnaît Bruno Retailleau comme « candidat légitime » de LR, retire sa propre candidature et plaide pour une primaire de la droite.",
+      "source_nom": "Orange Actualités (6Medias)",
+      "source_url": "https://actu.orange.fr/politique/presidentielle-2027-laurent-wauquiez-assure-que-retailleau-est-un-candidat-legitime-lr-et-appelle-a-une-primaire-de-la-droite-magic-CNT000002pjO1H.html",
+      "date_article": "2026-05-12"
+    },
+    {
+      "titre": "Jean-Luc Mélenchon candidat de LFI",
+      "resume": "Désigné par les élus LFI, il annonce sa quatrième candidature au 20 h de TF1.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
+      "date_article": "2026-05-03"
+    },
+    {
+      "titre": "Les adhérents LR désignent Bruno Retailleau",
+      "resume": "73,8 % des votants choisissent la désignation directe plutôt qu'une primaire.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr",
+      "date_article": "2026-04-19"
+    },
+    {
+      "titre": "Ouverture de la période de financement de la campagne",
+      "resume": "La période de comptabilisation des recettes et dépenses de campagne court depuis le 1er avril 2026, un an avant le mois du scrutin (code électoral).",
+      "source_nom": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/presidentielle-2027-a-un-an-de-l-echeance-les-comptes-de-campagne-sont-deja-ouverts_7883699.html",
+      "date_article": "2026-04-01"
+    },
+    {
+      "titre": "David Lisnard quitte LR et confirme sa candidature",
+      "resume": "Le maire de Cannes annonce sur France 2 son départ des Républicains et confirme sa candidature.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-david-lisnard-maire-de-cannes-annonce-sa-candidature-et-quitte-officiellement-les-lr",
+      "date_article": "2026-03-31"
+    },
+    {
+      "titre": "Bruno Retailleau annonce sa candidature",
+      "resume": "Le président de LR annonce sa candidature dans une lettre aux élus du parti, avant une décision des adhérents sur le mode de désignation.",
+      "source_nom": "Sud Radio",
+      "source_url": "https://www.sudradio.fr/politique/bruno-retailleau-annonce-sa-candidature-a-la-presidentielle-2027",
+      "date_article": "2026-02-12"
     }
   ]
 }
