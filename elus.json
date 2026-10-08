@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-07T11:04:49.987301+00:00",
+  "genere_le": "2026-10-08T11:23:42.567840+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -662,6 +662,17 @@
       "parti": "Rassemblement national",
       "profession": "Assistant Parlementaire",
       "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/guitton-jordan-24258"
+    },
+    {
+      "type": "depute",
+      "nom": "Hadj-Mimoune",
+      "prenom": "Melouka",
+      "parti": null,
+      "profession": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
     },
     {
       "type": "depute",
@@ -1550,6 +1561,17 @@
       "parti": "Ensemble ! (majorité présidentielle)",
       "profession": "cadre commercial",
       "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/padey-didier-26880"
+    },
+    {
+      "type": "depute",
+      "nom": "Fiol",
+      "prenom": "Muriel",
+      "parti": null,
+      "profession": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
     },
     {
       "type": "depute",
@@ -4169,6 +4191,17 @@
     },
     {
       "type": "depute",
+      "nom": "Gilhet",
+      "prenom": "Benoit",
+      "parti": null,
+      "profession": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
+    },
+    {
+      "type": "depute",
       "nom": "Meunier",
       "prenom": "Manon",
       "parti": "La France Insoumise",
@@ -4409,6 +4442,14 @@
     },
     {
       "type": "depute",
+      "nom": "Gardet",
+      "prenom": "Laurence",
+      "parti": null,
+      "profession": "Sans profession déclarée",
+      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
+    },
+    {
+      "type": "depute",
       "nom": "Le Fur",
       "prenom": "Corentin",
       "parti": "Les Républicains",
@@ -4606,6 +4647,17 @@
       "parti": "Les Écologistes - EELV",
       "profession": "Artiste-peintre",
       "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/iordanoff-jeremie-24286"
+    },
+    {
+      "type": "depute",
+      "nom": "Riotte",
+      "prenom": "Emmanuel",
+      "parti": null,
+      "profession": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
     },
     {
       "type": "depute",
@@ -5607,7 +5659,7 @@
       "prenom": "Thierry",
       "groupe_parlementaire": "UNT",
       "circonscription": "Vaucluse",
-      "profession": null
+      "profession": "Chef d'entreprise"
     },
     {
       "type": "senateur",
@@ -5935,7 +5987,7 @@
       "prenom": "Claudie",
       "groupe_parlementaire": "SER",
       "circonscription": "Aude",
-      "profession": null
+      "profession": "Attachée territoriale"
     },
     {
       "type": "senateur",
@@ -6519,7 +6571,7 @@
       "prenom": "Dominique",
       "groupe_parlementaire": "Les Républicains",
       "circonscription": "Sarthe",
-      "profession": null
+      "profession": "Juriste"
     },
     {
       "type": "senateur",
@@ -6863,7 +6915,7 @@
       "prenom": "Paul",
       "groupe_parlementaire": "NI",
       "circonscription": "Aisne",
-      "profession": null
+      "profession": "Agriculteur"
     },
     {
       "type": "senateur",

@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-07T11:05:13.267031+00:00",
+  "genere_le": "2026-10-08T11:24:10.583430+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -121,6 +121,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_droits_joueurs_perennite_jeux_videos_17e"
     },
     {
+      "uid": "DLR5L17N50731",
+      "titre": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-14T14:45:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731"
+    },
+    {
       "uid": "DLR5L17N54445",
       "titre": "Moderniser et rééquilibrer le fonctionnement du titre-restaurant",
       "procedure": "Proposition de loi ordinaire",
@@ -193,13 +202,58 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/cadre_attribution_collectivites_territoriales"
     },
     {
-      "uid": "DLR5L17N50731",
-      "titre": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
-      "procedure": "Projet de loi ordinaire",
+      "uid": "DLR5L16N48701",
+      "titre": "Proposition de loi créant une dérogation à la participation minimale pour la maîtrise d'ouvrage pour les communes rurales",
+      "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-10-07T14:45:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731"
+      "derniere_activite": "2026-10-07T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N48701"
+    },
+    {
+      "uid": "DLR5L17N53786",
+      "titre": "Proposition de loi réformant la prescription de l'action publique en matière criminelle et actualisant la notion d'obstacle insurmontable",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-07T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53786"
+    },
+    {
+      "uid": "DLR5L17N54152",
+      "titre": "Proposition de loi visant à accélérer le développement de la médecine nucléaire thérapeutique en oncologie",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-07T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54152"
+    },
+    {
+      "uid": "DLR5L17N54321",
+      "titre": "Proposition de loi révisant le dispositif des stocks de sécurité des médicaments",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-07T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54321"
+    },
+    {
+      "uid": "DLR5L17N54606",
+      "titre": "Proposition de loi visant à dématérialiser l'état civil des bénéficiaires de la protection internationale",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-07T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54606"
+    },
+    {
+      "uid": "DLR5L17N54525",
+      "titre": "Proposition de loi relative à la modernisation de la radio",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-07T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54525"
     },
     {
       "uid": "DLR5L17N55003",
@@ -626,12 +680,12 @@
     },
     {
       "uid": "DLR5L17N55011",
-      "titre": "Instaurer une carte de séjour pluriannuelle pour les étrangers travaillant dans un métier essentiel ou en tension",
+      "titre": "Régulariser les étrangers travaillant dans un métier essentiel ou en tension",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2026-10-06T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_carte_sejour_pluriannuelle_etrangers_metier_essentiel_tension_17e"
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulariser_metier_essentiel_tension_17e"
     },
     {
       "uid": "DLR5L17N55014",
@@ -740,15 +794,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-28T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54954"
-    },
-    {
-      "uid": "DLR5L17N54606",
-      "titre": "Proposition de loi visant à dématérialiser l'état civil des bénéficiaires de la protection internationale",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-09-28T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54606"
     },
     {
       "uid": "DLR5L17N54940",
@@ -3028,15 +3073,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54532"
     },
     {
-      "uid": "DLR5L17N54525",
-      "titre": "Proposition de loi relative à la modernisation de la radio",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-06-16T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54525"
-    },
-    {
       "uid": "DLR5L17N54529",
       "titre": "Proposition de loi visant à fixer une date limite pour l'établissement d'une procuration électorale",
       "procedure": "Proposition de loi ordinaire",
@@ -3944,15 +3980,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-05-12T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_respect_expression_pluraliste_courants_pensee_opinion_reseaux_sociaux_17e"
-    },
-    {
-      "uid": "DLR5L17N54321",
-      "titre": "Proposition de loi révisant le dispositif des stocks de sécurité des médicaments",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-05-12T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54321"
     },
     {
       "uid": "DLR5L17N54302",
@@ -4970,15 +4997,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-04-08T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_millefeuille_territorial_collectivite_unique_17e"
-    },
-    {
-      "uid": "DLR5L17N54152",
-      "titre": "Proposition de loi visant à accélérer le développement de la médecine nucléaire thérapeutique en oncologie",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-04-08T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54152"
     },
     {
       "uid": "DLR5L17N50631",
@@ -6158,15 +6176,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-02-11T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53759"
-    },
-    {
-      "uid": "DLR5L17N53786",
-      "titre": "Proposition de loi réformant la prescription de l'action publique en matière criminelle et actualisant la notion d'obstacle insurmontable",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-02-11T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53786"
     },
     {
       "uid": "DLR5L17N52785",
@@ -14636,15 +14645,6 @@
       "date_promulgation": null,
       "derniere_activite": "2025-03-12T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/disparition_terres_agricoles_renforcer_regulation_prix_foncier_agricole"
-    },
-    {
-      "uid": "DLR5L16N48701",
-      "titre": "Proposition de loi créant une dérogation à la participation minimale pour la maîtrise d'ouvrage pour les communes rurales",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2025-03-11T14:45:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N48701"
     },
     {
       "uid": "DLR5L17N51639",
