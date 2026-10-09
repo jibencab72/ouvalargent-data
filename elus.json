@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-08T16:11:17.393046+00:00",
+  "genere_le": "2026-10-09T11:22:16.960361+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -672,7 +672,7 @@
         "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
         "@xsi:nil": "true"
       },
-      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
+      "uri_hatvp": null
     },
     {
       "type": "depute",
@@ -1567,11 +1567,8 @@
       "nom": "Fiol",
       "prenom": "Muriel",
       "parti": null,
-      "profession": {
-        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-        "@xsi:nil": "true"
-      },
-      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
+      "profession": "Médecin",
+      "uri_hatvp": null
     },
     {
       "type": "depute",
@@ -4194,10 +4191,7 @@
       "nom": "Gilhet",
       "prenom": "Benoit",
       "parti": null,
-      "profession": {
-        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-        "@xsi:nil": "true"
-      },
+      "profession": "Chef d'équipe dans le secteur du transport",
       "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
     },
     {
@@ -4446,7 +4440,7 @@
       "prenom": "Laurence",
       "parti": null,
       "profession": "Sans profession déclarée",
-      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
+      "uri_hatvp": null
     },
     {
       "type": "depute",
@@ -4653,11 +4647,8 @@
       "nom": "Riotte",
       "prenom": "Emmanuel",
       "parti": null,
-      "profession": {
-        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-        "@xsi:nil": "true"
-      },
-      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
+      "profession": "Retraité",
+      "uri_hatvp": null
     },
     {
       "type": "depute",
@@ -5307,7 +5298,7 @@
       "prenom": "Jacques",
       "groupe_parlementaire": "Les Indépendants",
       "circonscription": "Gironde",
-      "profession": null
+      "profession": "Enseignant universitaire, formateur"
     },
     {
       "type": "senateur",
@@ -5827,7 +5818,7 @@
       "prenom": "Edwige",
       "groupe_parlementaire": "UNT",
       "circonscription": "Gironde",
-      "profession": null
+      "profession": "Cadre administratif et commercial d'entreprise"
     },
     {
       "type": "senateur",
@@ -6251,7 +6242,7 @@
       "prenom": "Christophe",
       "groupe_parlementaire": "Les Républicains",
       "circonscription": "Rhône",
-      "profession": null
+      "profession": "Retraité"
     },
     {
       "type": "senateur",

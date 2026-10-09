@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-08T16:11:36.127195+00:00",
+  "genere_le": "2026-10-09T11:23:02.379658+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -135,7 +135,7 @@
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-10-12T00:00:00.000+02:00",
+      "derniere_activite": "2026-10-12T15:45:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_fonctionnement_titre_restaurant_17e"
     },
     {
@@ -184,12 +184,21 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_ZFE-m_17e"
     },
     {
+      "uid": "DLR5L17N55030",
+      "titre": "Abroger l’inéligibilité des personnes majeures bénéficiaires d’un régime de tutelle ou de curatelle",
+      "procedure": "Projet ou proposition de loi organique",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-08T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_ineligibilite_personnes_majeures_beneficiaires_regime_tutelle_curatelle_17e"
+    },
+    {
       "uid": "DLR5L17N54817",
       "titre": "Renforcer la responsabilité des occupants et des bailleurs dans le logement social",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-10-08T00:00:00.000+02:00",
+      "derniere_activite": "2026-10-07T19:30:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_responsabilite_occupants_bailleurs_logement_social_17e"
     },
     {
@@ -198,7 +207,7 @@
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-10-08T00:00:00.000+02:00",
+      "derniere_activite": "2026-10-07T15:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/cadre_attribution_collectivites_territoriales"
     },
     {
@@ -254,6 +263,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-07T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54525"
+    },
+    {
+      "uid": "DLR5L17N55031",
+      "titre": "Proposition de loi visant à faciliter le déroulement des élections sénatoriales",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-07T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55031"
     },
     {
       "uid": "DLR5L17N55003",
@@ -806,7 +824,7 @@
     },
     {
       "uid": "DLR5L17N54955",
-      "titre": "Proposition de loi contre la fraude en ligne",
+      "titre": "Proposition de loi contre la fraude en ligne visant à instaurer des obligations de contrôle des plateformes numériques à l'égard des annonceurs",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
