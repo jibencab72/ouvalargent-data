@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-09T11:22:16.960361+00:00",
+  "genere_le": "2026-10-10T10:38:01.225762+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -4192,7 +4192,7 @@
       "prenom": "Benoit",
       "parti": null,
       "profession": "Chef d'équipe dans le secteur du transport",
-      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
+      "uri_hatvp": null
     },
     {
       "type": "depute",
@@ -6570,7 +6570,7 @@
       "prenom": "Patrick",
       "groupe_parlementaire": "Les Indépendants",
       "circonscription": "Finistère",
-      "profession": null
+      "profession": "Commerçant"
     },
     {
       "type": "senateur",
@@ -7234,7 +7234,7 @@
       "prenom": "Samir",
       "groupe_parlementaire": "Les Républicains",
       "circonscription": "Cher",
-      "profession": null
+      "profession": "Conseiller parlementaire "
     },
     {
       "type": "senateur",
@@ -7274,7 +7274,7 @@
       "prenom": "Alexis",
       "groupe_parlementaire": "Les Républicains",
       "circonscription": "Eure-et-Loir",
-      "profession": null
+      "profession": "Cadre"
     },
     {
       "type": "senateur",

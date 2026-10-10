@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-09T11:23:02.379658+00:00",
+  "genere_le": "2026-10-10T10:38:27.546795+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -166,6 +166,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/apporter_reponse_integrale_phenomene_violences_sexuelles_sexistes_contre_femmes_enfants_17e"
     },
     {
+      "uid": "DLR5L17N53786",
+      "titre": "Proposition de loi réformant la prescription de l'action publique en matière criminelle et actualisant la notion d'obstacle insurmontable",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-09T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53786"
+    },
+    {
       "uid": "DLR5L17N54777",
       "titre": "Adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales",
       "procedure": "Projet ou proposition de loi organique",
@@ -218,15 +227,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-07T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N48701"
-    },
-    {
-      "uid": "DLR5L17N53786",
-      "titre": "Proposition de loi réformant la prescription de l'action publique en matière criminelle et actualisant la notion d'obstacle insurmontable",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-07T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53786"
     },
     {
       "uid": "DLR5L17N54152",
