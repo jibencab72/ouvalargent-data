@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-10T10:38:01.225762+00:00",
+  "genere_le": "2026-10-13T11:51:04.661765+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -98,14 +98,6 @@
       "nom": "Jeanbrun",
       "prenom": "Vincent",
       "portefeuille": "Ministère de la ville et du logement",
-      "date_nomination": "2025-10-13",
-      "uri_hatvp": null
-    },
-    {
-      "type": "ministre",
-      "nom": "Fournier",
-      "prenom": "Michel",
-      "portefeuille": "Ministère délégué auprès de la ministre de l’aménagement du territoire et de la décentralisation, chargé de la ruralité",
       "date_nomination": "2025-10-13",
       "uri_hatvp": null
     },
@@ -6834,7 +6826,7 @@
       "prenom": "Annick",
       "groupe_parlementaire": "Les Républicains",
       "circonscription": "Isère",
-      "profession": null
+      "profession": "Retraitée cadre de banque"
     },
     {
       "type": "senateur",
@@ -6938,7 +6930,7 @@
       "prenom": "Renaud",
       "groupe_parlementaire": "UCI",
       "circonscription": "Bouches-du-Rhône",
-      "profession": null
+      "profession": "Medecin"
     },
     {
       "type": "senateur",
@@ -7106,7 +7098,7 @@
       "prenom": "Ryan",
       "groupe_parlementaire": "RDPI",
       "circonscription": "Guyane",
-      "profession": null
+      "profession": "Directeur de société"
     },
     {
       "type": "senateur",

@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-10T10:38:27.546795+00:00",
+  "genere_le": "2026-10-13T11:51:26.558131+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -130,6 +130,33 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731"
     },
     {
+      "uid": "DLR5L17N54951",
+      "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+      "procedure": "Projet de loi de financement de la sécurité sociale",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-14T09:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
+    },
+    {
+      "uid": "DLR5L17N54776",
+      "titre": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-13T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/apporter_reponse_integrale_phenomene_violences_sexuelles_sexistes_contre_femmes_enfants_17e"
+    },
+    {
+      "uid": "DLR5L17N54777",
+      "titre": "Adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales",
+      "procedure": "Projet ou proposition de loi organique",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-13T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_autorite_judiciaire_lutte_contre_violences_sexuelles_intrafamiliales_17e"
+    },
+    {
       "uid": "DLR5L17N54445",
       "titre": "Moderniser et rééquilibrer le fonctionnement du titre-restaurant",
       "procedure": "Proposition de loi ordinaire",
@@ -137,6 +164,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-12T15:45:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_fonctionnement_titre_restaurant_17e"
+    },
+    {
+      "uid": "DLR5L17N55051",
+      "titre": "Proposition de loi visant à réformer et à moderniser le régime d'indemnisation des dégâts de grand gibier",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-12T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55051"
     },
     {
       "uid": "DLR5L17N53886",
@@ -157,13 +193,13 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54096"
     },
     {
-      "uid": "DLR5L17N54776",
-      "titre": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+      "uid": "DLR5L17N55052",
+      "titre": "Proposition de loi visant à attacher à une obligation de débroussaillement débordant sur un fonds voisin le bénéfice d'un droit de préférence en cas d'aliénation dudit fonds",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-10-09T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/apporter_reponse_integrale_phenomene_violences_sexuelles_sexistes_contre_femmes_enfants_17e"
+      "derniere_activite": "2026-10-12T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55052"
     },
     {
       "uid": "DLR5L17N53786",
@@ -175,15 +211,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53786"
     },
     {
-      "uid": "DLR5L17N54777",
-      "titre": "Adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales",
-      "procedure": "Projet ou proposition de loi organique",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-09T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_autorite_judiciaire_lutte_contre_violences_sexuelles_intrafamiliales_17e"
-    },
-    {
       "uid": "DLR5L17N54557",
       "titre": "Abroger les zones à faibles émissions-mobilités",
       "procedure": "Proposition de loi ordinaire",
@@ -191,6 +218,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-08T08:45:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_ZFE-m_17e"
+    },
+    {
+      "uid": "DLR5L17N55053",
+      "titre": "Proposition de loi visant à encadrer la production, la traçabilité, la distribution et certains usages des produits à base de cannabidiol",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-08T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55053"
     },
     {
       "uid": "DLR5L17N55030",
@@ -731,15 +767,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-06T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/modifier_loi_sru_17e"
-    },
-    {
-      "uid": "DLR5L17N54951",
-      "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
-      "procedure": "Projet de loi de financement de la sécurité sociale",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-05T14:05:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
     },
     {
       "uid": "DLR5L17N54962",
