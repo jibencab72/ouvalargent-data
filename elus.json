@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-13T11:51:04.661765+00:00",
+  "genere_le": "2026-10-15T09:10:07.714912+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -660,10 +660,7 @@
       "nom": "Hadj-Mimoune",
       "prenom": "Melouka",
       "parti": null,
-      "profession": {
-        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-        "@xsi:nil": "true"
-      },
+      "profession": "Assistante familiale",
       "uri_hatvp": null
     },
     {
@@ -6026,7 +6023,7 @@
       "prenom": "Joseph",
       "groupe_parlementaire": "Les Républicains",
       "circonscription": "Hérault",
-      "profession": null
+      "profession": "Retraité"
     },
     {
       "type": "senateur",
@@ -6474,7 +6471,7 @@
       "prenom": "Bertrand",
       "groupe_parlementaire": "Les Républicains",
       "circonscription": "Creuse",
-      "profession": null
+      "profession": "Docteur vétérinaire"
     },
     {
       "type": "senateur",
