@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-15T09:10:37.697997+00:00",
+  "genere_le": "2026-10-16T09:09:35.241796+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -130,6 +130,33 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
     },
     {
+      "uid": "DLR5L16N48701",
+      "titre": "Proposition de loi créant une dérogation à la participation minimale pour la maîtrise d'ouvrage pour les communes rurales",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-15T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N48701"
+    },
+    {
+      "uid": "DLR5L17N53786",
+      "titre": "Proposition de loi réformant la prescription de l'action publique en matière criminelle et actualisant la notion d'obstacle insurmontable",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-15T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53786"
+    },
+    {
+      "uid": "DLR5L17N54606",
+      "titre": "Proposition de loi visant à dématérialiser l'état civil des bénéficiaires de la protection internationale",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-15T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54606"
+    },
+    {
       "uid": "DLR5L17N50731",
       "titre": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
       "procedure": "Projet de loi ordinaire",
@@ -137,6 +164,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-14T14:45:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731"
+    },
+    {
+      "uid": "DLR5L17N55109",
+      "titre": "Proposition de loi visant à poursuivre la réduction des inégalités territoriales pour les ouvertures de casinos",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-14T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55109"
     },
     {
       "uid": "DLR5L17N54778",
@@ -166,24 +202,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_ouverture_debits_boissons_zones_rurales_17e"
     },
     {
-      "uid": "DLR5L16N48701",
-      "titre": "Proposition de loi créant une dérogation à la participation minimale pour la maîtrise d'ouvrage pour les communes rurales",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-14T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N48701"
-    },
-    {
-      "uid": "DLR5L17N53786",
-      "titre": "Proposition de loi réformant la prescription de l'action publique en matière criminelle et actualisant la notion d'obstacle insurmontable",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-14T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53786"
-    },
-    {
       "uid": "DLR5L17N51499",
       "titre": "Reconnaissance de la Nation envers les rapatriés d’Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français",
       "procedure": "Proposition de loi ordinaire",
@@ -209,15 +227,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-14T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54842"
-    },
-    {
-      "uid": "DLR5L17N54606",
-      "titre": "Proposition de loi visant à dématérialiser l'état civil des bénéficiaires de la protection internationale",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-14T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54606"
     },
     {
       "uid": "DLR5L17N54525",
@@ -362,6 +371,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-13T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_confier_a_autorite_de_regulatiuon_de_la_communication_audiovisuel_et_numerique_les_missions_prevues_par_le_reglement_europeen_sur_la_liberte_des_medias_17e"
+    },
+    {
+      "uid": "DLR5L17N55111",
+      "titre": "Proposition de loi visant à reverser aux communes le produit des amendes de police liées aux incivilités",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-13T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55111"
     },
     {
       "uid": "DLR5L17N55064",
@@ -598,6 +616,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_adaptation_de_certaines_dispositions_relatives_a_l_arbitrage_17e"
     },
     {
+      "uid": "DLR5L17N55110",
+      "titre": "Proposition de loi visant à renforcer l'efficacité de la lutte contre les dépôts illégaux de déchets",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-13T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55110"
+    },
+    {
       "uid": "DLR5L17N55087",
       "titre": "Faciliter le financement par les collectivités territoriales de l’entretien préventif des infrastructures routières",
       "procedure": "Proposition de loi ordinaire",
@@ -677,6 +704,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-13T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_communications_urgence_17e"
+    },
+    {
+      "uid": "DLR5L17N55112",
+      "titre": "Proposition de loi visant à appliquer un taux réduit de taxe sur la valeur ajoutée aux matériaux réutilisables de chantiers",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-13T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55112"
     },
     {
       "uid": "DLR5L17N55100",
