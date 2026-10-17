@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-16T09:09:35.241796+00:00",
+  "genere_le": "2026-10-17T08:32:10.905111+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -157,6 +157,33 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54606"
     },
     {
+      "uid": "DLR5L17N55115",
+      "titre": "Proposition de loi relative à la commémoration de la répression d'Algériens le 17 octobre 1961 et les jours suivants à Paris",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-15T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55115"
+    },
+    {
+      "uid": "DLR5L17N55114",
+      "titre": "Proposition de loi tendant à créer une agence d'évaluation des politiques publiques dans les outre-mer",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-15T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55114"
+    },
+    {
+      "uid": "DLR5L17N55113",
+      "titre": "Proposition de loi visant à autoriser le remboursement de la licence sportive sur prescription médicale",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-15T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55113"
+    },
+    {
       "uid": "DLR5L17N50731",
       "titre": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
       "procedure": "Projet de loi ordinaire",
@@ -164,6 +191,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-14T14:45:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731"
+    },
+    {
+      "uid": "DLR5L17N55117",
+      "titre": "Proposition de loi portant réforme de la preuve de l'originalité de l'oeuvre",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-14T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55117"
     },
     {
       "uid": "DLR5L17N55109",
@@ -182,6 +218,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-14T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54778"
+    },
+    {
+      "uid": "DLR5L17N55116",
+      "titre": "Proposition de loi visant à garantir une meilleure protection de la biodiversité forestière",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-14T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55116"
     },
     {
       "uid": "DLR5L17N54148",

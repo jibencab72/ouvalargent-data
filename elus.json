@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-15T09:10:07.714912+00:00",
+  "genere_le": "2026-10-17T08:31:45.619699+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -5583,7 +5583,7 @@
       "prenom": "Bastien",
       "groupe_parlementaire": "SER",
       "circonscription": "Seine-Maritime",
-      "profession": "Collaborateur parlementaire "
+      "profession": "Collaborateur parlementaire"
     },
     {
       "type": "senateur",
@@ -6047,7 +6047,7 @@
       "prenom": "Édouard",
       "groupe_parlementaire": "Les Républicains",
       "circonscription": "Polynésie française",
-      "profession": null
+      "profession": "Ingénieur de travaux de la ville de Paris"
     },
     {
       "type": "senateur",
@@ -6119,7 +6119,7 @@
       "prenom": "Frank",
       "groupe_parlementaire": "UNT",
       "circonscription": "Var",
-      "profession": "Fonctionnaire Education nationale"
+      "profession": "Fonctionnaire de l'éducation nationale"
     },
     {
       "type": "senateur",
@@ -6823,7 +6823,7 @@
       "prenom": "Annick",
       "groupe_parlementaire": "Les Républicains",
       "circonscription": "Isère",
-      "profession": "Retraitée cadre de banque"
+      "profession": "Cadre de banque retraitée"
     },
     {
       "type": "senateur",
@@ -6927,7 +6927,7 @@
       "prenom": "Renaud",
       "groupe_parlementaire": "UCI",
       "circonscription": "Bouches-du-Rhône",
-      "profession": "Medecin"
+      "profession": "Médecin"
     },
     {
       "type": "senateur",
@@ -6967,7 +6967,7 @@
       "prenom": "Nathalie",
       "groupe_parlementaire": "RDPI",
       "circonscription": "Drôme",
-      "profession": "Cadre fonction publique"
+      "profession": "Cadre de la fonction publique"
     },
     {
       "type": "senateur",
