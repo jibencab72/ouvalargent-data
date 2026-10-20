@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-17T08:32:10.905111+00:00",
+  "genere_le": "2026-10-20T09:26:54.383958+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -9,7 +9,7 @@
       "procedure": "Projet de loi de finances de l'année",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-11-16T00:00:00.000+01:00",
+      "derniere_activite": "2026-11-04T11:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027"
     },
     {
@@ -130,6 +130,42 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
     },
     {
+      "uid": "DLR5L17N53401",
+      "titre": "Pour l’égalité d’accès aux soins des ressortissants ultramarins en hexagone",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-20T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/pour_egalite_acces_soins_ressortissants_ultramarins_hexagone_17e"
+    },
+    {
+      "uid": "DLR5L17N51499",
+      "titre": "Reconnaissance de la Nation envers les rapatriés d’Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-19T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaissance_nation_rapatries_indochine_17"
+    },
+    {
+      "uid": "DLR5L17N55120",
+      "titre": "Inscrire l’aide médicale de l’État dans la Constitution",
+      "procedure": "Projet ou proposition de loi constitutionnelle",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-19T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/aide_medicale_etat_constitution"
+    },
+    {
+      "uid": "DLR5L17N53067",
+      "titre": "Reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assurance",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-19T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaitre_politique_nationale_adaptation_changement_climatique_adapter_mecanismes_assurance_17e"
+    },
+    {
       "uid": "DLR5L16N48701",
       "titre": "Proposition de loi créant une dérogation à la participation minimale pour la maîtrise d'ouvrage pour les communes rurales",
       "procedure": "Proposition de loi ordinaire",
@@ -247,15 +283,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_ouverture_debits_boissons_zones_rurales_17e"
     },
     {
-      "uid": "DLR5L17N51499",
-      "titre": "Reconnaissance de la Nation envers les rapatriés d’Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-14T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaissance_nation_rapatries_indochine_17"
-    },
-    {
       "uid": "DLR5L17N54703",
       "titre": "Projet de loi relatif à la lutte contre les ingérences étrangères dans la vie démocratique",
       "procedure": "Projet de loi ordinaire",
@@ -263,6 +290,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-14T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54703"
+    },
+    {
+      "uid": "DLR5L17N55122",
+      "titre": "Projet de loi portant diverses dispositions relatives au secteur nucléaire",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-14T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55122"
     },
     {
       "uid": "DLR5L17N54842",
@@ -299,15 +335,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-14T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retrouver_confiance_equilibre_rapports_locatifs_17e"
-    },
-    {
-      "uid": "DLR5L17N53067",
-      "titre": "Reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assurance",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-14T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaitre_politique_nationale_adaptation_changement_climatique_adapter_mecanismes_assurance_17e"
     },
     {
       "uid": "DLR5L17N52767",
@@ -470,15 +497,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-13T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_prevenir_l_exposition_des_mineurs_et_jeunes_adultes_aux_boissons_energisantes_et_aux_boissons_alcooliques_17e"
-    },
-    {
-      "uid": "DLR5L17N53401",
-      "titre": "Pour l’égalité d’accès aux soins des ressortissants ultramarins en hexagone",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-13T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/pour_egalite_acces_soins_ressortissants_ultramarins_hexagone_17e"
     },
     {
       "uid": "DLR5L17N55082",
