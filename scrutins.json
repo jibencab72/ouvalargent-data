@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-13T11:51:34.929679+00:00",
+  "genere_le": "2026-10-21T09:23:52.851894+00:00",
   "note_methode": "Seuls les votes sur « l'ensemble » d'un texte sont retenus (adoption finale) — les votes sur un article ou un amendement isolé (plusieurs milliers pour cette législature) ne sont pas repris, hors du périmètre de cet écran. Résultat par groupe parlementaire (position majoritaire et décompte des voix), jamais nominatif député par député. Source : data.assemblee-nationale.fr, dataset Scrutins, législature 17 — réinterrogé à chaque publication.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/votes",
   "scrutins": [
@@ -745,7 +745,7 @@
       "uid": "VTANR5L17V8433",
       "dossier_ref": "DLR5L17N53980",
       "date_scrutin": "2026-07-21",
-      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (texte de la commission mixte paritaire).",
       "sort": "adopté",
       "sort_libelle": "l'Assemblée nationale a adopté",
       "nombre_votants": 537,
