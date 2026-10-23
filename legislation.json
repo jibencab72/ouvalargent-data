@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-21T09:23:51.950484+00:00",
+  "genere_le": "2026-10-23T09:26:12.737285+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -11,6 +11,42 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-17T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027"
+    },
+    {
+      "uid": "DLR5L17N55014",
+      "titre": "Baisser les prix du carburant à la pompe par l'encadrement des marges des raffineurs",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T16:30:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/baisser_prix_carburants_encadrement_marges_raffineurs_17e"
+    },
+    {
+      "uid": "DLR5L17N54718",
+      "titre": "L’interdiction de relations commerciales contribuant, par aide ou assistance, à la politique de colonisation dans le Territoire palestinien occupé et dans le Territoire syrien occupé des hauteurs du Golan",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-09T21:30:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdiction_relations_commerciales_soutien_colonisation_17e"
+    },
+    {
+      "uid": "DLR5L17N51095",
+      "titre": "Proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-09T16:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51095"
+    },
+    {
+      "uid": "DLR5L17N53069",
+      "titre": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-03T18:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retrouver_confiance_equilibre_rapports_locatifs_17e"
     },
     {
       "uid": "DLR5L17N53331",
@@ -130,6 +166,78 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
     },
     {
+      "uid": "DLR5L17N54778",
+      "titre": "Proposition de loi relative aux modalités de recouvrement de la contribution aux frais de garderie et de la contribution additionnelle versées à l’Office national des forêts (ONF) par les collectivités territoriales et personnes morales propriétaires de bois et forêts relevant du régime forestier et à la composition du conseil d’administration de l’ONF",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-22T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54778"
+    },
+    {
+      "uid": "DLR5L17N51453",
+      "titre": "Simplifier l'ouverture des débits de boisson en zone rurale",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-22T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_ouverture_debits_boissons_zones_rurales_17e"
+    },
+    {
+      "uid": "DLR5L17N55151",
+      "titre": "Instaurer une motion de censure constructive",
+      "procedure": "Projet ou proposition de loi constitutionnelle",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-22T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_motion_censure_constructive_PPLC"
+    },
+    {
+      "uid": "DLR5L17N54372",
+      "titre": "Projet de loi relatif à la protection des enfants",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-21T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_de_loi_relatif_a_la_protection_des_enfants"
+    },
+    {
+      "uid": "DLR5L17N54703",
+      "titre": "Projet de loi relatif à la lutte contre les ingérences étrangères dans la vie démocratique",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-21T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54703"
+    },
+    {
+      "uid": "DLR5L17N54218",
+      "titre": "Projet de loi constitutionnelle pour une Corse autonome au sein de la République",
+      "procedure": "Projet ou proposition de loi constitutionnelle",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-21T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_constitutionnelle_pour_Corse_autonome_au_sein_Republique"
+    },
+    {
+      "uid": "DLR5L17N52743",
+      "titre": "Garantir l’information et la protection effective des victimes de violences sexuelles lors de la libération de leur agresseur",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-21T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/information_protection_victimes_violences_sexuelles_17e"
+    },
+    {
+      "uid": "DLR5L17N53886",
+      "titre": "Proposition de loi visant à assouplir la procédure d'autorisation des établissements et services médico-sociaux à caractère expérimental",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "promulguee",
+      "date_promulgation": "2026-10-21T00:00:00.000+02:00",
+      "derniere_activite": "2026-10-21T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53886"
+    },
+    {
       "uid": "DLR5L17N55145",
       "titre": "Instaurer une négociation obligatoire sur la situation des parents isolés",
       "procedure": "Proposition de loi ordinaire",
@@ -193,15 +301,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_certificat_constructibilite_familiale_17e"
     },
     {
-      "uid": "DLR5L17N54703",
-      "titre": "Projet de loi relatif à la lutte contre les ingérences étrangères dans la vie démocratique",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-20T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54703"
-    },
-    {
       "uid": "DLR5L17N55134",
       "titre": "Organisation d’un débat dans les intercommunalités rurales pour développer les achats groupés négociés",
       "procedure": "Proposition de loi ordinaire",
@@ -263,15 +362,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-20T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_faire_contribuer_davantage_les_heritiers_les_plus_fortunes_17e"
-    },
-    {
-      "uid": "DLR5L17N52743",
-      "titre": "Garantir l’information et la protection effective des victimes de violences sexuelles lors de la libération de leur agresseur",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-20T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/information_protection_victimes_violences_sexuelles_17e"
     },
     {
       "uid": "DLR5L17N55137",
@@ -472,15 +562,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55109"
     },
     {
-      "uid": "DLR5L17N54778",
-      "titre": "Proposition de loi relative aux modalités de recouvrement de la contribution aux frais de garderie et de la contribution additionnelle versées à l'Office national des forêts (ONF) par les collectivités territoriales et personnes morales propriétaires de bois et forêts relevant du régime forestier et à la composition du conseil d'administration de l'ONF",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-14T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54778"
-    },
-    {
       "uid": "DLR5L17N55116",
       "titre": "Proposition de loi visant à garantir une meilleure protection de la biodiversité forestière",
       "procedure": "Proposition de loi ordinaire",
@@ -497,15 +578,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-14T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reduire_risques_sanitaires_lies_aux_contaminations_au_cadmium_dans_alimentation_17e"
-    },
-    {
-      "uid": "DLR5L17N51453",
-      "titre": "Simplifier l'ouverture des débits de boisson en zone rurale",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-14T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_ouverture_debits_boissons_zones_rurales_17e"
     },
     {
       "uid": "DLR5L17N55122",
@@ -533,15 +605,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-14T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54525"
-    },
-    {
-      "uid": "DLR5L17N53069",
-      "titre": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-14T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retrouver_confiance_equilibre_rapports_locatifs_17e"
     },
     {
       "uid": "DLR5L17N55102",
@@ -1066,15 +1129,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55051"
     },
     {
-      "uid": "DLR5L17N53886",
-      "titre": "Proposition de loi visant à assouplir la procédure d'autorisation des établissements et services médico-sociaux à caractère expérimental",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-12T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53886"
-    },
-    {
       "uid": "DLR5L17N54096",
       "titre": "Proposition de loi relative à l’expérimentation d’une gouvernance territoriale unifiée pour le centre de ressources, d’expertise et de performance sportive (CREPS) de Vichy",
       "procedure": "Proposition de loi ordinaire",
@@ -1595,15 +1649,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-06T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulariser_metier_essentiel_tension_17e"
-    },
-    {
-      "uid": "DLR5L17N55014",
-      "titre": "Baisser les prix du carburant à la pompe par l'encadrement des marges des raffineurs",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-06T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/baisser_prix_carburants_encadrement_marges_raffineurs_17e"
     },
     {
       "uid": "DLR5L17N54993",
@@ -2740,15 +2785,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54757"
     },
     {
-      "uid": "DLR5L17N54718",
-      "titre": "L’interdiction de relations commerciales contribuant, par aide ou assistance, à la politique de colonisation dans le Territoire palestinien occupé et dans le Territoire syrien occupé des hauteurs du Golan",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-07-23T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdiction_relations_commerciales_soutien_colonisation_17e"
-    },
-    {
       "uid": "DLR5L17N54726",
       "titre": "Instaurer une réponse pénale ferme et systématique aux incendies volontaires",
       "procedure": "Proposition de loi ordinaire",
@@ -2891,15 +2927,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-07-22T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54094"
-    },
-    {
-      "uid": "DLR5L17N54372",
-      "titre": "Projet de loi relatif à la protection des enfants",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-07-22T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_de_loi_relatif_a_la_protection_des_enfants"
     },
     {
       "uid": "DLR5L17N54742",
@@ -3539,15 +3566,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-06-24T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54573"
-    },
-    {
-      "uid": "DLR5L17N54218",
-      "titre": "Projet de loi constitutionnelle pour une Corse autonome au sein de la République",
-      "procedure": "Projet ou proposition de loi constitutionnelle",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-06-24T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_constitutionnelle_pour_Corse_autonome_au_sein_Republique"
     },
     {
       "uid": "DLR5L16N48747",
@@ -15869,15 +15887,6 @@
       "date_promulgation": null,
       "derniere_activite": "2025-03-07T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51167"
-    },
-    {
-      "uid": "DLR5L17N51095",
-      "titre": "Proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2025-03-06T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51095"
     },
     {
       "uid": "DLR5L17N51563",
