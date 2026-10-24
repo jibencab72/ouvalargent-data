@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-23T09:26:12.737285+00:00",
+  "genere_le": "2026-10-24T08:54:27.193705+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -157,21 +157,12 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_droits_joueurs_perennite_jeux_videos_17e"
     },
     {
-      "uid": "DLR5L17N54951",
-      "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
-      "procedure": "Projet de loi de financement de la sécurité sociale",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-26T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
-    },
-    {
       "uid": "DLR5L17N54778",
       "titre": "Proposition de loi relative aux modalités de recouvrement de la contribution aux frais de garderie et de la contribution additionnelle versées à l’Office national des forêts (ONF) par les collectivités territoriales et personnes morales propriétaires de bois et forêts relevant du régime forestier et à la composition du conseil d’administration de l’ONF",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-10-22T00:00:00.000+02:00",
+      "derniere_activite": "2026-10-23T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54778"
     },
     {
@@ -180,8 +171,17 @@
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-10-22T00:00:00.000+02:00",
+      "derniere_activite": "2026-10-23T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_ouverture_debits_boissons_zones_rurales_17e"
+    },
+    {
+      "uid": "DLR5L17N54951",
+      "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+      "procedure": "Projet de loi de financement de la sécurité sociale",
+      "statut": "rejetee",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-23T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
     },
     {
       "uid": "DLR5L17N55151",
@@ -191,6 +191,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-22T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_motion_censure_constructive_PPLC"
+    },
+    {
+      "uid": "DLR5L17N55155",
+      "titre": "Proposition de loi visant à prolonger l'expérimentation de la dématérialisation de l'état civil du ministère de l'Europe et des affaires étrangères",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-21T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55155"
     },
     {
       "uid": "DLR5L17N54372",
