@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-28T10:53:20.234824+00:00",
+  "genere_le": "2026-10-29T11:03:17.151925+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -202,6 +202,69 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_droits_joueurs_perennite_jeux_videos_17e"
     },
     {
+      "uid": "DLR5L17N52582",
+      "titre": "Proposition de loi visant à faciliter l'emploi des étrangers dans les secteurs d'activités en tension",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52582"
+    },
+    {
+      "uid": "DLR5L17N54628",
+      "titre": "Proposition de loi visant à protéger les demandeurs de logement contre les sollicitations sexuelles abusives",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54628"
+    },
+    {
+      "uid": "DLR5L17N54925",
+      "titre": "Projet de loi relatif à la réparation des dommages résultant de violences ou de dégradations commises dans l’espace public et au recouvrement des dommages et intérêts",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54925"
+    },
+    {
+      "uid": "DLR5L17N54218",
+      "titre": "Projet de loi constitutionnelle pour une Corse autonome au sein de la République",
+      "procedure": "Projet ou proposition de loi constitutionnelle",
+      "statut": "rejetee",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_constitutionnelle_pour_Corse_autonome_au_sein_Republique"
+    },
+    {
+      "uid": "DLR5L17N51518",
+      "titre": "Valoriser la réserve communale de sécurité civile",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/valoriser_reserve_communale_securite_civile2"
+    },
+    {
+      "uid": "DLR5L17N53917",
+      "titre": "Proposition de loi visant à résoudre le fléau des désordres fonciers outre-mer",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53917"
+    },
+    {
+      "uid": "DLR5L17N52558",
+      "titre": "Proposition de loi visant à améliorer la gestion des biens des sections de commune",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52558"
+    },
+    {
       "uid": "DLR5L17N55187",
       "titre": "Renforcer le pluralisme de l'information et à encadrer la concentration des médias",
       "procedure": "Proposition de loi ordinaire",
@@ -227,15 +290,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-27T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_parcoursup_droit_acces_enseignement_superieur_17e"
-    },
-    {
-      "uid": "DLR5L17N54925",
-      "titre": "Projet de loi relatif à la réparation des dommages résultant de violences ou de dégradations commises dans l’espace public et au recouvrement des dommages et intérêts",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-27T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54925"
     },
     {
       "uid": "DLR5L17N55191",
@@ -398,15 +452,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-27T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_procedures_liquidation_judiciaire_taille_enjeux_economiques_sociaux_territoriaux_entreprises_XVIIe"
-    },
-    {
-      "uid": "DLR5L17N54218",
-      "titre": "Projet de loi constitutionnelle pour une Corse autonome au sein de la République",
-      "procedure": "Projet ou proposition de loi constitutionnelle",
-      "statut": "rejetee",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-26T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_constitutionnelle_pour_Corse_autonome_au_sein_Republique"
     },
     {
       "uid": "DLR5L17N54096",
@@ -3721,15 +3766,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49075"
     },
     {
-      "uid": "DLR5L17N54628",
-      "titre": "Proposition de loi visant à protéger les demandeurs de logement contre les sollicitations sexuelles abusives",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-06-25T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54628"
-    },
-    {
       "uid": "DLR5L17N52985",
       "titre": "Projet de loi relatif à la lutte contre les fraudes sociales et fiscales",
       "procedure": "Projet de loi ordinaire",
@@ -6473,15 +6509,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-03-09T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53919"
-    },
-    {
-      "uid": "DLR5L17N53917",
-      "titre": "Proposition de loi visant à résoudre le fléau des désordres fonciers outre-mer",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-03-05T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53917"
     },
     {
       "uid": "DLR5L17N53882",
@@ -11803,15 +11830,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52599"
     },
     {
-      "uid": "DLR5L17N52582",
-      "titre": "Proposition de loi visant à faciliter l'emploi des étrangers dans les secteurs d'activités en tension",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2025-07-21T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52582"
-    },
-    {
       "uid": "DLR5L17N52583",
       "titre": "Proposition de loi visant à créer un pôle dédié aux Français établis hors de France au sein d'une maison départementale des personnes handicapées",
       "procedure": "Proposition de loi ordinaire",
@@ -12575,15 +12593,6 @@
       "date_promulgation": null,
       "derniere_activite": "2025-06-25T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51702"
-    },
-    {
-      "uid": "DLR5L17N52558",
-      "titre": "Proposition de loi visant à améliorer la gestion des biens des sections de commune",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2025-06-25T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52558"
     },
     {
       "uid": "DLR5L17N52411",
@@ -14870,15 +14879,6 @@
       "date_promulgation": null,
       "derniere_activite": "2025-04-04T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51865"
-    },
-    {
-      "uid": "DLR5L17N51518",
-      "titre": "Valoriser la réserve communale de sécurité civile",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2025-04-03T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/valoriser_reserve_communale_securite_civile2"
     },
     {
       "uid": "DLR5L17N51864",

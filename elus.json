@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-28T10:52:51.195152+00:00",
+  "genere_le": "2026-10-29T11:02:40.602547+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -661,7 +661,7 @@
       "prenom": "Melouka",
       "parti": null,
       "profession": "Assistante familiale",
-      "uri_hatvp": null
+      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/hadj-mimoune-melouka-19320"
     },
     {
       "type": "depute",
@@ -1557,7 +1557,7 @@
       "prenom": "Muriel",
       "parti": null,
       "profession": "Médecin",
-      "uri_hatvp": null
+      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/fiol-muriel-32760"
     },
     {
       "type": "depute",
@@ -4181,7 +4181,7 @@
       "prenom": "Benoit",
       "parti": null,
       "profession": "Chef d'équipe dans le secteur du transport",
-      "uri_hatvp": null
+      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/gilhet-benoit-32905"
     },
     {
       "type": "depute",
@@ -4429,7 +4429,7 @@
       "prenom": "Laurence",
       "parti": null,
       "profession": "Commerçante",
-      "uri_hatvp": null
+      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/gardet-laurence-32906"
     },
     {
       "type": "depute",
@@ -4637,7 +4637,7 @@
       "prenom": "Emmanuel",
       "parti": null,
       "profession": "Retraité",
-      "uri_hatvp": null
+      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/riotte-emmanuel-11603"
     },
     {
       "type": "depute",
