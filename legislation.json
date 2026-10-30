@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-29T11:03:17.151925+00:00",
+  "genere_le": "2026-10-30T11:01:58.047180+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -103,6 +103,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027"
     },
     {
+      "uid": "DLR5L15N37121",
+      "titre": "Instances représentatives des Français établis hors de France",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-03T16:30:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instances_representatives_francais_etablis_hors_France"
+    },
+    {
       "uid": "DLR5L17N53331",
       "titre": "Rétablir le droit commun de la prescription acquisitive dans les collectivités régies par l’article 73 de la Constitution ainsi qu’à Saint-Martin et Saint-Barthélemy",
       "procedure": "Proposition de loi ordinaire",
@@ -110,15 +119,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-29T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_commun_prescription_acquisitive_collectivites_article_73_17e"
-    },
-    {
-      "uid": "DLR5L17N54906",
-      "titre": "Augmenter les salaires et des pensions",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-29T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/augmenter_salaires_pensions_17e"
     },
     {
       "uid": "DLR5L17N54898",
@@ -130,22 +130,13 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/creer_parcours_soins_victimes_violences_sexuelles_17e"
     },
     {
-      "uid": "DLR5L17N53266",
-      "titre": "Garantir le droit de vote par l’encadrement des radiations pour perte d’attache communale",
+      "uid": "DLR5L17N53159",
+      "titre": "Proposition de loi visant à améliorer les moyens d'action de l'Agence de gestion et de recouvrement des avoirs saisis et confisqués et à faciliter l'exercice des missions d'expert judiciaire",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2026-10-29T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_vote_encadrement_radiations_17e"
-    },
-    {
-      "uid": "DLR5L17N54902",
-      "titre": "Loi d’urgence visant à rétablir l’interdiction de l’acétamipride et du flupyradifurone pour garantir la protection de la santé humaine, de la biodiversité, de l’environnement et notre souveraineté alimentaire",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-29T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/loi_urgence_retablir_interdiction_acetamipride_17e"
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53159"
     },
     {
       "uid": "DLR5L17N54901",
@@ -157,31 +148,13 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_corps_accompagnants_aesh_17e"
     },
     {
-      "uid": "DLR5L17N54903",
-      "titre": "Abroger le dispositif des amendes forfaitaires délictuelles",
+      "uid": "DLR5L17N51330",
+      "titre": "Renforcer l’effectivité des droits voisins de la presse",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2026-10-29T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_amendes_forfaitaires_delictuelles_17e"
-    },
-    {
-      "uid": "DLR5L17N54900",
-      "titre": "Instaurer un moratoire sur le projet du canal Seine-nord Europe",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-29T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moratoire_canal_seine_nord_europe_17e"
-    },
-    {
-      "uid": "DLR5L17N54907",
-      "titre": "Contrôle réel des investissements étrangers en France",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-29T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/controle_reel_investissement_etrangers_17e"
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/effectivite_droits_voisins_presse"
     },
     {
       "uid": "DLR5L17N54298",
@@ -193,13 +166,58 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_jeunes_aide_sociale_17e"
     },
     {
+      "uid": "DLR5L17N54902",
+      "titre": "Loi d’urgence visant à rétablir l’interdiction de l’acétamipride et du flupyradifurone pour garantir la protection de la santé humaine, de la biodiversité, de l’environnement et notre souveraineté alimentaire",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T15:30:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/loi_urgence_retablir_interdiction_acetamipride_17e"
+    },
+    {
+      "uid": "DLR5L17N54900",
+      "titre": "Instaurer un moratoire sur le projet du canal Seine-nord Europe",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T10:40:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moratoire_canal_seine_nord_europe_17e"
+    },
+    {
+      "uid": "DLR5L17N53266",
+      "titre": "Garantir le droit de vote par l’encadrement des radiations pour perte d’attache communale",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T09:30:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_vote_encadrement_radiations_17e"
+    },
+    {
+      "uid": "DLR5L17N54903",
+      "titre": "Abroger le dispositif des amendes forfaitaires délictuelles",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T09:30:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_amendes_forfaitaires_delictuelles_17e"
+    },
+    {
       "uid": "DLR5L17N54899",
       "titre": "Garantir les droits des joueurs et joueuses et la pérennité des jeux vidéo",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-10-29T00:00:00.000+01:00",
+      "derniere_activite": "2026-10-28T09:30:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_droits_joueurs_perennite_jeux_videos_17e"
+    },
+    {
+      "uid": "DLR5L17N54907",
+      "titre": "Contrôle réel des investissements étrangers en France",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T09:05:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/controle_reel_investissement_etrangers_17e"
     },
     {
       "uid": "DLR5L17N52582",
@@ -454,6 +472,33 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_procedures_liquidation_judiciaire_taille_enjeux_economiques_sociaux_territoriaux_entreprises_XVIIe"
     },
     {
+      "uid": "DLR5L17N55197",
+      "titre": "Proposition de loi aux fins d'assurer la protection juridique des rédactions",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-26T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55197"
+    },
+    {
+      "uid": "DLR5L17N55196",
+      "titre": "Proposition de loi visant à la création d'une délégation parlementaire au numérique",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-26T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55196"
+    },
+    {
+      "uid": "DLR5L17N55195",
+      "titre": "Proposition de loi visant à reconnaître le génocide du peuple yézidi commis par Daech",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-26T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55195"
+    },
+    {
       "uid": "DLR5L17N54096",
       "titre": "Proposition de loi relative à l’expérimentation d’une gouvernance territoriale unifiée pour le centre de ressources, d’expertise et de performance sportive (CREPS) de Vichy",
       "procedure": "Proposition de loi ordinaire",
@@ -488,6 +533,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-23T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
+    },
+    {
+      "uid": "DLR5L17N55194",
+      "titre": "Proposition de loi visant à supprimer le recours systématique à l'atténuation de responsabilité pour les mineurs",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-22T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55194"
     },
     {
       "uid": "DLR5L17N55171",
@@ -776,6 +830,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-20T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_la_reconnaissance_de_l_engagement_des_sapeurs_pompiers_volontaires_dans_le_calcul_de_leurs_droits_a_la_retraite_17e"
+    },
+    {
+      "uid": "DLR5L17N54906",
+      "titre": "Augmenter les salaires et des pensions",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-19T17:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/augmenter_salaires_pensions_17e"
     },
     {
       "uid": "DLR5L17N51499",
@@ -4189,15 +4252,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54259"
     },
     {
-      "uid": "DLR5L17N51330",
-      "titre": "Renforcer l’effectivité des droits voisins de la presse",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-06-17T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/effectivite_droits_voisins_presse"
-    },
-    {
       "uid": "DLR5L17N54531",
       "titre": "Proposition de loi visant à redonner du pouvoir d'agir aux élus locaux face aux surcoûts de construction des bâtiments publics",
       "procedure": "Proposition de loi ordinaire",
@@ -4601,15 +4655,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-06-03T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54456"
-    },
-    {
-      "uid": "DLR5L17N53159",
-      "titre": "Proposition de loi visant à améliorer les moyens d'action de l'Agence de gestion et de recouvrement des avoirs saisis et confisqués et à faciliter l'exercice des missions d'expert judiciaire",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-06-03T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53159"
     },
     {
       "uid": "DLR5L17N54463",
@@ -21746,15 +21791,6 @@
       "date_promulgation": null,
       "derniere_activite": "2024-07-23T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/dispositions_elections_etranger"
-    },
-    {
-      "uid": "DLR5L15N37121",
-      "titre": "Instances représentatives des Français établis hors de France",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2024-07-23T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instances_representatives_francais_etablis_hors_France"
     },
     {
       "uid": "DLR5L12N22636",

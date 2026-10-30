@@ -1,8 +1,254 @@
 {
-  "genere_le": "2026-10-21T09:23:52.851894+00:00",
+  "genere_le": "2026-10-30T11:01:59.085261+00:00",
   "note_methode": "Seuls les votes sur « l'ensemble » d'un texte sont retenus (adoption finale) — les votes sur un article ou un amendement isolé (plusieurs milliers pour cette législature) ne sont pas repris, hors du périmètre de cet écran. Résultat par groupe parlementaire (position majoritaire et décompte des voix), jamais nominatif député par député. Source : data.assemblee-nationale.fr, dataset Scrutins, législature 17 — réinterrogé à chaque publication.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/votes",
   "scrutins": [
+    {
+      "uid": "VTANR5L17V9241",
+      "dossier_ref": "DLR5L17N54898",
+      "date_scrutin": "2026-10-29",
+      "titre": "l'ensemble de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+      "sort": "adopté",
+      "sort_libelle": "l'Assemblée nationale a adopté",
+      "nombre_votants": 267,
+      "suffrages_exprimes": 157,
+      "pour": 152,
+      "contre": 5,
+      "abstentions": 110,
+      "groupes": [
+        {
+          "organe_ref": "PO845425",
+          "nom_groupe": "Droite Républicaine",
+          "position_majoritaire": "abstention",
+          "pour": 1,
+          "contre": 0,
+          "abstentions": 6,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845407",
+          "nom_groupe": "Ensemble pour la République",
+          "position_majoritaire": "abstention",
+          "pour": 0,
+          "contre": 1,
+          "abstentions": 11,
+          "non_votants": 1
+        },
+        {
+          "organe_ref": "PO845514",
+          "nom_groupe": "Gauche Démocrate et Républicaine",
+          "position_majoritaire": "pour",
+          "pour": 14,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845470",
+          "nom_groupe": "Horizons & Indépendants",
+          "position_majoritaire": "abstention",
+          "pour": 0,
+          "contre": 0,
+          "abstentions": 9,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845413",
+          "nom_groupe": "La France insoumise - Nouveau Front Populaire",
+          "position_majoritaire": "pour",
+          "pour": 68,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845454",
+          "nom_groupe": "Les Démocrates",
+          "position_majoritaire": "contre",
+          "pour": 2,
+          "contre": 4,
+          "abstentions": 0,
+          "non_votants": 1
+        },
+        {
+          "organe_ref": "PO845485",
+          "nom_groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+          "position_majoritaire": "pour",
+          "pour": 1,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO840056",
+          "nom_groupe": "Non inscrit",
+          "position_majoritaire": "pour",
+          "pour": 0,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845401",
+          "nom_groupe": "Rassemblement National",
+          "position_majoritaire": "abstention",
+          "pour": 0,
+          "contre": 0,
+          "abstentions": 74,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845419",
+          "nom_groupe": "Socialistes et apparentés",
+          "position_majoritaire": "pour",
+          "pour": 36,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO872880",
+          "nom_groupe": "Union des droites pour la République",
+          "position_majoritaire": "abstention",
+          "pour": 0,
+          "contre": 0,
+          "abstentions": 10,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845439",
+          "nom_groupe": "Écologiste et Social",
+          "position_majoritaire": "pour",
+          "pour": 30,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        }
+      ]
+    },
+    {
+      "uid": "VTANR5L17V9203",
+      "dossier_ref": "DLR5L17N54901",
+      "date_scrutin": "2026-10-29",
+      "titre": "l'ensemble de la proposition de loi visant à créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).",
+      "sort": "adopté",
+      "sort_libelle": "l'Assemblée nationale a adopté",
+      "nombre_votants": 305,
+      "suffrages_exprimes": 182,
+      "pour": 166,
+      "contre": 16,
+      "abstentions": 123,
+      "groupes": [
+        {
+          "organe_ref": "PO845425",
+          "nom_groupe": "Droite Républicaine",
+          "position_majoritaire": "pour",
+          "pour": 7,
+          "contre": 0,
+          "abstentions": 3,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845407",
+          "nom_groupe": "Ensemble pour la République",
+          "position_majoritaire": "contre",
+          "pour": 0,
+          "contre": 6,
+          "abstentions": 23,
+          "non_votants": 1
+        },
+        {
+          "organe_ref": "PO845514",
+          "nom_groupe": "Gauche Démocrate et Républicaine",
+          "position_majoritaire": "pour",
+          "pour": 12,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845470",
+          "nom_groupe": "Horizons & Indépendants",
+          "position_majoritaire": "abstention",
+          "pour": 0,
+          "contre": 2,
+          "abstentions": 8,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845413",
+          "nom_groupe": "La France insoumise - Nouveau Front Populaire",
+          "position_majoritaire": "pour",
+          "pour": 68,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845454",
+          "nom_groupe": "Les Démocrates",
+          "position_majoritaire": "contre",
+          "pour": 0,
+          "contre": 7,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845485",
+          "nom_groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+          "position_majoritaire": "pour",
+          "pour": 4,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO840056",
+          "nom_groupe": "Non inscrit",
+          "position_majoritaire": "pour",
+          "pour": 0,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845401",
+          "nom_groupe": "Rassemblement National",
+          "position_majoritaire": "abstention",
+          "pour": 0,
+          "contre": 1,
+          "abstentions": 79,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845419",
+          "nom_groupe": "Socialistes et apparentés",
+          "position_majoritaire": "pour",
+          "pour": 41,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO872880",
+          "nom_groupe": "Union des droites pour la République",
+          "position_majoritaire": "abstention",
+          "pour": 0,
+          "contre": 0,
+          "abstentions": 10,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845439",
+          "nom_groupe": "Écologiste et Social",
+          "position_majoritaire": "pour",
+          "pour": 34,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        }
+      ]
+    },
     {
       "uid": "VTANR5L17V8694",
       "dossier_ref": "DLR5L17N53886",
