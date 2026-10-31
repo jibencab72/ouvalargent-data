@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-30T11:01:58.047180+00:00",
+  "genere_le": "2026-10-31T10:53:00.952446+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -137,6 +137,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-29T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53159"
+    },
+    {
+      "uid": "DLR5L17N51499",
+      "titre": "Reconnaissance de la Nation envers les rapatriés d’Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "promulguee",
+      "date_promulgation": "2026-10-29T00:00:00.000+01:00",
+      "derniere_activite": "2026-10-29T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaissance_nation_rapatries_indochine_17"
     },
     {
       "uid": "DLR5L17N54901",
@@ -427,6 +436,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/generaliser_contrats_locaux_sante_france_17e"
     },
     {
+      "uid": "DLR5L17N55201",
+      "titre": "Proposition de loi portant diverses mesures d'adaptation du code de la justice pénale des mineurs et visant à tirer les conséquences de diverses décisions du Conseil constitutionnel en matière pénale",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-27T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55201"
+    },
+    {
       "uid": "DLR5L17N55192",
       "titre": "Préserver le potentiel viticole français et donner de nouveaux outils aux élus locaux en matière de protection des espaces agricoles et d’aménagement du territoire",
       "procedure": "Proposition de loi ordinaire",
@@ -470,6 +488,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-27T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_procedures_liquidation_judiciaire_taille_enjeux_economiques_sociaux_territoriaux_entreprises_XVIIe"
+    },
+    {
+      "uid": "DLR5L17N55202",
+      "titre": "Proposition de loi visant à renforcer la transparence, l'équité et l'information dans l'accès à l'enseignement\rsupérieur",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-27T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55202"
     },
     {
       "uid": "DLR5L17N55197",
@@ -839,15 +866,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-19T17:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/augmenter_salaires_pensions_17e"
-    },
-    {
-      "uid": "DLR5L17N51499",
-      "titre": "Reconnaissance de la Nation envers les rapatriés d’Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-19T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaissance_nation_rapatries_indochine_17"
     },
     {
       "uid": "DLR5L17N55120",
