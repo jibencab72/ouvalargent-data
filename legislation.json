@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-31T10:53:00.952446+00:00",
+  "genere_le": "2026-11-03T11:56:00.433854+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -108,8 +108,35 @@
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-11-03T16:30:00.000+01:00",
+      "derniere_activite": "2026-11-04T14:45:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instances_representatives_francais_etablis_hors_France"
+    },
+    {
+      "uid": "DLR5L17N54951",
+      "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+      "procedure": "Projet de loi de financement de la sécurité sociale",
+      "statut": "rejetee",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-02T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
+    },
+    {
+      "uid": "DLR5L17N55210",
+      "titre": "Proposition de loi visant à rétablir les règles d'exigibilité de la taxe d'aménagement dans l'intérêt des collectivités locales",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-30T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55210"
+    },
+    {
+      "uid": "DLR5L17N55207",
+      "titre": "Proposition de loi visant à améliorer les critères d'éligibilité au prélèvement sur recettes de l'État lié au fonds national de garantie individuelle des ressources",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-30T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55207"
     },
     {
       "uid": "DLR5L17N53331",
@@ -146,6 +173,15 @@
       "date_promulgation": "2026-10-29T00:00:00.000+01:00",
       "derniere_activite": "2026-10-29T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaissance_nation_rapatries_indochine_17"
+    },
+    {
+      "uid": "DLR5L17N55211",
+      "titre": "Proposition de loi visant à renforcer la lutte contre les discours incitant à la haine et aux actes racistes et xénophobes",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-29T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55211"
     },
     {
       "uid": "DLR5L17N54901",
@@ -256,6 +292,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54925"
     },
     {
+      "uid": "DLR5L17N55212",
+      "titre": "Proposition de loi visant à redéfinir le cadre d'attribution des subventions accordées par les collectivités territoriales",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55212"
+    },
+    {
       "uid": "DLR5L17N54218",
       "titre": "Projet de loi constitutionnelle pour une Corse autonome au sein de la République",
       "procedure": "Projet ou proposition de loi constitutionnelle",
@@ -274,6 +319,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/valoriser_reserve_communale_securite_civile2"
     },
     {
+      "uid": "DLR5L17N55204",
+      "titre": "Proposition de loi visant à instaurer des peines planchers pour les crimes et délits commis contre les membres de la force publique et les pompiers",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55204"
+    },
+    {
       "uid": "DLR5L17N53917",
       "titre": "Proposition de loi visant à résoudre le fléau des désordres fonciers outre-mer",
       "procedure": "Proposition de loi ordinaire",
@@ -290,6 +344,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-28T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52558"
+    },
+    {
+      "uid": "DLR5L17N55209",
+      "titre": "Proposition de loi visant à reconnaître et sécuriser le métier de médiateur en santé",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55209"
     },
     {
       "uid": "DLR5L17N55187",
@@ -551,15 +614,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-23T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_ouverture_debits_boissons_zones_rurales_17e"
-    },
-    {
-      "uid": "DLR5L17N54951",
-      "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
-      "procedure": "Projet de loi de financement de la sécurité sociale",
-      "statut": "rejetee",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-23T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
     },
     {
       "uid": "DLR5L17N55194",
@@ -1154,6 +1208,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-13T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_prevenir_l_exposition_des_mineurs_et_jeunes_adultes_aux_boissons_energisantes_et_aux_boissons_alcooliques_17e"
+    },
+    {
+      "uid": "DLR5L17N55208",
+      "titre": "Proposition de loi visant à adapter les obligations de production de logements sociaux aux capacités réelles des territoires",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-13T00:00:00.000+02:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55208"
     },
     {
       "uid": "DLR5L17N55082",

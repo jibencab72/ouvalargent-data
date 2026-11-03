@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-30T11:01:59.085261+00:00",
+  "genere_le": "2026-11-03T11:56:08.538689+00:00",
   "note_methode": "Seuls les votes sur « l'ensemble » d'un texte sont retenus (adoption finale) — les votes sur un article ou un amendement isolé (plusieurs milliers pour cette législature) ne sont pas repris, hors du périmètre de cet écran. Résultat par groupe parlementaire (position majoritaire et décompte des voix), jamais nominatif député par député. Source : data.assemblee-nationale.fr, dataset Scrutins, législature 17 — réinterrogé à chaque publication.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/votes",
   "scrutins": [
@@ -130,7 +130,7 @@
       "uid": "VTANR5L17V9203",
       "dossier_ref": "DLR5L17N54901",
       "date_scrutin": "2026-10-29",
-      "titre": "l'ensemble de la proposition de loi visant à créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).",
+      "titre": "l'ensemble de la proposition de loi créant un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).",
       "sort": "adopté",
       "sort_libelle": "l'Assemblée nationale a adopté",
       "nombre_votants": 305,

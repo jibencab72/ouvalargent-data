@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-29T11:02:40.602547+00:00",
+  "genere_le": "2026-11-03T11:55:27.480644+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -6083,14 +6083,6 @@
     },
     {
       "type": "senateur",
-      "nom": "Gatel",
-      "prenom": "Françoise",
-      "groupe_parlementaire": "UCI",
-      "circonscription": "Ille-et-Vilaine",
-      "profession": null
-    },
-    {
-      "type": "senateur",
       "nom": "Gay",
       "prenom": "Fabien",
       "groupe_parlementaire": "CRCE-K",
@@ -7051,6 +7043,14 @@
     },
     {
       "type": "senateur",
+      "nom": "Patru",
+      "prenom": "Anne-Sophie",
+      "groupe_parlementaire": "UCI",
+      "circonscription": "Ille-et-Vilaine",
+      "profession": "Responsable de clientèle agricole"
+    },
+    {
+      "type": "senateur",
       "nom": "Paumier",
       "prenom": "Jean-Gérard",
       "groupe_parlementaire": "Les Républicains",
@@ -7269,7 +7269,7 @@
       "type": "senateur",
       "nom": "Rochette",
       "prenom": "Pierre Jean",
-      "groupe_parlementaire": "Les Indépendants",
+      "groupe_parlementaire": "NI",
       "circonscription": "Loire",
       "profession": "Chef d'entreprise de 10 salariés ou plus"
     },
