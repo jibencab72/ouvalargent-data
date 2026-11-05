@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-03T11:56:00.433854+00:00",
+  "genere_le": "2026-11-05T12:10:54.783501+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -119,6 +119,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-02T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
+    },
+    {
+      "uid": "DLR5L17N52767",
+      "titre": "Abrogation du Code noir",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "promulguee",
+      "date_promulgation": "2026-11-02T00:00:00.000+01:00",
+      "derniere_activite": "2026-11-02T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abrogation_code_noir"
     },
     {
       "uid": "DLR5L17N55210",
@@ -893,15 +902,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-20T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/securiser_budget_restauration_scolaire_17e"
-    },
-    {
-      "uid": "DLR5L17N52767",
-      "titre": "Abrogation du Code noir",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-20T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abrogation_code_noir"
     },
     {
       "uid": "DLR5L17N55125",
