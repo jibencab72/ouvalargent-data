@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-08T16:13:13.272234+00:00",
+  "genere_le": "2026-11-06T12:07:03.185797+00:00",
   "source": "api-lannuaire.service-public.fr (DILA, Premier ministre)",
   "prefets": [
     {
@@ -418,8 +418,8 @@
       "nom": "DEVIMEUX",
       "fonction": "Préfet de la région Guadeloupe, préfet de la Guadeloupe",
       "grade": "administrateur de l'État",
-      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047836410",
-      "libelle_nomination_jorf": "JORF n°0162 du 14 juillet 2023",
+      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052009959",
+      "libelle_nomination_jorf": "JORF n°0176 du 31 juillet 2025",
       "date_maj_source": "2026-09-08T09:35:20+00:00"
     },
     {
@@ -432,7 +432,7 @@
       "grade": "",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047836319",
       "libelle_nomination_jorf": "JORF n°0162 du 14 juillet 2023",
-      "date_maj_source": "2026-08-17T15:30:01+00:00"
+      "date_maj_source": "2026-11-05T11:30:29+00:00"
     },
     {
       "code_departement": "68",
@@ -792,7 +792,7 @@
       "grade": "administrateur de l'État",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050980975",
       "libelle_nomination_jorf": "JORF n°0013 du 16 janvier 2025",
-      "date_maj_source": "2026-07-20T13:28:37+00:00"
+      "date_maj_source": "2026-11-05T11:35:31+00:00"
     },
     {
       "code_departement": "53",
