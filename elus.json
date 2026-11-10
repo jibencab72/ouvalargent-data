@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-03T11:55:27.480644+00:00",
+  "genere_le": "2026-11-10T12:26:01.904437+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -4009,6 +4009,17 @@
     },
     {
       "type": "depute",
+      "nom": "Delyon",
+      "prenom": "Isabelle",
+      "parti": null,
+      "profession": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "uri_hatvp": null
+    },
+    {
+      "type": "depute",
       "nom": "Lachaud",
       "prenom": "Bastien",
       "parti": "La France Insoumise",
@@ -4558,14 +4569,6 @@
       "parti": "Les Républicains",
       "profession": "Fonctionnaire de catégorie A",
       "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/vigier-jean-pierre"
-    },
-    {
-      "type": "depute",
-      "nom": "Boccaletti",
-      "prenom": "Frédéric",
-      "parti": "Rassemblement national",
-      "profession": "(85) - Personne diverse sans activité professionnelle de moins de 60 ans",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/boccaletti-frederic-24220"
     },
     {
       "type": "depute",

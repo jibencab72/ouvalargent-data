@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-06T12:07:03.185797+00:00",
+  "genere_le": "2026-11-10T12:26:53.982562+00:00",
   "source": "api-lannuaire.service-public.fr (DILA, Premier ministre)",
   "prefets": [
     {
@@ -48,7 +48,7 @@
       "grade": "administrateur de l'État",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054408530",
       "libelle_nomination_jorf": "JORF n°0160 du 10 juillet 2026",
-      "date_maj_source": "2026-07-10T08:25:55+00:00"
+      "date_maj_source": "2026-11-09T10:08:40+00:00"
     },
     {
       "code_departement": "04",
@@ -336,7 +336,7 @@
       "grade": null,
       "lien_nomination_jorf": null,
       "libelle_nomination_jorf": null,
-      "date_maj_source": "2026-08-17T16:43:59+00:00"
+      "date_maj_source": "2026-11-09T15:13:09+00:00"
     },
     {
       "code_departement": "27",
@@ -636,7 +636,7 @@
       "grade": "inspecteur général des services actifs de la police nationale",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051316775",
       "libelle_nomination_jorf": "JORF n°0062 du 13 mars 2025",
-      "date_maj_source": "2026-06-26T09:09:20+00:00"
+      "date_maj_source": "2026-11-09T10:09:20+00:00"
     },
     {
       "code_departement": "974",
@@ -828,7 +828,7 @@
       "grade": "administrateur de l'État",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051949784",
       "libelle_nomination_jorf": "JORF n°0170 du 24 juillet 2025",
-      "date_maj_source": "2026-09-01T09:07:23+00:00"
+      "date_maj_source": "2026-11-09T10:09:57+00:00"
     },
     {
       "code_departement": "55",
@@ -888,7 +888,7 @@
       "grade": "administrateur de l'État",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046070573",
       "libelle_nomination_jorf": "JORF n°0167 du 21 juillet 2022",
-      "date_maj_source": "2026-06-23T09:10:11+00:00"
+      "date_maj_source": "2026-11-09T10:10:28+00:00"
     },
     {
       "code_departement": "60",
@@ -1044,7 +1044,7 @@
       "grade": "administrateur de l'État",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048049728",
       "libelle_nomination_jorf": "JORF n°0207 du 7 septembre 2023",
-      "date_maj_source": "2026-08-28T15:23:49+00:00"
+      "date_maj_source": "2026-11-09T10:10:57+00:00"
     },
     {
       "code_departement": "80",
@@ -1188,7 +1188,7 @@
       "grade": "administrateur de l'État",
       "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054457719",
       "libelle_nomination_jorf": "JORF n°0170 du 23 juillet 2026",
-      "date_maj_source": "2026-08-21T10:47:28+00:00"
+      "date_maj_source": "2026-11-09T10:11:21+00:00"
     },
     {
       "code_departement": "78",
