@@ -1,8 +1,179 @@
 {
-  "genere_le": "2026-11-07T11:11:15.972316+00:00",
+  "genere_le": "2026-11-11T12:06:57.081921+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
+    {
+      "uid": "DLR5L17N55127",
+      "titre": "Instaurer un plan décennal de rénovation du bâti scolaire",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-03T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_instaurer_un_plan_decennal_de_renovation_du_bati_scolaire_17e"
+    },
+    {
+      "uid": "DLR5L17N54858",
+      "titre": "Renforcer le droit de retrait en période de canicule et instaurer un congé climatique",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-03T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_retrait_canicule_conge_climatique_17e"
+    },
+    {
+      "uid": "DLR5L17N54448",
+      "titre": "La réparation des préjudices résultant de la traite et de l'esclavage",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-03T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reparation_prejudices_resultant_traite_et_esclavage_17e"
+    },
+    {
+      "uid": "DLR5L17N53375",
+      "titre": "Consacrer l’exclusivité de la révision constitutionnelle par la procédure prévue à l’article 89 de la Constitution",
+      "procedure": "Projet ou proposition de loi constitutionnelle",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-03T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/consacrer_exclusivite_revision_constitutionnelle_procedure_article_89_Constitution_17e"
+    },
+    {
+      "uid": "DLR5L17N55141",
+      "titre": "Protéger nos forêts en encadrant les coupes rases",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-03T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_foret_encadrant_coupes_rases_17e"
+    },
+    {
+      "uid": "DLR5L17N55143",
+      "titre": "Faire contribuer davantage les héritiers les plus fortunés",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-03T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_faire_contribuer_davantage_les_heritiers_les_plus_fortunes_17e"
+    },
+    {
+      "uid": "DLR5L17N55144",
+      "titre": "Créer un grand parc social d'un million d'automobiles électriques à loyer modéré",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-03T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_creer_un_grand_parc_social_d_un_million_d_automobiles_a_loyer_modere_17e"
+    },
+    {
+      "uid": "DLR5L17N55142",
+      "titre": "Garantir l’accès à un panier diversifié de denrées alimentaires favorables à la santé et vendues à prix coûtant",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-03T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_garantir_l_acces_a_un_panier_diversifie_de_denrees_alimentaires_favorables_a_la_sante_et_vendues_a_prix_coutant_17e"
+    },
+    {
+      "uid": "DLR5L16N47217",
+      "titre": "Mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l’argile",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "rejetee",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-03T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/indemniser_gonflement_argile"
+    },
+    {
+      "uid": "DLR5L17N50645",
+      "titre": "Interdire la vente de chiens et de chats dans les foires et salons",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-02T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_vente_vente_chiens_chats_foire_salons"
+    },
+    {
+      "uid": "DLR5L17N53276",
+      "titre": "Reconnaître les victimes de l'exposition aux essais nucléaires français et améliorer leur indemnisation",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-02T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/victimes_exposition_essais_nucleaires_ameliorer_indemnisation_17e"
+    },
+    {
+      "uid": "DLR5L16N46821",
+      "titre": "Proposition de loi portant réforme de la loi du 9 février 1895 sur les fraudes en matière artistique",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-02T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46821"
+    },
+    {
+      "uid": "DLR5L17N51549",
+      "titre": "Création d’un ordre national des audioprothésistes",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-02T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/ordre_national_audioprothesistes"
+    },
+    {
+      "uid": "DLR5L17N53067",
+      "titre": "Reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assurance",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-02T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaitre_politique_nationale_adaptation_changement_climatique_adapter_mecanismes_assurance_17e"
+    },
+    {
+      "uid": "DLR5L17N55079",
+      "titre": "Autoriser le diagnostic préimplantatoire des aneuploïdies au bénéfice des couples, et des femmes engagées dans une démarche d’assistance médicale à la procréation",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-02T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_autoriser_diagnostic_preimplantatoire_des_aneuploidies_au_benefice_des_couples_et_femmes_engagees_dans_une_demarche_d_assistance_medicale_a_la_procreation_17e"
+    },
+    {
+      "uid": "DLR5L17N54904",
+      "titre": "Assurer une meilleure équité en matière de pension alimentaire pour les familles monoparentales en cas de non-respect du droit de visite et d'hébergement",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-30T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/meilleure_equite_pension_alimentaire_familles_monoparentales_17e"
+    },
+    {
+      "uid": "DLR5L17N54724",
+      "titre": "Favoriser le travail en continu et en journée via la commande publique afin d'améliorer les conditions relatives au domaine social et à l'emploi",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-30T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/favoriser_travail_continu_journee_commande_publique_ameliorer_conditions_domaine_social_emploi_17e"
+    },
+    {
+      "uid": "DLR5L17N55084",
+      "titre": "Moderniser les communications d’urgence",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-30T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_communications_urgence_17e"
+    },
+    {
+      "uid": "DLR5L17N55071",
+      "titre": "Renforcer les interdictions de détenir un animal par la création d’un fichier national",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-30T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_les_interdictions_de_detenir_un_animal_par_la_creation_d_un_fichier_national_17e"
+    },
     {
       "uid": "DLR5L17N55097",
       "titre": "Lever les contraintes pesant sur le foncier",
@@ -74,33 +245,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-26T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_garantir_l_execution_effective_d_une_peine_minimale_des_la_premiere_condamnation_pour_violences_volontaires_17e"
-    },
-    {
-      "uid": "DLR5L17N55141",
-      "titre": "Protéger nos forêts en encadrant les coupes rases",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-25T15:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_foret_encadrant_coupes_rases_17e"
-    },
-    {
-      "uid": "DLR5L17N55144",
-      "titre": "Créer un grand parc social d'un million d'automobiles électriques à loyer modéré",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-25T15:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_creer_un_grand_parc_social_d_un_million_d_automobiles_a_loyer_modere_17e"
-    },
-    {
-      "uid": "DLR5L17N55142",
-      "titre": "Garantir l’accès à un panier diversifié de denrées alimentaires favorables à la santé et vendues à prix coûtant",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-25T11:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_garantir_l_acces_a_un_panier_diversifie_de_denrees_alimentaires_favorables_a_la_sante_et_vendues_a_prix_coutant_17e"
     },
     {
       "uid": "DLR5L17N54608",
@@ -193,15 +337,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/baisser_prix_carburants_encadrement_marges_raffineurs_17e"
     },
     {
-      "uid": "DLR5L17N55084",
-      "titre": "Moderniser les communications d’urgence",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-18T11:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_communications_urgence_17e"
-    },
-    {
       "uid": "DLR5L17N53699",
       "titre": "Proposition de loi visant au renforcement de l'attractivité de l'épargne salariale et à la mise en oeuvre d'une procédure de déblocage exceptionnelle",
       "procedure": "Proposition de loi ordinaire",
@@ -211,15 +346,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53699"
     },
     {
-      "uid": "DLR5L17N50731",
-      "titre": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-13T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731"
-    },
-    {
       "uid": "DLR5L17N55223",
       "titre": "Projet de loi de finances de fin de gestion pour 2026",
       "procedure": "Projet de loi de finances rectificative",
@@ -227,6 +353,186 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-13T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFFG_2026"
+    },
+    {
+      "uid": "DLR5L17N51330",
+      "titre": "Renforcer l’effectivité des droits voisins de la presse",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-12T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/effectivite_droits_voisins_presse"
+    },
+    {
+      "uid": "DLR5L17N55247",
+      "titre": "Soutenir le pouvoir d’achat des ménages en Corse",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/soutenir_pouvoir_achat_Corse_17e"
+    },
+    {
+      "uid": "DLR5L17N55232",
+      "titre": "Lutter contre l’impact de la prolifération des mégots et accélérer la prévention des incendies, la régénération des forêts et des milieux aquatiques",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_impact_proliferation_megots_et_accelerer_prevention_incendies_17e"
+    },
+    {
+      "uid": "DLR5L17N55243",
+      "titre": "Modifier la prime majoritaire pour les élections municipales",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/modification_prime_majoritaire_elections_municipales_17e"
+    },
+    {
+      "uid": "DLR5L17N55230",
+      "titre": "Le retour du cumul des mandats sans cumul des indemnités",
+      "procedure": "Projet ou proposition de loi organique",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retour_cumul_mandats_sans_cumul_indemnites_17e"
+    },
+    {
+      "uid": "DLR5L17N55237",
+      "titre": "Ne plus séparer les frères et sœurs de l'aide sociale à l'enfance",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/ne-plus-separer-freres-soeurs-ASE-17e"
+    },
+    {
+      "uid": "DLR5L17N55238",
+      "titre": "Protéger les professionnels de santé et les scientifiques des procédures abusives et lutter contre la désinformation en santé",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_professionnels_sante_lutte_desinformation_17e"
+    },
+    {
+      "uid": "DLR5L17N55245",
+      "titre": "L’accès à l’enseignement supérieur en alternative à Parcoursup",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_enseignement_superieur_alternative_Parcoursup_17e"
+    },
+    {
+      "uid": "DLR5L17N55233",
+      "titre": "Rendre obligatoire l’affichage de la vitesse maximale à l’arrière des voitures sans permis",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_obligatoire_affichage_vitesse_maximale_arriere_voitures_sans_permis_17e"
+    },
+    {
+      "uid": "DLR5L17N55236",
+      "titre": "Créer un ordre national du mérite écologique",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/ordre_national_merite_ecologique_17e"
+    },
+    {
+      "uid": "DLR5L17N50731",
+      "titre": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731"
+    },
+    {
+      "uid": "DLR5L17N55240",
+      "titre": "Porter une gouvernance claire, juste et solidaire pour la gestion des milieux aquatiques et la prévention des inondations",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_porter_une_gouvernance_claire_juste_et_solidaire_pour_la_gestion_des_milieux_aquatiques_et_la_prevention_des_inondations_17e"
+    },
+    {
+      "uid": "DLR5L17N55241",
+      "titre": "Créer un statut légal pour les administrateurs ad hoc de mineur",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/creer_statut_legal_administrateurs_ad_hoc_mineur_17e"
+    },
+    {
+      "uid": "DLR5L17N55234",
+      "titre": "Instaurer un congé pour temps de trajet responsable",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_conge_temps_trajet_responsable_17e"
+    },
+    {
+      "uid": "DLR5L17N55239",
+      "titre": "Renforcer la lutte contre les discours incitant à la haine et aux actes racistes et xénophobes",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutte_discours_racistes_xenophobes_17e"
+    },
+    {
+      "uid": "DLR5L17N55248",
+      "titre": "Prévenir la fuite des prévenus entre la clôture des débats et le prononcé du jugement",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/prevenir_fuite_prevenus_cloture_debats_prononce_jugement_17e"
+    },
+    {
+      "uid": "DLR5L17N55242",
+      "titre": "Encadrer l'interruption des réseaux sociaux pendant l'état d'urgence",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/encadrer_interruption_reseaux_sociaux_etat_urgence_17e"
+    },
+    {
+      "uid": "DLR5L17N55235",
+      "titre": "Rendre effective l’interdiction de création de nouveaux aéroports et d’extension des aéroports existants",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_effective_interdiction_creation_nouveaux_aeroports_extension_aeroports_existants_17e"
+    },
+    {
+      "uid": "DLR5L17N55246",
+      "titre": "Lutter contre les dérives du commerce en ligne",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_derives_commerce_en_ligne_17e"
+    },
+    {
+      "uid": "DLR5L17N55244",
+      "titre": "Renforcer les sanctions contre la dissimulation volontaire dans l'espace public et lors des manifestations",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_sanctions_dissimulation_espace_public_manifestation_17e"
     },
     {
       "uid": "DLR5L17N54461",
@@ -299,15 +605,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-04T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/inscrire_code_electoral_impossibilite_majeurs_tutelle_curatelle_acte_candidature_elections_legislatives"
-    },
-    {
-      "uid": "DLR5L17N51330",
-      "titre": "Renforcer l’effectivité des droits voisins de la presse",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-04T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/effectivite_droits_voisins_presse"
     },
     {
       "uid": "DLR5L17N54951",
@@ -931,15 +1228,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_instaurer_une_negociation_obligatoire_sur_la_situation_des_parents_isoles_17e"
     },
     {
-      "uid": "DLR5L17N55127",
-      "titre": "Instaurer un plan décennal de rénovation du bâti scolaire",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-20T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_instaurer_un_plan_decennal_de_renovation_du_bati_scolaire_17e"
-    },
-    {
       "uid": "DLR5L17N55128",
       "titre": "Rétablir l’exigence de résidence effective en France pour l’acquisition de la nationalité française",
       "procedure": "Proposition de loi ordinaire",
@@ -1030,15 +1318,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_pouvoir_decision_fiscale_collectivites_territoriales_17e"
     },
     {
-      "uid": "DLR5L17N55143",
-      "titre": "Faire contribuer davantage les héritiers les plus fortunés",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-20T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_faire_contribuer_davantage_les_heritiers_les_plus_fortunes_17e"
-    },
-    {
       "uid": "DLR5L17N55137",
       "titre": "Instituer un escompte de 2 % en cas d’émission d’un mandat de paiement par un acheteur public dans les sept jours suivant la réception de la facture",
       "procedure": "Proposition de loi ordinaire",
@@ -1064,15 +1343,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-20T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/prejudice_animalier_reparation_souffrance_17e"
-    },
-    {
-      "uid": "DLR5L17N53067",
-      "titre": "Reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assurance",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-20T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaitre_politique_nationale_adaptation_changement_climatique_adapter_mecanismes_assurance_17e"
     },
     {
       "uid": "DLR5L17N55130",
@@ -1649,24 +1919,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-13T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_mieux_encadrer_l_implantation_des_eoliennes_terrestres_17e"
-    },
-    {
-      "uid": "DLR5L17N55071",
-      "titre": "Renforcer les interdictions de détenir un animal par la création d’un fichier national",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-13T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_les_interdictions_de_detenir_un_animal_par_la_creation_d_un_fichier_national_17e"
-    },
-    {
-      "uid": "DLR5L17N55079",
-      "titre": "Autoriser le diagnostic préimplantatoire des aneuploïdies au bénéfice des couples, et des femmes engagées dans une démarche d’assistance médicale à la procréation",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-13T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_autoriser_diagnostic_preimplantatoire_des_aneuploidies_au_benefice_des_couples_et_femmes_engagees_dans_une_demarche_d_assistance_medicale_a_la_procreation_17e"
     },
     {
       "uid": "DLR5L17N55060",
@@ -2533,15 +2785,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_recensement_communal_obligatoire_17e"
     },
     {
-      "uid": "DLR5L17N54858",
-      "titre": "Renforcer le droit de retrait en période de canicule et instaurer un congé climatique",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-09-15T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_retrait_canicule_conge_climatique_17e"
-    },
-    {
       "uid": "DLR5L17N54883",
       "titre": "Rétablir une plateforme publique gratuite, sécurisée et souveraine de facturation électronique",
       "procedure": "Proposition de loi ordinaire",
@@ -2666,15 +2909,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-09-15T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_ceremonie_couleurs_obligatoire_etablissements_scolaires_17e"
-    },
-    {
-      "uid": "DLR5L17N54904",
-      "titre": "Assurer une meilleure équité en matière de pension alimentaire pour les familles monoparentales en cas de non-respect du droit de visite et d'hébergement",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-09-15T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/meilleure_equite_pension_alimentaire_familles_monoparentales_17e"
     },
     {
       "uid": "DLR5L17N54860",
@@ -3422,15 +3656,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-07-23T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/faciliter_acces_climatisation_17e"
-    },
-    {
-      "uid": "DLR5L17N54724",
-      "titre": "Favoriser le travail en continu et en journée via la commande publique afin d'améliorer les conditions relatives au domaine social et à l'emploi",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-07-23T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/favoriser_travail_continu_journee_commande_publique_ameliorer_conditions_domaine_social_emploi_17e"
     },
     {
       "uid": "DLR5L17N54716",
@@ -4675,15 +4900,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdiction_detention_animal_fichier_national_17e"
     },
     {
-      "uid": "DLR5L17N54448",
-      "titre": "La réparation des préjudices résultant de la traite et de l'esclavage",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-06-09T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reparation_prejudices_resultant_traite_et_esclavage_17e"
-    },
-    {
       "uid": "DLR5L17N54438",
       "titre": "Renforcer la sécurité juridique des projets d’infrastructures publiques nécessaires aux usagers du service public",
       "procedure": "Proposition de loi ordinaire",
@@ -4952,15 +5168,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-05-28T14:45:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_faciliter_acces_au_logement_des_familles_par_la_creation_pret_a_taux_zero_17e"
-    },
-    {
-      "uid": "DLR5L17N53276",
-      "titre": "Reconnaître les victimes de l'exposition aux essais nucléaires français et améliorer leur indemnisation",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-05-28T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/victimes_exposition_essais_nucleaires_ameliorer_indemnisation_17e"
     },
     {
       "uid": "DLR5L17N53818",
@@ -8741,15 +8948,6 @@
       "date_promulgation": null,
       "derniere_activite": "2025-12-18T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_un_referendum_initiative_citoyenne_deliberatif_17e"
-    },
-    {
-      "uid": "DLR5L17N53375",
-      "titre": "Consacrer l’exclusivité de la révision constitutionnelle par la procédure prévue à l’article 89 de la Constitution",
-      "procedure": "Projet ou proposition de loi constitutionnelle",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2025-12-18T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/consacrer_exclusivite_revision_constitutionnelle_procedure_article_89_Constitution_17e"
     },
     {
       "uid": "DLR5L17N52460",
@@ -16591,15 +16789,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/pas_autoriser_mariage_etranger_soumis_OQTF"
     },
     {
-      "uid": "DLR5L17N51549",
-      "titre": "Création d’un ordre national des audioprothésistes",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2025-02-18T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/ordre_national_audioprothesistes"
-    },
-    {
       "uid": "DLR5L17N51553",
       "titre": "Réduire les dysfonctionnements des réseaux de communication électroniques à très haut débit en fibre optique",
       "procedure": "Proposition de loi ordinaire",
@@ -19930,15 +20119,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/imposition_revenu_prelevement_sociaux_plus_values_immobilieres"
     },
     {
-      "uid": "DLR5L17N50645",
-      "titre": "Interdire la vente de chiens et de chats dans les foires et salons",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2024-10-15T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_vente_vente_chiens_chats_foire_salons"
-    },
-    {
       "uid": "DLR5L17N50695",
       "titre": "Renforcer la parité des mandats électoraux et des fonctions électives",
       "procedure": "Proposition de loi ordinaire",
@@ -22090,15 +22270,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdiction_prescription_acquisitive_voies_rurales"
     },
     {
-      "uid": "DLR5L16N46821",
-      "titre": "Proposition de loi portant réforme de la loi du 9 février 1895 sur les fraudes en matière artistique",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2024-07-23T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46821"
-    },
-    {
       "uid": "DLR5L16N46057",
       "titre": "Proposition de loi créant une résidence d'attache pour les Français établis hors de France",
       "procedure": "Proposition de loi ordinaire",
@@ -23006,15 +23177,6 @@
       "date_promulgation": null,
       "derniere_activite": "2024-07-23T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N47516"
-    },
-    {
-      "uid": "DLR5L16N47217",
-      "titre": "Mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l’argile",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "rejetee",
-      "date_promulgation": null,
-      "derniere_activite": "2024-07-23T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/indemniser_gonflement_argile"
     },
     {
       "uid": "DLR5L16N45894",
