@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-11T12:06:57.081921+00:00",
+  "genere_le": "2026-11-12T12:26:17.957474+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -409,6 +409,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/ne-plus-separer-freres-soeurs-ASE-17e"
     },
     {
+      "uid": "DLR5L17N51037",
+      "titre": "Reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre"
+    },
+    {
       "uid": "DLR5L17N55238",
       "titre": "Protéger les professionnels de santé et les scientifiques des procédures abusives et lutter contre la désinformation en santé",
       "procedure": "Proposition de loi ordinaire",
@@ -481,6 +490,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_conge_temps_trajet_responsable_17e"
     },
     {
+      "uid": "DLR5L17N55254",
+      "titre": "Projet de loi portant diverses dispositions relatives à l'intégrité publique",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55254"
+    },
+    {
       "uid": "DLR5L17N55239",
       "titre": "Renforcer la lutte contre les discours incitant à la haine et aux actes racistes et xénophobes",
       "procedure": "Proposition de loi ordinaire",
@@ -533,6 +551,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-10T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_sanctions_dissimulation_espace_public_manifestation_17e"
+    },
+    {
+      "uid": "DLR5L17N55253",
+      "titre": "Projet de loi organique portant diverses dispositions relatives à l’intégrité publique",
+      "procedure": "Projet ou proposition de loi organique",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55253"
     },
     {
       "uid": "DLR5L17N54461",
@@ -632,6 +659,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-03T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_fonctionnement_titre_restaurant_17e"
+    },
+    {
+      "uid": "DLR5L17N55252",
+      "titre": "Proposition de loi visant à élargir le périmètre de l'utilisation du produit du droit départemental de passage",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-03T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55252"
     },
     {
       "uid": "DLR5L17N53917",
@@ -3926,15 +3962,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-07-07T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/prevention_securite_routiere_grande_cause_nationale_17e"
-    },
-    {
-      "uid": "DLR5L17N51037",
-      "titre": "Reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-07-07T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre"
     },
     {
       "uid": "DLR5L17N54647",
