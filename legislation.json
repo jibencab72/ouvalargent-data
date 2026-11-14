@@ -1,8 +1,26 @@
 {
-  "genere_le": "2026-11-13T12:05:23.556268+00:00",
+  "genere_le": "2026-11-14T11:29:37.429421+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
+    {
+      "uid": "DLR5L17N55141",
+      "titre": "Protéger nos forêts en encadrant les coupes rases",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-03T09:30:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_foret_encadrant_coupes_rases_17e"
+    },
+    {
+      "uid": "DLR5L17N55144",
+      "titre": "Créer un grand parc social d'un million d'automobiles électriques à loyer modéré",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-03T09:30:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_creer_un_grand_parc_social_d_un_million_d_automobiles_a_loyer_modere_17e"
+    },
     {
       "uid": "DLR5L17N55127",
       "titre": "Instaurer un plan décennal de rénovation du bâti scolaire",
@@ -40,15 +58,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/consacrer_exclusivite_revision_constitutionnelle_procedure_article_89_Constitution_17e"
     },
     {
-      "uid": "DLR5L17N55141",
-      "titre": "Protéger nos forêts en encadrant les coupes rases",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-12-03T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_foret_encadrant_coupes_rases_17e"
-    },
-    {
       "uid": "DLR5L17N55143",
       "titre": "Faire contribuer davantage les héritiers les plus fortunés",
       "procedure": "Proposition de loi ordinaire",
@@ -56,15 +65,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-12-03T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_faire_contribuer_davantage_les_heritiers_les_plus_fortunes_17e"
-    },
-    {
-      "uid": "DLR5L17N55144",
-      "titre": "Créer un grand parc social d'un million d'automobiles électriques à loyer modéré",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-12-03T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_creer_un_grand_parc_social_d_un_million_d_automobiles_a_loyer_modere_17e"
     },
     {
       "uid": "DLR5L17N55142",
@@ -175,15 +175,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_les_interdictions_de_detenir_un_animal_par_la_creation_d_un_fichier_national_17e"
     },
     {
-      "uid": "DLR5L17N55097",
-      "titre": "Lever les contraintes pesant sur le foncier",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-26T08:45:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_lever_les_contraintes_sur_le_foncier_17e"
-    },
-    {
       "uid": "DLR5L17N53339",
       "titre": "Limiter à deux ans le versement du revenu de solidarité active pour les personnes aptes à travailler",
       "procedure": "Proposition de loi ordinaire",
@@ -191,6 +182,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-26T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/limiter_versement_rsa_travail_17e"
+    },
+    {
+      "uid": "DLR5L17N55097",
+      "titre": "Lever les contraintes pesant sur le foncier",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-26T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_lever_les_contraintes_sur_le_foncier_17e"
     },
     {
       "uid": "DLR5L17N53870",
@@ -245,6 +245,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-26T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_garantir_l_execution_effective_d_une_peine_minimale_des_la_premiere_condamnation_pour_violences_volontaires_17e"
+    },
+    {
+      "uid": "DLR5L15N37121",
+      "titre": "Instances représentatives des Français établis hors de France",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-25T18:15:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instances_representatives_francais_etablis_hors_France"
     },
     {
       "uid": "DLR5L17N54608",
@@ -335,6 +344,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-19T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/baisser_prix_carburants_encadrement_marges_raffineurs_17e"
+    },
+    {
+      "uid": "DLR5L17N54703",
+      "titre": "Projet de loi relatif à la lutte contre les ingérences étrangères dans la vie démocratique",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-16T16:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54703"
     },
     {
       "uid": "DLR5L17N53699",
@@ -614,15 +632,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-04T15:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027"
-    },
-    {
-      "uid": "DLR5L15N37121",
-      "titre": "Instances représentatives des Français établis hors de France",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-04T14:45:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instances_representatives_francais_etablis_hors_France"
     },
     {
       "uid": "DLR5L17N55224",
@@ -1226,15 +1235,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-21T00:00:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55155"
-    },
-    {
-      "uid": "DLR5L17N54703",
-      "titre": "Projet de loi relatif à la lutte contre les ingérences étrangères dans la vie démocratique",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-10-21T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54703"
     },
     {
       "uid": "DLR5L17N52743",

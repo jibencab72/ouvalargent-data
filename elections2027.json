@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "genere_le": "2026-10-08T16:13:20.977743+00:00",
+  "genere_le": "2026-11-14T11:29:49.989172+00:00",
   "date_releve": "2026-10-08T00:00:00+00:00",
   "calendrier": {
     "premier_tour": "2027-04-18",
@@ -21,33 +21,33 @@
     },
     {
       "date": "2026-10-09",
-      "date_fin": "2026-10-10",
+      "date_fin": "2026-10-11",
       "date_approx": null,
-      "titre": "1er tour de la primaire « Choisir 2027 »",
-      "detail": "PS, Place publique et Gauche républicaine et socialiste. Vote en ligne ; 140 282 inscrits. Candidats : Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj, Emmanuel Maurel.",
-      "statut": "prevu",
+      "titre": "Primaire « Choisir 2027 » (tour unique)",
+      "detail": "PS, Place publique et Gauche républicaine et socialiste. Raphaël Glucksmann désigné dès le 1er tour avec 66,17 % des suffrages.",
+      "statut": "fait",
       "source_nom": "LCP",
-      "source_url": "https://lcp.fr/actualites/primaire-de-gauche-plus-de-140000-inscrits-pour-voter-au-premier-tour-443021"
+      "source_url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la"
     },
     {
       "date": "2026-10-15",
       "date_fin": null,
       "date_approx": null,
-      "titre": "Date limite des mémoires du pourvoi de Marine Le Pen",
-      "detail": "Les avocats ont jusqu'à cette date pour déposer leurs mémoires devant la Cour de cassation.",
-      "statut": "prevu",
-      "source_nom": "franceinfo",
-      "source_url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html"
+      "titre": "Mémoires du pourvoi de Marine Le Pen déposés",
+      "detail": "Mémoires déposés le 15 octobre 2026, dernier jour du délai.",
+      "statut": "fait",
+      "source_nom": "Le Club des Juristes",
+      "source_url": "https://www.leclubdesjuristes.com/?p=18085"
     },
     {
-      "date": "2026-10-16",
-      "date_fin": "2026-10-17",
+      "date": "2026-11-17",
+      "date_fin": null,
       "date_approx": null,
-      "titre": "2nd tour éventuel de la primaire « Choisir 2027 »",
-      "detail": "Seulement si aucun candidat n'obtient la majorité au 1er tour.",
+      "titre": "Réunion sur une primaire de la droite et du centre",
+      "detail": "Réunion prévue des directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard.",
       "statut": "prevu",
       "source_nom": "LCP",
-      "source_url": "https://lcp.fr/actualites/primaire-de-gauche-plus-de-140000-inscrits-pour-voter-au-premier-tour-443021"
+      "source_url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-propose-une-primaire-les-31-janvier-et-7-fevrier-445008"
     },
     {
       "date": "2026-12-10",
@@ -58,6 +58,16 @@
       "statut": "prevu",
       "source_nom": "Public Sénat",
       "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice"
+    },
+    {
+      "date": "2026-12-16",
+      "date_fin": null,
+      "date_approx": null,
+      "titre": "Examen des QPC dans le pourvoi de Marine Le Pen",
+      "detail": "La Cour de cassation examine les questions prioritaires de constitutionnalité soulevées par la défense ; la décision est en principe rendue le jour même.",
+      "statut": "prevu",
+      "source_nom": "Le Club des Juristes",
+      "source_url": "https://www.leclubdesjuristes.com/?p=18085"
     },
     {
       "date": null,
@@ -211,9 +221,9 @@
         "id": "c-guedj",
         "nom": "Jérôme Guedj",
         "parti": "Parti socialiste (PS)",
-        "statut": "Candidat à la primaire « Choisir 2027 » (PS-Place publique-GRS)",
+        "statut": "Battu à la primaire « Choisir 2027 » (5e, 5,83 %)",
         "date": "2026-02-05",
-        "detail": "Député PS, il avait annoncé sa candidature le 5 février 2026 en indiquant ne pas passer par une primaire de toute la gauche ; il figure parmi les cinq candidats retenus pour la primaire « Choisir 2027 ».",
+        "detail": "Député PS, il avait annoncé sa candidature le 5 février 2026 en indiquant ne pas passer par une primaire de toute la gauche ; il figure parmi les cinq candidats retenus pour la primaire « Choisir 2027 ». La primaire a été remportée par Raphaël Glucksmann le 11 octobre 2026 (résultats publiés par LCP et Public Sénat).",
         "source_nom": "Public Sénat",
         "source_url": "https://www.cnews.fr/france/2026-02-05/presidentielle-2027-jerome-guedj-annonce-sa-candidature-sans-passer-par-la",
         "source_titre": "Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
@@ -395,7 +405,7 @@
         "parti": "Rassemblement national (RN)",
         "statut": "Candidature annoncée",
         "date": "2026-07-07",
-        "detail": "A annoncé sa candidature le soir de l'arrêt de la cour d'appel de Paris, qui a jugé sa peine d'inéligibilité déjà purgée. Un pourvoi en cassation est en cours.",
+        "detail": "A annoncé sa candidature le soir de l'arrêt de la cour d'appel de Paris, qui a jugé sa peine d'inéligibilité déjà purgée. Son pourvoi en cassation est en cours : les mémoires ont été déposés le 15 octobre 2026 et la Cour de cassation examinera le 16 décembre 2026 les questions prioritaires de constitutionnalité soulevées par la défense (Le Club des Juristes, 28 octobre 2026).",
         "source_nom": "Le Club des Juristes",
         "source_url": "https://www.leclubdesjuristes.com/en-bref/marine-le-pen-candidate-a-la-presidentielle-de-2027-malgre-sa-condamnation-en-appel-16843/",
         "source_titre": "Marine Le Pen candidate à la présidentielle de 2027 malgré sa condamnation en appel",
@@ -406,9 +416,9 @@
         "id": "c-royal",
         "nom": "Ségolène Royal",
         "parti": "Parti socialiste (PS)",
-        "statut": "Candidate à la primaire « Choisir 2027 » (PS-Place publique-GRS)",
+        "statut": "Battue à la primaire « Choisir 2027 » (3e, 7,62 %)",
         "date": "2026-07-10",
-        "detail": "A annoncé sur X sa candidature à la primaire du pôle socialiste, au lendemain du vote des militants PS fixant les règles de cette primaire.",
+        "detail": "A annoncé sur X sa candidature à la primaire du pôle socialiste, au lendemain du vote des militants PS fixant les règles de cette primaire. La primaire a été remportée par Raphaël Glucksmann le 11 octobre 2026 (résultats publiés par LCP et Public Sénat).",
         "source_nom": "LCP",
         "source_url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste",
         "source_titre": "Présidentielle 2027: Ségolène Royal annonce sa candidature à la primaire socialiste",
@@ -429,19 +439,6 @@
         "photo_credit": null
       },
       {
-        "id": "c-glucksmann",
-        "nom": "Raphaël Glucksmann",
-        "parti": "Place publique",
-        "statut": "Candidat à la primaire « Choisir 2027 » (PS-Place publique-GRS)",
-        "date": "2026-08-23",
-        "detail": "A annoncé sa candidature au 20 h de TF1 et sa participation à la primaire organisée par le PS, Place publique et la GRS (1er tour les 9 et 10 octobre 2026).",
-        "source_nom": "Journal du Net",
-        "source_url": "https://www.journaldunet.com/business/action-publique/1553959-raphael-glucksmann-annonce-sa-candidature-a-la-presidentielle-de-2027/",
-        "source_titre": "Raphaël Glucksmann annonce sa candidature à la présidentielle de 2027",
-        "photo": null,
-        "photo_credit": null
-      },
-      {
         "id": "c-bertrand",
         "nom": "Xavier Bertrand",
         "parti": "Nous France (membre de LR ; se présente en candidat indépendant)",
@@ -458,9 +455,9 @@
         "id": "c-faure",
         "nom": "Olivier Faure",
         "parti": "Parti socialiste (PS)",
-        "statut": "Candidat à la primaire « Choisir 2027 » (PS-Place publique-GRS)",
+        "statut": "Battu à la primaire « Choisir 2027 » (2e, 14,46 %)",
         "date": "2026-08-30",
-        "detail": "Premier secrétaire du PS, il a annoncé sa candidature à la primaire du pôle social-démocrate.",
+        "detail": "Premier secrétaire du PS, il a annoncé sa candidature à la primaire du pôle social-démocrate. La primaire a été remportée par Raphaël Glucksmann le 11 octobre 2026 (résultats publiés par LCP et Public Sénat).",
         "source_nom": "France 24",
         "source_url": "https://www.france24.com/fr/france/20260830-pr%C3%A9sidentielle-2027-olivier-faure-annonce-sa-candidature-%C3%A0-la-primaire-de-la-gauche",
         "source_titre": "Présidentielle 2027 : Olivier Faure annonce sa candidature à la primaire de la gauche",
@@ -471,9 +468,9 @@
         "id": "c-maurel",
         "nom": "Emmanuel Maurel",
         "parti": "Gauche républicaine et socialiste (GRS)",
-        "statut": "Candidat à la primaire « Choisir 2027 » (PS-Place publique-GRS)",
+        "statut": "Battu à la primaire « Choisir 2027 » (4e, 5,92 %)",
         "date": "2026-09-04",
-        "detail": "Député du Val-d'Oise et président de la GRS, il a annoncé sa candidature à la primaire sur franceinfo ; la GRS l'a investi directement.",
+        "detail": "Député du Val-d'Oise et président de la GRS, il a annoncé sa candidature à la primaire sur franceinfo ; la GRS l'a investi directement. La primaire a été remportée par Raphaël Glucksmann le 11 octobre 2026 (résultats publiés par LCP et Public Sénat).",
         "source_nom": "HuffPost (via Yahoo Actualités)",
         "source_url": "https://fr.news.yahoo.com/sport/pr%C3%A9sidentielle-2027-d%C3%A9put%C3%A9-emmanuel-maurel-100011116.html",
         "source_titre": "Présidentielle 2027 : le député Emmanuel Maurel annonce sa candidature à la primaire du PS",
@@ -531,12 +528,96 @@
         "source_titre": "Présidentielle 2027 : «Si nous ne sommes pas là, personne ne parle des animaux», déplore Mira Markovic, la candidate du Parti animaliste",
         "photo": null,
         "photo_credit": null
+      },
+      {
+        "id": "c-glucksmann",
+        "nom": "Raphaël Glucksmann",
+        "parti": "Place publique",
+        "statut": "Désigné par la primaire « Choisir 2027 » (PS-Place publique-GRS)",
+        "date": "2026-10-11",
+        "detail": "Candidat déclaré depuis le 23 août 2026 (20 h de TF1), il a remporté le 11 octobre 2026 la primaire organisée par le PS, Place publique et la GRS dès le 1er tour, avec 66,17 % des suffrages.",
+        "source_nom": "LCP",
+        "source_url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+        "source_titre": "Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-polony",
+        "nom": "Natacha Polony",
+        "parti": "Parti non précisé par la source",
+        "statut": "Candidature annoncée",
+        "date": "2026-10-14",
+        "detail": "Journaliste et essayiste, elle a annoncé sa candidature le 14 octobre 2026 sur France Inter.",
+        "source_nom": "LCP",
+        "source_url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+        "source_titre": "Natacha Polony annonce sa candidature à l'élection présidentielle",
+        "photo": null,
+        "photo_credit": null
+      },
+      {
+        "id": "c-riner",
+        "nom": "Teddy Riner",
+        "parti": "Parti non précisé par la source",
+        "statut": "Candidature annoncée",
+        "date": "2026-11-09",
+        "detail": "Le judoka a annoncé sa candidature le 9 novembre 2026 dans une vidéo publiée sur ses réseaux sociaux et un entretien au Parisien. Comme tout candidat, il devra réunir 500 parrainages d'élus.",
+        "source_nom": "LCP",
+        "source_url": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920",
+        "source_titre": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle de 2027",
+        "photo": null,
+        "photo_credit": null
       }
     ],
     "officielles": [],
     "note_officielles": "La liste officielle des candidats n'est pas encore publiée par le Conseil constitutionnel."
   },
   "actualites": [
+    {
+      "id": "a30",
+      "date": "2026-11-12",
+      "type": "primaire",
+      "titre": "Bruno Retailleau propose une primaire de la droite et du centre",
+      "resume": "Dans une lettre à Édouard Philippe, Gabriel Attal et David Lisnard, le président de LR propose une primaire les 31 janvier et 7 février 2027. L'entourage d'Édouard Philippe indique qu'il refuse toute primaire.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-propose-une-primaire-les-31-janvier-et-7-fevrier-445008"
+    },
+    {
+      "id": "a29",
+      "date": "2026-11-09",
+      "type": "candidature",
+      "titre": "Teddy Riner annonce sa candidature",
+      "resume": "Le judoka se déclare candidat dans une vidéo sur ses réseaux sociaux et un entretien au Parisien.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920"
+    },
+    {
+      "id": "a28",
+      "date": "2026-10-15",
+      "type": "justice",
+      "titre": "Mémoires déposés dans le pourvoi de Marine Le Pen",
+      "resume": "Les mémoires sont déposés le dernier jour du délai. La Cour de cassation désigne deux conseillers rapporteurs et deux avocats généraux ; les questions prioritaires de constitutionnalité seront examinées le 16 décembre 2026.",
+      "source_nom": "Le Club des Juristes",
+      "source_url": "https://www.leclubdesjuristes.com/?p=18085"
+    },
+    {
+      "id": "a27",
+      "date": "2026-10-14",
+      "type": "candidature",
+      "titre": "Natacha Polony annonce sa candidature",
+      "resume": "La journaliste et essayiste se déclare candidate sur France Inter.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808"
+    },
+    {
+      "id": "a26",
+      "date": "2026-10-11",
+      "type": "primaire",
+      "titre": "Raphaël Glucksmann remporte la primaire « Choisir 2027 »",
+      "resume": "Il obtient 66,17 % des suffrages dès le 1er tour, devant Olivier Faure (14,46 %), Ségolène Royal (7,62 %), Emmanuel Maurel (5,92 %) et Jérôme Guedj (5,83 %). 120 787 votants ; le vote avait été prolongé de près de 24 heures après une attaque informatique.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66"
+    },
     {
       "id": "a25",
       "date": "2026-10-06",
@@ -856,7 +937,7 @@
     }
   ],
   "presse": {
-    "releve_le": "2026-10-08",
+    "releve_le": "2026-11-13",
     "note": "Informations relevées dans la presse nationale et régionale, les chaînes parlementaires et les sites des partis, chacune avec sa date et son lien. Rien de tout cela n'est officiel avant les publications du Conseil constitutionnel."
   },
   "pressentis": [
@@ -916,8 +997,8 @@
       "id": "pr-choisir2027",
       "nom": "Primaire « Choisir 2027 » (pôle social-démocrate)",
       "organisateur": "Parti socialiste, Place publique, Gauche républicaine et socialiste",
-      "dates": "1er tour du 9 octobre (8 h) au 10 octobre 2026 (20 h) ; 2nd tour éventuel du 16 au 17 octobre 2026",
-      "modalites": "Vote électronique (à distance ou sur tablette en bureau de vote). Ouvert aux adhérents à jour des trois partis et aux sympathisants inscrits sur la plateforme moyennant 15 euros (10 euros tarif réduit). Inscriptions closes le 5 octobre pour le 1er tour, possibles jusqu'au 12 octobre pour un 2nd tour. 140 282 inscrits au 1er tour selon la commission d'organisation. Débats : LCI (23 sept.), France 2/France Inter (1er oct.), BFMTV (4 oct.).",
+      "dates": "Tour unique : vote en ligne ouvert le vendredi 9 octobre 2026 à 8 h et clos le dimanche 11 octobre à 18 h, après une prolongation de près de 24 heures. Pas de 2nd tour.",
+      "modalites": "Vote électronique (à distance ou sur tablette en bureau de vote). Ouvert aux adhérents à jour des trois partis et aux sympathisants inscrits sur la plateforme moyennant 15 euros (10 euros tarif réduit). Inscriptions closes le 5 octobre pour le 1er tour, possibles jusqu'au 12 octobre pour un 2nd tour. 140 282 inscrits annoncés avant le vote ; corps électoral final de 134 467 électeurs après retrait de doublons (Public Sénat). Débats : LCI (23 sept.), France 2/France Inter (1er oct.), BFMTV (4 oct.).",
       "candidats": [
         "Raphaël Glucksmann (Place publique)",
         "Olivier Faure (PS)",
@@ -925,9 +1006,12 @@
         "Jérôme Guedj (PS)",
         "Emmanuel Maurel (GRS)"
       ],
-      "resultat": "Non disponible au 8 octobre 2026 (vote à venir). Philippe Brun (PS), suspendu par le bureau national du PS le 16 septembre, n'y participe pas.",
+      "resultat": "Raphaël Glucksmann désigné dès le 1er tour avec 66,17 % des suffrages (79 613 voix), devant Olivier Faure (14,46 %), Ségolène Royal (7,62 %), Emmanuel Maurel (5,92 %) et Jérôme Guedj (5,83 %). 120 787 votants, soit 89,82 % de participation (Public Sénat). Le scrutin a été perturbé par une attaque informatique dès le premier jour. Philippe Brun (PS), suspendu par le bureau national du PS le 16 septembre, n'y participait pas.",
       "source_nom": "LCP",
-      "source_url": "https://lcp.fr/actualites/primaire-de-gauche-plus-de-140000-inscrits-pour-voter-au-premier-tour-443021"
+      "source_url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+      "sources_complementaires": [
+        "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66"
+      ]
     },
     {
       "id": "pr-ps-format",
@@ -1038,10 +1122,21 @@
       "resultat": "Proposition non organisée à ce stade. François Bayrou a exclu d'être candidat.",
       "source_nom": "Journal du Net",
       "source_url": "https://www.journaldunet.com/business/action-publique/1555143-francois-bayrou-propose-une-primaire-ouverte-du-grand-fleuve-central-pour-designer-un-candidat-unique-avant-la-presidentielle-de-2027/"
+    },
+    {
+      "id": "pr-droite-centre",
+      "nom": "Primaire de la droite et du centre (proposition)",
+      "organisateur": "Proposée par Bruno Retailleau (LR)",
+      "dates": "Proposition : 31 janvier et 7 février 2027",
+      "modalites": "Proposition faite par lettre à Édouard Philippe, Gabriel Attal et David Lisnard. Une réunion des directeurs de campagne de MM. Attal, Retailleau et Lisnard est prévue le 17 novembre 2026, une place y étant réservée à l'équipe d'Édouard Philippe. Le porte-parole de ce dernier a indiqué qu'il refusait toute primaire.",
+      "candidats": [],
+      "resultat": "Proposition non organisée à ce stade.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-propose-une-primaire-les-31-janvier-et-7-fevrier-445008"
     }
   ],
   "sondages": {
-    "note": "Intentions de vote au 1er tour publiées par les instituts, hypothèse principale. Un sondage n'est pas une prédiction : chaque enquête est déposée auprès de la Commission des sondages (notice : méthode, échantillon, marge d'erreur).",
+    "note": "Intentions de vote au 1er tour publiées par les instituts, hypothèse principale. Un sondage n'est pas une prédiction : chaque enquête est déposée auprès de la Commission des sondages (notice : méthode, échantillon, marge d'erreur). Sondages : relevé arrêté au 8 octobre 2026 ; les notices publiées depuis restent à contrôler une à une avant ajout.",
     "liste": [
       {
         "id": "s-ifop-v6",
@@ -1497,6 +1592,41 @@
   "note_candidats": "La liste officielle des candidats n'est pas encore publiée par le Conseil constitutionnel.",
   "candidats_officiels": [],
   "articles": [
+    {
+      "titre": "Bruno Retailleau propose une primaire de la droite et du centre",
+      "resume": "Dans une lettre à Édouard Philippe, Gabriel Attal et David Lisnard, le président de LR propose une primaire les 31 janvier et 7 février 2027. L'entourage d'Édouard Philippe indique qu'il refuse toute primaire.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-propose-une-primaire-les-31-janvier-et-7-fevrier-445008",
+      "date_article": "2026-11-12"
+    },
+    {
+      "titre": "Teddy Riner annonce sa candidature",
+      "resume": "Le judoka se déclare candidat dans une vidéo sur ses réseaux sociaux et un entretien au Parisien.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920",
+      "date_article": "2026-11-09"
+    },
+    {
+      "titre": "Mémoires déposés dans le pourvoi de Marine Le Pen",
+      "resume": "Les mémoires sont déposés le dernier jour du délai. La Cour de cassation désigne deux conseillers rapporteurs et deux avocats généraux ; les questions prioritaires de constitutionnalité seront examinées le 16 décembre 2026.",
+      "source_nom": "Le Club des Juristes",
+      "source_url": "https://www.leclubdesjuristes.com/?p=18085",
+      "date_article": "2026-10-15"
+    },
+    {
+      "titre": "Natacha Polony annonce sa candidature",
+      "resume": "La journaliste et essayiste se déclare candidate sur France Inter.",
+      "source_nom": "LCP",
+      "source_url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+      "date_article": "2026-10-14"
+    },
+    {
+      "titre": "Raphaël Glucksmann remporte la primaire « Choisir 2027 »",
+      "resume": "Il obtient 66,17 % des suffrages dès le 1er tour, devant Olivier Faure (14,46 %), Ségolène Royal (7,62 %), Emmanuel Maurel (5,92 %) et Jérôme Guedj (5,83 %). 120 787 votants ; le vote avait été prolongé de près de 24 heures après une attaque informatique.",
+      "source_nom": "Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66",
+      "date_article": "2026-10-11"
+    },
     {
       "titre": "140 282 inscrits pour le 1er tour de la primaire",
       "resume": "Dont 31 030 militants PS, 37 017 sympathisants inscrits via le PS et 28 456 inscriptions Place publique.",

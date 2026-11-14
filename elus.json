@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-13T12:05:04.311994+00:00",
+  "genere_le": "2026-11-14T11:29:13.848224+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -59,6 +59,14 @@
       "prenom": "Camille",
       "portefeuille": "Ministère délégué auprès de la ministre de la santé, des familles, de l’autonomie et des personnes handicapées, chargé de l’autonomie et des personnes handicapées",
       "date_nomination": "2026-02-27",
+      "uri_hatvp": null
+    },
+    {
+      "type": "ministre",
+      "nom": "Viala",
+      "prenom": "Arnaud",
+      "portefeuille": "Ministère délégué auprès de la ministre de l’aménagement du territoire et de la décentralisation, chargé de la ruralité",
+      "date_nomination": "2026-11-08",
       "uri_hatvp": null
     },
     {
@@ -4012,11 +4020,8 @@
       "nom": "Delyon",
       "prenom": "Isabelle",
       "parti": null,
-      "profession": {
-        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-        "@xsi:nil": "true"
-      },
-      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
+      "profession": "Expert-Comptable retraitée",
+      "uri_hatvp": null
     },
     {
       "type": "depute",
