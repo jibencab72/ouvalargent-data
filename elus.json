@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-15T12:26:40.056723+00:00",
+  "genere_le": "2026-11-17T13:24:41.523347+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -1405,7 +1405,7 @@
       "prenom": "Alexandra",
       "parti": "Les Républicains",
       "profession": "Employé civil et agent de service de la fonction publique",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/martin-(alpes-maritimes)-alexandra"
+      "uri_hatvp": null
     },
     {
       "type": "depute",
@@ -1741,7 +1741,7 @@
       "prenom": "Alexandra",
       "parti": null,
       "profession": "Sans profession déclarée",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/martin-(gironde)-alexandra-26044"
+      "uri_hatvp": null
     },
     {
       "type": "depute",

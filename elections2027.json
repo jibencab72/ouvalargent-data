@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "genere_le": "2026-11-14T11:29:49.989172+00:00",
+  "genere_le": "2026-11-17T13:25:48.147977+00:00",
   "date_releve": "2026-10-08T00:00:00+00:00",
   "calendrier": {
     "premier_tour": "2027-04-18",
@@ -149,8 +149,14 @@
         "source_nom": "La Libre (dépêche AFP)",
         "source_url": "https://www.lalibre.be/international/europe/elections-france/2024/09/03/france-edouard-philippe-sera-candidat-a-la-prochaine-election-presidentielle-M3REBQQWAVDUJBOSZ24LO2R5EI/",
         "source_titre": "France: Edouard Philippe sera candidat à la prochaine élection présidentielle",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+          }
+        ],
+        "photo": "portrait_philippe",
+        "photo_credit": "Wasasaq8, licence CC0 (domaine public) — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-dupontaignan",
@@ -162,8 +168,14 @@
         "source_nom": "Debout la France (site officiel)",
         "source_url": "https://www.debout-la-france.fr/actualite/je-suis-candidat-pour/",
         "source_titre": "Je suis candidat pour rendre le pouvoir aux Français et rendre sa liberté à la France !",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+          }
+        ],
+        "photo": "portrait_dupontaignan",
+        "photo_credit": "Debout la France, licence CC BY-SA 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-batho",
@@ -175,8 +187,14 @@
         "source_nom": "ID, l'Info Durable",
         "source_url": "https://www.linfodurable.fr/lex-ministre-delphine-batho-candidate-la-presidentielle-pour-conjurer-la-rikikisation-de-lecologie",
         "source_titre": "L'ex-ministre Delphine Batho candidate à la présidentielle pour conjurer la \"rikikisation\" de l'écologie",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+          }
+        ],
+        "photo": "portrait_batho",
+        "photo_credit": "DeuxSevres79, licence CC BY-SA 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-tondelier",
@@ -188,8 +206,14 @@
         "source_nom": "Public Sénat",
         "source_url": "https://www.franceinfo.fr/politique/eelv/presidentielle-2027-sans-surprise-marine-tondelier-a-ete-designee-pour-representer-les-ecologistes-a-la-primaire-de-la-gauche_7666159.html",
         "source_titre": "Présidentielle 2027 : les Écologistes reportent l'heure du choix à décembre, Marine Tondelier toujours en lice",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+          }
+        ],
+        "photo": "portrait_tondelier",
+        "photo_credit": "Selbymay, licence CC BY 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-arthaud",
@@ -201,8 +225,14 @@
         "source_nom": "franceinfo",
         "source_url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html",
         "source_titre": "Présidentielle 2027 : Nathalie Arthaud, porte-parole de Lutte ouvrière, annonce sa candidature",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
+          }
+        ],
+        "photo": "portrait_arthaud",
+        "photo_credit": "Kokluts, licence CC BY-SA 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-branco",
@@ -214,8 +244,14 @@
         "source_nom": "Sud Radio",
         "source_url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
         "source_titre": "L'avocat Juan Branco, candidat à la présidentielle",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Juan_Branco"
+          }
+        ],
+        "photo": "portrait_branco",
+        "photo_credit": "Web Summit, licence CC BY 2.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-guedj",
@@ -227,8 +263,14 @@
         "source_nom": "Public Sénat",
         "source_url": "https://www.cnews.fr/france/2026-02-05/presidentielle-2027-jerome-guedj-annonce-sa-candidature-sans-passer-par-la",
         "source_titre": "Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj"
+          }
+        ],
+        "photo": "portrait_guedj",
+        "photo_credit": "Audrey AK, licence CC BY-SA 2.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-asselineau",
@@ -240,8 +282,14 @@
         "source_nom": "UPR (site officiel)",
         "source_url": "https://upr.fr/militantisme/19-ans-de-lupr-francois-asselineau-lance-sa-campagne-presidentielle-2027-et-nomme-marc-parigot-directeur-de-campagne/",
         "source_titre": "19 ans de l'UPR : François Asselineau lance sa campagne présidentielle 2027 et nomme Marc Parigot directeur de campagne",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+          }
+        ],
+        "photo": "portrait_asselineau",
+        "photo_credit": "Union Populaire Républicaine, licence CC BY-SA 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-lisnard",
@@ -253,8 +301,14 @@
         "source_nom": "Public Sénat",
         "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-david-lisnard-maire-de-cannes-annonce-sa-candidature-et-quitte-officiellement-les-lr",
         "source_titre": "Présidentielle 2027 : David Lisnard, maire de Cannes, annonce sa candidature et quitte officiellement les LR",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+          }
+        ],
+        "photo": "portrait_lisnard",
+        "photo_credit": "Grégor Sauvagère, licence CC BY-SA 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-retailleau",
@@ -266,6 +320,12 @@
         "source_nom": "Public Sénat",
         "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr",
         "source_titre": "Présidentielle : les adhérents LR désignent Bruno Retailleau comme candidat",
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+          }
+        ],
         "photo": "portrait_retailleau",
         "photo_credit": "Anthony Montardy, licence CC BY 4.0 — Wikimedia Commons"
       },
@@ -279,8 +339,14 @@
         "source_nom": "Sud Radio",
         "source_url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
         "source_titre": "Présidentielle 2027 : le point sur toutes les candidatures",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Clara_Egger"
+          }
+        ],
+        "photo": "portrait_egger",
+        "photo_credit": "Thomas Binet, licence CC BY-SA 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-cazeneuve",
@@ -292,8 +358,14 @@
         "source_nom": "Europe 1",
         "source_url": "https://www.europe1.fr/politique/presidentielle-2027-bernard-cazeneuve-annonce-sa-candidature-le-barrage-a-jean-luc-melenchon-se-precise-929339",
         "source_titre": "Présidentielle 2027 : Bernard Cazeneuve annonce sa candidature, le barrage à Jean-Luc Mélenchon se précise",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+          }
+        ],
+        "photo": "portrait_cazeneuve",
+        "photo_credit": "Jérémy Barande, licence CC BY-SA 2.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-melenchon",
@@ -305,8 +377,14 @@
         "source_nom": "LCP",
         "source_url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
         "source_titre": "Présidentielle: Jean-Luc Mélenchon officialise sa candidature pour 2027",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+          }
+        ],
+        "photo": "portrait_melenchon",
+        "photo_credit": "jlm2017.fr, licence CC BY 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-philippot",
@@ -318,8 +396,14 @@
         "source_nom": "Orange Actualités (6Medias)",
         "source_url": "https://actu.orange.fr/politique/presidentielle-2027-florian-philippot-president-des-patriotes-est-candidat-magic-CNT000002p6PWw.html",
         "source_titre": "Présidentielle 2027 : Florian Philippot, président des Patriotes, est candidat",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Florian_Philippot"
+          }
+        ],
+        "photo": "portrait_philippot",
+        "photo_credit": "Thomas Bresson, licence CC BY 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-ruffin",
@@ -331,8 +415,14 @@
         "source_nom": "LCP",
         "source_url": "https://lcp.fr/actualites/presidentielle-2027-s-il-n-y-a-pas-de-primaire-moi-j-y-vais-annonce-francois-ruffin",
         "source_titre": "Présidentielle 2027: \"S'il n'y a pas de primaire, moi j'y vais\", annonce François Ruffin",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+          }
+        ],
+        "photo": "portrait_ruffin",
+        "photo_credit": "Thinkerview, licence CC BY-SA 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-attal",
@@ -344,8 +434,14 @@
         "source_nom": "LCP",
         "source_url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721",
         "source_titre": "Présidentielle 2027: Gabriel Attal officialise sa candidature",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+          }
+        ],
+        "photo": "portrait_attal",
+        "photo_credit": "Ismail Aissoub, licence CC BY 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-kazib",
@@ -357,8 +453,14 @@
         "source_nom": "franceinfo",
         "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-cheminot-anasse-kazib-annonce-sa-candidature_8040020.html",
         "source_titre": "Le cheminot Anasse Kazib annonce sa candidature à la présidentielle 2027",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib"
+          }
+        ],
+        "photo": "portrait_kazib",
+        "photo_credit": "PabloMorao27, licence CC BY-SA 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-bouamrane",
@@ -370,8 +472,14 @@
         "source_nom": "Orange Actualités (6Medias)",
         "source_url": "https://actu.orange.fr/politique/presidentielle-2027-karim-bouamrane-maire-socialiste-de-saint-ouen-annonce-etre-candidat-magic-CNT000002pQAcH.html",
         "source_titre": "Présidentielle 2027 : Karim Bouamrane, maire socialiste de Saint-Ouen, annonce être candidat",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane"
+          }
+        ],
+        "photo": "portrait_bouamrane",
+        "photo_credit": "Oumma, licence CC BY 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-labib",
@@ -383,6 +491,7 @@
         "source_nom": "LCP",
         "source_url": "https://npa-revolutionnaires.org/articles/presidentielle-selma-labib-une-candidate-ouvriere-et-revolutionnaire",
         "source_titre": "Présidentielle 2027: Philippe Poutou renonce à se présenter et se range derrière Jean-Luc Mélenchon",
+        "liens": [],
         "photo": null,
         "photo_credit": null
       },
@@ -396,6 +505,7 @@
         "source_nom": "Sud Radio",
         "source_url": "https://www.sudradio.fr/politique/presidentielle-2027-le-point-sur-toutes-les-candidatures",
         "source_titre": "Présidentielle 2027 : le point sur toutes les candidatures",
+        "liens": [],
         "photo": null,
         "photo_credit": null
       },
@@ -409,6 +519,12 @@
         "source_nom": "Le Club des Juristes",
         "source_url": "https://www.leclubdesjuristes.com/en-bref/marine-le-pen-candidate-a-la-presidentielle-de-2027-malgre-sa-condamnation-en-appel-16843/",
         "source_titre": "Marine Le Pen candidate à la présidentielle de 2027 malgré sa condamnation en appel",
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen"
+          }
+        ],
         "photo": "portrait_le_pen",
         "photo_credit": "Vox España, licence CC0 (domaine public) — Wikimedia Commons"
       },
@@ -422,8 +538,14 @@
         "source_nom": "LCP",
         "source_url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste",
         "source_titre": "Présidentielle 2027: Ségolène Royal annonce sa candidature à la primaire socialiste",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal"
+          }
+        ],
+        "photo": "portrait_royal",
+        "photo_credit": "Jackolan1, licence CC BY-SA 3.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-lalanne",
@@ -435,8 +557,14 @@
         "source_nom": "La Libre",
         "source_url": "https://www.lalibre.be/international/europe/2026/08/19/francis-lalanne-officiellement-candidat-a-la-presidentielle-2027-IYHINYS4IJG43AHUFIS2XZVX54/",
         "source_titre": "Francis Lalanne officiellement candidat à la présidentielle 2027",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne"
+          }
+        ],
+        "photo": "portrait_lalanne",
+        "photo_credit": "Thomas Bresson, licence CC BY 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-bertrand",
@@ -448,8 +576,14 @@
         "source_nom": "Le JDD",
         "source_url": "https://www.lejdd.fr/politique/presidentielle-2027-xavier-bertrand-officialise-sa-candidature-et-ecarte-toute-primaire-181947",
         "source_titre": "Présidentielle 2027 : Xavier Bertrand officialise sa candidature et écarte toute primaire",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+          }
+        ],
+        "photo": "portrait_bertrand",
+        "photo_credit": "Claudio Centonze / European Union, 2025 / EC - Audiovisual Service, licence CC BY 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-faure",
@@ -461,6 +595,12 @@
         "source_nom": "France 24",
         "source_url": "https://www.france24.com/fr/france/20260830-pr%C3%A9sidentielle-2027-olivier-faure-annonce-sa-candidature-%C3%A0-la-primaire-de-la-gauche",
         "source_titre": "Présidentielle 2027 : Olivier Faure annonce sa candidature à la primaire de la gauche",
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+          }
+        ],
         "photo": "portrait_faure",
         "photo_credit": "KimiRaikkonen3 (via Flickr), domaine public — Wikimedia Commons"
       },
@@ -474,8 +614,14 @@
         "source_nom": "HuffPost (via Yahoo Actualités)",
         "source_url": "https://fr.news.yahoo.com/sport/pr%C3%A9sidentielle-2027-d%C3%A9put%C3%A9-emmanuel-maurel-100011116.html",
         "source_titre": "Présidentielle 2027 : le député Emmanuel Maurel annonce sa candidature à la primaire du PS",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+          }
+        ],
+        "photo": "portrait_maurel",
+        "photo_credit": "Echwander, licence CC BY-SA 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-roussel",
@@ -487,8 +633,14 @@
         "source_nom": "LCP",
         "source_url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
         "source_titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+          }
+        ],
+        "photo": "portrait_roussel",
+        "photo_credit": "Zouhair NAKARA, licence CC BY-SA 4.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-zemmour",
@@ -500,8 +652,14 @@
         "source_nom": "LCP",
         "source_url": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871",
         "source_titre": "Présidentielle 2027: Éric Zemmour officialise sa candidature",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour"
+          }
+        ],
+        "photo": "portrait_zemmour",
+        "photo_credit": "Anh De France, licence CC0 (domaine public) — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-becht",
@@ -513,8 +671,14 @@
         "source_nom": "France 3 Grand Est",
         "source_url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/je-suis-lucide-je-ne-suis-pas-le-favori-olivier-becht-depute-du-haut-rhin-declare-sa-candidature-a-l-election-presidentielle-3422486.html",
         "source_titre": "\"Je suis lucide, je ne suis pas le favori\", Olivier Becht, député du Haut-Rhin, déclare sa candidature à l'élection présidentielle",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Olivier_Becht"
+          }
+        ],
+        "photo": "portrait_becht",
+        "photo_credit": "Palácio do Planalto from Brasilia, Brasil, licence CC BY 2.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-markovic",
@@ -526,6 +690,7 @@
         "source_nom": "CNews",
         "source_url": "https://www.cnews.fr/france/2026-10-02/presidentielle-2027-si-nous-ne-sommes-pas-la-personne-ne-parle-des-animaux",
         "source_titre": "Présidentielle 2027 : «Si nous ne sommes pas là, personne ne parle des animaux», déplore Mira Markovic, la candidate du Parti animaliste",
+        "liens": [],
         "photo": null,
         "photo_credit": null
       },
@@ -539,8 +704,14 @@
         "source_nom": "LCP",
         "source_url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
         "source_titre": "Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
+          }
+        ],
+        "photo": "portrait_glucksmann",
+        "photo_credit": "© European Union 2024 - Source : EP (réutilisation autorisée avec mention de la source) — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-polony",
@@ -552,8 +723,14 @@
         "source_nom": "LCP",
         "source_url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
         "source_titre": "Natacha Polony annonce sa candidature à l'élection présidentielle",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Natacha_Polony"
+          }
+        ],
+        "photo": "portrait_polony",
+        "photo_credit": "Georges Biard, licence CC BY-SA 3.0 — Wikimedia Commons (recadrée)"
       },
       {
         "id": "c-riner",
@@ -565,8 +742,14 @@
         "source_nom": "LCP",
         "source_url": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920",
         "source_titre": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle de 2027",
-        "photo": null,
-        "photo_credit": null
+        "liens": [
+          {
+            "libelle": "Wikipédia (encyclopédie collaborative)",
+            "url": "https://fr.wikipedia.org/wiki/Teddy_Riner"
+          }
+        ],
+        "photo": "portrait_riner",
+        "photo_credit": "Georges Biard, licence CC BY-SA 3.0 — Wikimedia Commons (recadrée)"
       }
     ],
     "officielles": [],
@@ -953,7 +1136,16 @@
       "source_url": "https://www.lalibre.be/international/2026/09/15/en-france-sept-candidats-et-beaucoup-dabsents-a-la-primaire-de-gauche-pour-la-presidentielle-il-leur-faudra-aussi-gerer-le-cas-francois-hollande-4KCNNEZPPFHONOIK4XQ33KV2I4/",
       "sources_complementaires": [
         "https://www.lalibre.be/international/2026/09/15/en-france-sept-candidats-et-beaucoup-dabsents-a-la-primaire-de-gauche-pour-la-presidentielle-il-leur-faudra-aussi-gerer-le-cas-francois-hollande-4KCNNEZPPFHONOIK4XQ33KV2I4/"
-      ]
+      ],
+      "liens": [
+        {
+          "libelle": "Wikipédia (encyclopédie collaborative)",
+          "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+          "verifie_le": "2026-11-17"
+        }
+      ],
+      "photo": "portrait_hollande",
+      "photo_credit": "Christophe Licoppe / European Union, 2024 / EC - Audiovisual Service, licence CC BY 4.0 — Wikimedia Commons (recadrée)"
     },
     {
       "id": "p-villepin",
@@ -964,7 +1156,16 @@
       "detail": "A indiqué sur franceinfo ne pas être candidat « à ce jour » ; il dit chercher les parrainages nécessaires.",
       "source_nom": "Journal du Net",
       "source_titre": "Présidentielle 2027 : Dominique de Villepin juge les programmes \"un peu courts sur pattes\"",
-      "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html"
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html",
+      "liens": [
+        {
+          "libelle": "Wikipédia (encyclopédie collaborative)",
+          "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+          "verifie_le": "2026-11-17"
+        }
+      ],
+      "photo": "portrait_villepin",
+      "photo_credit": "Georges Seguin (Okki), licence CC BY-SA 3.0 — Wikimedia Commons (recadrée)"
     },
     {
       "id": "p-lemaire",
@@ -975,7 +1176,16 @@
       "detail": "Interrogé sur LCI, il a répondu « Bien sûr que j'y réfléchis » sans annoncer de candidature. Il a publié un manifeste.",
       "source_nom": "21 News",
       "source_titre": "Bruno Le Maire candidat en 2027 ? « Peut-être que ça viendra »",
-      "source_url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373"
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "liens": [
+        {
+          "libelle": "Wikipédia (encyclopédie collaborative)",
+          "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+          "verifie_le": "2026-11-17"
+        }
+      ],
+      "photo": "portrait_lemaire",
+      "photo_credit": "Belgian Presidency of the Council of the EU 2024 from Belgium, licence CC BY 2.0 — Wikimedia Commons (recadrée)"
     },
     {
       "id": "p-lassalle",
@@ -989,7 +1199,16 @@
       "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html",
       "sources_complementaires": [
         "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html"
-      ]
+      ],
+      "liens": [
+        {
+          "libelle": "Wikipédia (encyclopédie collaborative)",
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "verifie_le": "2026-11-17"
+        }
+      ],
+      "photo": "portrait_lassalle",
+      "photo_credit": "Antoine Lamielle, licence CC BY-SA 4.0 — Wikimedia Commons (recadrée)"
     }
   ],
   "primaires": [
