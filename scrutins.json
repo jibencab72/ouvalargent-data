@@ -1,8 +1,377 @@
 {
-  "genere_le": "2026-11-18T13:00:11.663382+00:00",
+  "genere_le": "2026-11-20T12:50:17.556885+00:00",
   "note_methode": "Seuls les votes sur « l'ensemble » d'un texte sont retenus (adoption finale) — les votes sur un article ou un amendement isolé (plusieurs milliers pour cette législature) ne sont pas repris, hors du périmètre de cet écran. Résultat par groupe parlementaire (position majoritaire et décompte des voix), jamais nominatif député par député. Source : data.assemblee-nationale.fr, dataset Scrutins, législature 17 — réinterrogé à chaque publication.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/votes",
   "scrutins": [
+    {
+      "uid": "VTANR5L17V10080",
+      "dossier_ref": "DLR5L17N51962",
+      "date_scrutin": "2026-11-19",
+      "titre": "l'ensemble de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+      "sort": "adopté",
+      "sort_libelle": "l'Assemblée nationale a adopté",
+      "nombre_votants": 195,
+      "suffrages_exprimes": 193,
+      "pour": 193,
+      "contre": 0,
+      "abstentions": 2,
+      "groupes": [
+        {
+          "organe_ref": "PO845425",
+          "nom_groupe": "Droite Républicaine",
+          "position_majoritaire": "abstention",
+          "pour": 0,
+          "contre": 0,
+          "abstentions": 2,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845407",
+          "nom_groupe": "Ensemble pour la République",
+          "position_majoritaire": "pour",
+          "pour": 7,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 1
+        },
+        {
+          "organe_ref": "PO845514",
+          "nom_groupe": "Gauche Démocrate et Républicaine",
+          "position_majoritaire": "pour",
+          "pour": 11,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845470",
+          "nom_groupe": "Horizons & Indépendants",
+          "position_majoritaire": "pour",
+          "pour": 3,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845413",
+          "nom_groupe": "La France insoumise - Nouveau Front Populaire",
+          "position_majoritaire": "pour",
+          "pour": 22,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845454",
+          "nom_groupe": "Les Démocrates",
+          "position_majoritaire": "pour",
+          "pour": 6,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845485",
+          "nom_groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+          "position_majoritaire": "pour",
+          "pour": 4,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO840056",
+          "nom_groupe": "Non inscrit",
+          "position_majoritaire": "pour",
+          "pour": 0,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845401",
+          "nom_groupe": "Rassemblement National",
+          "position_majoritaire": "pour",
+          "pour": 62,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845419",
+          "nom_groupe": "Socialistes et apparentés",
+          "position_majoritaire": "pour",
+          "pour": 59,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO872880",
+          "nom_groupe": "Union des droites pour la République",
+          "position_majoritaire": "pour",
+          "pour": 3,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845439",
+          "nom_groupe": "Écologiste et Social",
+          "position_majoritaire": "pour",
+          "pour": 16,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        }
+      ]
+    },
+    {
+      "uid": "VTANR5L17V10062",
+      "dossier_ref": "DLR5L17N53069",
+      "date_scrutin": "2026-11-19",
+      "titre": "l'ensemble de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+      "sort": "adopté",
+      "sort_libelle": "l'Assemblée nationale a adopté",
+      "nombre_votants": 247,
+      "suffrages_exprimes": 243,
+      "pour": 148,
+      "contre": 95,
+      "abstentions": 4,
+      "groupes": [
+        {
+          "organe_ref": "PO845425",
+          "nom_groupe": "Droite Républicaine",
+          "position_majoritaire": "contre",
+          "pour": 0,
+          "contre": 4,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845407",
+          "nom_groupe": "Ensemble pour la République",
+          "position_majoritaire": "contre",
+          "pour": 6,
+          "contre": 7,
+          "abstentions": 0,
+          "non_votants": 1
+        },
+        {
+          "organe_ref": "PO845514",
+          "nom_groupe": "Gauche Démocrate et Républicaine",
+          "position_majoritaire": "pour",
+          "pour": 8,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845470",
+          "nom_groupe": "Horizons & Indépendants",
+          "position_majoritaire": "abstention",
+          "pour": 0,
+          "contre": 0,
+          "abstentions": 4,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845413",
+          "nom_groupe": "La France insoumise - Nouveau Front Populaire",
+          "position_majoritaire": "pour",
+          "pour": 35,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845454",
+          "nom_groupe": "Les Démocrates",
+          "position_majoritaire": "pour",
+          "pour": 9,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845485",
+          "nom_groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+          "position_majoritaire": "pour",
+          "pour": 5,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO840056",
+          "nom_groupe": "Non inscrit",
+          "position_majoritaire": "pour",
+          "pour": 1,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845401",
+          "nom_groupe": "Rassemblement National",
+          "position_majoritaire": "contre",
+          "pour": 0,
+          "contre": 82,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845419",
+          "nom_groupe": "Socialistes et apparentés",
+          "position_majoritaire": "pour",
+          "pour": 59,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO872880",
+          "nom_groupe": "Union des droites pour la République",
+          "position_majoritaire": "contre",
+          "pour": 0,
+          "contre": 2,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845439",
+          "nom_groupe": "Écologiste et Social",
+          "position_majoritaire": "pour",
+          "pour": 25,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        }
+      ]
+    },
+    {
+      "uid": "VTANR5L17V10033",
+      "dossier_ref": "DLR5L17N51962",
+      "date_scrutin": "2026-11-19",
+      "titre": "l'ensemble de la proposition de loi visant à exercer l'accès à l'emploi, à pérenniser et à étendre progressivement l'expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l'emploi pour les personnes privées durablement d'emploi (deuxième lecture).",
+      "sort": "adopté",
+      "sort_libelle": "l'Assemblée nationale a adopté",
+      "nombre_votants": 261,
+      "suffrages_exprimes": 261,
+      "pour": 258,
+      "contre": 3,
+      "abstentions": 0,
+      "groupes": [
+        {
+          "organe_ref": "PO845425",
+          "nom_groupe": "Droite Républicaine",
+          "position_majoritaire": "pour",
+          "pour": 11,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845407",
+          "nom_groupe": "Ensemble pour la République",
+          "position_majoritaire": "pour",
+          "pour": 20,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 1
+        },
+        {
+          "organe_ref": "PO845514",
+          "nom_groupe": "Gauche Démocrate et Républicaine",
+          "position_majoritaire": "pour",
+          "pour": 8,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845470",
+          "nom_groupe": "Horizons & Indépendants",
+          "position_majoritaire": "pour",
+          "pour": 8,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845413",
+          "nom_groupe": "La France insoumise - Nouveau Front Populaire",
+          "position_majoritaire": "pour",
+          "pour": 34,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845454",
+          "nom_groupe": "Les Démocrates",
+          "position_majoritaire": "pour",
+          "pour": 11,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845485",
+          "nom_groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+          "position_majoritaire": "pour",
+          "pour": 9,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO840056",
+          "nom_groupe": "Non inscrit",
+          "position_majoritaire": "pour",
+          "pour": 0,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845401",
+          "nom_groupe": "Rassemblement National",
+          "position_majoritaire": "pour",
+          "pour": 64,
+          "contre": 3,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845419",
+          "nom_groupe": "Socialistes et apparentés",
+          "position_majoritaire": "pour",
+          "pour": 60,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO872880",
+          "nom_groupe": "Union des droites pour la République",
+          "position_majoritaire": "pour",
+          "pour": 5,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845439",
+          "nom_groupe": "Écologiste et Social",
+          "position_majoritaire": "pour",
+          "pour": 28,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        }
+      ]
+    },
     {
       "uid": "VTANR5L17V9916",
       "dossier_ref": "DLR5L17N50731",

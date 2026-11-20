@@ -1,8 +1,17 @@
 {
-  "genere_le": "2026-11-18T13:00:10.407071+00:00",
+  "genere_le": "2026-11-20T12:50:16.707237+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
+    {
+      "uid": "DLR5L17N53140",
+      "titre": "Projet de loi portant diverses dispositions d'adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, d’information, de transport, de santé, d’agriculture et de pêche",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-15T21:30:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140"
+    },
     {
       "uid": "DLR5L17N54703",
       "titre": "Projet de loi relatif à la lutte contre les ingérences étrangères dans la vie démocratique",
@@ -11,6 +20,24 @@
       "date_promulgation": null,
       "derniere_activite": "2026-12-11T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54703"
+    },
+    {
+      "uid": "DLR5L17N54778",
+      "titre": "Proposition de loi relative aux modalités de recouvrement de la contribution aux frais de garderie et de la contribution additionnelle versées à l’Office national des forêts (ONF) par les collectivités territoriales et personnes morales propriétaires de bois et forêts relevant du régime forestier et à la composition du conseil d’administration de l’ONF",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-10T08:45:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54778"
+    },
+    {
+      "uid": "DLR5L17N55191",
+      "titre": "Mieux protéger, mieux gérer et mieux valoriser la forêt et ses produits pour répondre aux enjeux de lutte contre le changement climatique, d’adaptation à ses effets et de stockage du carbone dans les matériaux en bois",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-10T08:45:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/mieux_proteger_mieux_gerer_mieux_valoriser_foret_produits_17e"
     },
     {
       "uid": "DLR5L17N55145",
@@ -22,15 +49,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_instaurer_une_negociation_obligatoire_sur_la_situation_des_parents_isoles_17e"
     },
     {
-      "uid": "DLR5L17N54778",
-      "titre": "Proposition de loi relative aux modalités de recouvrement de la contribution aux frais de garderie et de la contribution additionnelle versées à l’Office national des forêts (ONF) par les collectivités territoriales et personnes morales propriétaires de bois et forêts relevant du régime forestier et à la composition du conseil d’administration de l’ONF",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-12-10T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54778"
-    },
-    {
       "uid": "DLR5L17N52900",
       "titre": "Proposition de loi relative à la sécurisation des marchés publics numériques",
       "procedure": "Proposition de loi ordinaire",
@@ -38,15 +56,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-12-10T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52900"
-    },
-    {
-      "uid": "DLR5L17N55191",
-      "titre": "Mieux protéger, mieux gérer et mieux valoriser la forêt et ses produits pour répondre aux enjeux de lutte contre le changement climatique, d’adaptation à ses effets et de stockage du carbone dans les matériaux en bois",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-12-10T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/mieux_proteger_mieux_gerer_mieux_valoriser_foret_produits_17e"
     },
     {
       "uid": "DLR5L16N48687",
@@ -108,7 +117,7 @@
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-12-03T09:30:00.000+01:00",
+      "derniere_activite": "2026-12-03T08:45:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_foret_encadrant_coupes_rases_17e"
     },
     {
@@ -117,7 +126,7 @@
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-12-03T09:30:00.000+01:00",
+      "derniere_activite": "2026-12-03T08:45:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_creer_un_grand_parc_social_d_un_million_d_automobiles_a_loyer_modere_17e"
     },
     {
@@ -364,15 +373,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement_2"
     },
     {
-      "uid": "DLR5L17N54989",
-      "titre": "Améliorer le dispositif du temps partiel thérapeutique pour les fonctionnaires",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-19T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_temps_therapeutique_fonctionnaires_17e"
-    },
-    {
       "uid": "DLR5L17N54998",
       "titre": "Régulariser les travailleurs sans-papiers",
       "procedure": "Proposition de loi ordinaire",
@@ -380,6 +380,33 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-19T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulariser_travailleurs_sans_papiers_17e"
+    },
+    {
+      "uid": "DLR5L17N54629",
+      "titre": "Projet de loi de finances pour 2027",
+      "procedure": "Projet de loi de finances de l'année",
+      "statut": "rejetee",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-19T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027"
+    },
+    {
+      "uid": "DLR5L17N53159",
+      "titre": "Proposition de loi visant à améliorer les moyens d'action de l'Agence de gestion et de recouvrement des avoirs saisis et confisqués et à faciliter l'exercice des missions d'expert judiciaire",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-19T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53159"
+    },
+    {
+      "uid": "DLR5L17N54445",
+      "titre": "Moderniser et rééquilibrer le fonctionnement du titre-restaurant",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-19T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_fonctionnement_titre_restaurant_17e"
     },
     {
       "uid": "DLR5L17N54718",
@@ -400,13 +427,13 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51095"
     },
     {
-      "uid": "DLR5L17N53359",
-      "titre": "Proposition de loi relative à l’instauration d’une présomption d’utilisation des contenus culturels par les fournisseurs d’intelligence artificielle",
+      "uid": "DLR5L17N51330",
+      "titre": "Renforcer l’effectivité des droits voisins de la presse",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2026-11-19T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53359"
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/effectivite_droits_voisins_presse"
     },
     {
       "uid": "DLR5L17N53069",
@@ -418,13 +445,13 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retrouver_confiance_equilibre_rapports_locatifs_17e"
     },
     {
-      "uid": "DLR5L17N54994",
-      "titre": "Mieux reconnaître et à valoriser les aidants actifs",
-      "procedure": "Proposition de loi ordinaire",
+      "uid": "DLR5L17N55223",
+      "titre": "Projet de loi de finances de fin de gestion pour 2026",
+      "procedure": "Projet de loi de finances rectificative",
       "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2026-11-19T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_mieux_reconnaitre_et_valoriser_les_aidants_actifs_17e"
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFFG_2026"
     },
     {
       "uid": "DLR5L17N51962",
@@ -445,13 +472,49 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/baisser_prix_carburants_encadrement_marges_raffineurs_17e"
     },
     {
-      "uid": "DLR5L17N53159",
-      "titre": "Proposition de loi visant à améliorer les moyens d'action de l'Agence de gestion et de recouvrement des avoirs saisis et confisqués et à faciliter l'exercice des missions d'expert judiciaire",
+      "uid": "DLR5L17N54989",
+      "titre": "Améliorer le dispositif du temps partiel thérapeutique pour les fonctionnaires",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-18T09:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_temps_therapeutique_fonctionnaires_17e"
+    },
+    {
+      "uid": "DLR5L17N54951",
+      "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+      "procedure": "Projet de loi de financement de la sécurité sociale",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-18T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
+    },
+    {
+      "uid": "DLR5L17N54344",
+      "titre": "Projet de loi relatif à la régulation de l'enseignement supérieur privé",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-18T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulation_enseignement_superieur_prive_2026"
+    },
+    {
+      "uid": "DLR5L17N55277",
+      "titre": "Proposition de loi visant à prévenir, reconnaître et sanctionner la sérophobie",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2026-11-17T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53159"
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55277"
+    },
+    {
+      "uid": "DLR5L17N55281",
+      "titre": "Proposition de loi visant à étendre la convention judiciaire d'intérêt public au domaine de la cybercriminalité",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-17T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55281"
     },
     {
       "uid": "DLR5L17N50731",
@@ -461,15 +524,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-17T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731"
-    },
-    {
-      "uid": "DLR5L17N55223",
-      "titre": "Projet de loi de finances de fin de gestion pour 2026",
-      "procedure": "Projet de loi de finances rectificative",
-      "statut": "rejetee",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-17T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFFG_2026"
     },
     {
       "uid": "DLR5L17N53699",
@@ -499,13 +553,13 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55274"
     },
     {
-      "uid": "DLR5L17N51330",
-      "titre": "Renforcer l’effectivité des droits voisins de la presse",
+      "uid": "DLR5L17N55276",
+      "titre": "Proposition de loi visant à permettre à l'Agence pour l'enseignement français à l'étranger de recourir à l'emprunt à long terme",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-11-12T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/effectivite_droits_voisins_presse"
+      "derniere_activite": "2026-11-13T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55276"
     },
     {
       "uid": "DLR5L17N55273",
@@ -515,6 +569,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-12T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55273"
+    },
+    {
+      "uid": "DLR5L17N54994",
+      "titre": "Mieux reconnaître et à valoriser les aidants actifs",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T16:30:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_mieux_reconnaitre_et_valoriser_les_aidants_actifs_17e"
     },
     {
       "uid": "DLR5L17N55247",
@@ -751,15 +814,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/valoriser_reserve_communale_securite_civile2"
     },
     {
-      "uid": "DLR5L17N54629",
-      "titre": "Projet de loi de finances pour 2027",
-      "procedure": "Projet de loi de finances de l'année",
-      "statut": "rejetee",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-04T15:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027"
-    },
-    {
       "uid": "DLR5L17N55224",
       "titre": "Inscrire dans le code électoral l’impossibilité pour les majeurs sous tutelle ou curatelle simple ou renforcée de faire acte de candidature aux élections législatives",
       "procedure": "Projet ou proposition de loi organique",
@@ -769,15 +823,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/inscrire_code_electoral_impossibilite_majeurs_tutelle_curatelle_acte_candidature_elections_legislatives"
     },
     {
-      "uid": "DLR5L17N54951",
-      "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
-      "procedure": "Projet de loi de financement de la sécurité sociale",
-      "statut": "rejetee",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-04T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
-    },
-    {
       "uid": "DLR5L17N52558",
       "titre": "Proposition de loi visant à améliorer la gestion des biens des sections de commune",
       "procedure": "Proposition de loi ordinaire",
@@ -785,15 +830,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-04T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52558"
-    },
-    {
-      "uid": "DLR5L17N54445",
-      "titre": "Moderniser et rééquilibrer le fonctionnement du titre-restaurant",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-03T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_fonctionnement_titre_restaurant_17e"
     },
     {
       "uid": "DLR5L17N55252",
@@ -1037,6 +1073,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-10-28T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_constitutionnelle_pour_Corse_autonome_au_sein_Republique"
+    },
+    {
+      "uid": "DLR5L17N53359",
+      "titre": "Proposition de loi relative à l’instauration d’une présomption d’utilisation des contenus culturels par les fournisseurs d’intelligence artificielle",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-10-28T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53359"
     },
     {
       "uid": "DLR5L17N55204",
@@ -5206,15 +5251,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_proteger_enfants_et_lutter_contre_les_violences_en_milieu_scolaire_17e"
     },
     {
-      "uid": "DLR5L17N54344",
-      "titre": "Projet de loi relatif à la régulation de l'enseignement supérieur privé",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-06-02T00:00:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulation_enseignement_superieur_prive_2026"
-    },
-    {
       "uid": "DLR5L17N53846",
       "titre": "Proposition de loi concernant la représentativité au sein des unions régionales des professionnels de santé",
       "procedure": "Proposition de loi ordinaire",
@@ -5474,15 +5510,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-05-20T09:30:00.000+02:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/encourager_partenariat_collectivites_personnes_morales_equipement_sportifs_17e"
-    },
-    {
-      "uid": "DLR5L17N53140",
-      "titre": "Projet de loi portant diverses dispositions d'adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, d’information, de transport, de santé, d’agriculture et de pêche",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-05-20T09:30:00.000+02:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140"
     },
     {
       "uid": "DLR5L17N54347",
