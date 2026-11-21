@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-20T12:50:16.707237+00:00",
+  "genere_le": "2026-11-21T12:22:02.175702+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -364,6 +364,24 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instances_representatives_francais_etablis_hors_France"
     },
     {
+      "uid": "DLR5L17N54998",
+      "titre": "Régulariser les travailleurs sans-papiers",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "retiree",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-20T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulariser_travailleurs_sans_papiers_17e"
+    },
+    {
+      "uid": "DLR5L17N51037",
+      "titre": "Reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-20T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre"
+    },
+    {
       "uid": "DLR5L17N54608",
       "titre": "La relance et la décentralisation du logement",
       "procedure": "Projet de loi ordinaire",
@@ -373,13 +391,31 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement_2"
     },
     {
-      "uid": "DLR5L17N54998",
-      "titre": "Régulariser les travailleurs sans-papiers",
-      "procedure": "Proposition de loi ordinaire",
+      "uid": "DLR5L17N54951",
+      "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+      "procedure": "Projet de loi de financement de la sécurité sociale",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-11-19T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulariser_travailleurs_sans_papiers_17e"
+      "derniere_activite": "2026-11-20T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
+    },
+    {
+      "uid": "DLR5L17N55223",
+      "titre": "Projet de loi de finances de fin de gestion pour 2026",
+      "procedure": "Projet de loi de finances rectificative",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-20T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFFG_2026"
+    },
+    {
+      "uid": "DLR5L17N55014",
+      "titre": "Baisser les prix du carburant à la pompe par l'encadrement des marges des raffineurs",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "retiree",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-20T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/baisser_prix_carburants_encadrement_marges_raffineurs_17e"
     },
     {
       "uid": "DLR5L17N54629",
@@ -445,15 +481,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retrouver_confiance_equilibre_rapports_locatifs_17e"
     },
     {
-      "uid": "DLR5L17N55223",
-      "titre": "Projet de loi de finances de fin de gestion pour 2026",
-      "procedure": "Projet de loi de finances rectificative",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-19T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFFG_2026"
-    },
-    {
       "uid": "DLR5L17N51962",
       "titre": "Exercer l’accès à l’emploi, pérenniser et étendre progressivement l’expérimentation Territoires zéro chômeur longue durée comme solution de retour à l’emploi pour les personnes privées durablement d’emploi",
       "procedure": "Proposition de loi ordinaire",
@@ -463,15 +490,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_emploi_experimentation_tzcld_17"
     },
     {
-      "uid": "DLR5L17N55014",
-      "titre": "Baisser les prix du carburant à la pompe par l'encadrement des marges des raffineurs",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-19T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/baisser_prix_carburants_encadrement_marges_raffineurs_17e"
-    },
-    {
       "uid": "DLR5L17N54989",
       "titre": "Améliorer le dispositif du temps partiel thérapeutique pour les fonctionnaires",
       "procedure": "Proposition de loi ordinaire",
@@ -479,15 +497,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-18T09:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_temps_therapeutique_fonctionnaires_17e"
-    },
-    {
-      "uid": "DLR5L17N54951",
-      "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
-      "procedure": "Projet de loi de financement de la sécurité sociale",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-18T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
     },
     {
       "uid": "DLR5L17N54344",
@@ -623,15 +632,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-10T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/ne-plus-separer-freres-soeurs-ASE-17e"
-    },
-    {
-      "uid": "DLR5L17N51037",
-      "titre": "Reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre"
     },
     {
       "uid": "DLR5L17N55238",

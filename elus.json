@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-17T13:24:41.523347+00:00",
+  "genere_le": "2026-11-21T12:21:37.515781+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -2585,6 +2585,17 @@
     },
     {
       "type": "depute",
+      "nom": "Duizidou",
+      "prenom": "David",
+      "parti": null,
+      "profession": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:nil": "true"
+      },
+      "uri_hatvp": "/tribun/resources/html/defautDeclarationActeur.html"
+    },
+    {
+      "type": "depute",
       "nom": "Colombani",
       "prenom": "Paul-André",
       "parti": "Régions et peuples solidaires",
@@ -4806,14 +4817,6 @@
       "parti": "Régions et peuples solidaires",
       "profession": "Professeur des Universités",
       "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/castellani-michel"
-    },
-    {
-      "type": "depute",
-      "nom": "Habib",
-      "prenom": "David",
-      "parti": "Régions et peuples solidaires",
-      "profession": "Cadre",
-      "uri_hatvp": "https://www.hatvp.fr/pages_nominatives/habib-david"
     },
     {
       "type": "depute",
