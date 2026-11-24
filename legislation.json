@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-21T12:22:02.175702+00:00",
+  "genere_le": "2026-11-24T14:58:11.248946+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -310,15 +310,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/responsabilite_penale_enfants_parents_17e"
     },
     {
-      "uid": "DLR5L17N53330",
-      "titre": "Déblocage exceptionnel de la participation et de l’intéressement en 2026",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-26T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/deblocage_exceptionnel_participation_interessement_2026_17e"
-    },
-    {
       "uid": "DLR5L17N55074",
       "titre": "Maintenir les pharmacies existantes dans les communes rurales",
       "procedure": "Proposition de loi ordinaire",
@@ -364,6 +355,24 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instances_representatives_francais_etablis_hors_France"
     },
     {
+      "uid": "DLR5L17N55223",
+      "titre": "Projet de loi de finances de fin de gestion pour 2026",
+      "procedure": "Projet de loi de finances rectificative",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-23T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFFG_2026"
+    },
+    {
+      "uid": "DLR5L17N53069",
+      "titre": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "promulguee",
+      "date_promulgation": "2026-11-21T00:00:00.000+01:00",
+      "derniere_activite": "2026-11-21T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retrouver_confiance_equilibre_rapports_locatifs_17e"
+    },
+    {
       "uid": "DLR5L17N54998",
       "titre": "Régulariser les travailleurs sans-papiers",
       "procedure": "Proposition de loi ordinaire",
@@ -400,15 +409,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
     },
     {
-      "uid": "DLR5L17N55223",
-      "titre": "Projet de loi de finances de fin de gestion pour 2026",
-      "procedure": "Projet de loi de finances rectificative",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-20T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFFG_2026"
-    },
-    {
       "uid": "DLR5L17N55014",
       "titre": "Baisser les prix du carburant à la pompe par l'encadrement des marges des raffineurs",
       "procedure": "Proposition de loi ordinaire",
@@ -416,6 +416,24 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-20T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/baisser_prix_carburants_encadrement_marges_raffineurs_17e"
+    },
+    {
+      "uid": "DLR5L17N55289",
+      "titre": "Proposition de loi constitutionnelle reconnaissant le droit à l'eau et à l'assainissement comme un droit humain fondamental en vertu de la résolution 64/292 adoptée par l'Assemblée générale des Nations Unies le 28 juillet 2010",
+      "procedure": "Projet ou proposition de loi constitutionnelle",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-20T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55289"
+    },
+    {
+      "uid": "DLR5L17N55288",
+      "titre": "Proposition de loi visant à interdire la capture d'animaux par les pièges à colle",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-20T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55288"
     },
     {
       "uid": "DLR5L17N54629",
@@ -472,15 +490,6 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/effectivite_droits_voisins_presse"
     },
     {
-      "uid": "DLR5L17N53069",
-      "titre": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-19T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retrouver_confiance_equilibre_rapports_locatifs_17e"
-    },
-    {
       "uid": "DLR5L17N51962",
       "titre": "Exercer l’accès à l’emploi, pérenniser et étendre progressivement l’expérimentation Territoires zéro chômeur longue durée comme solution de retour à l’emploi pour les personnes privées durablement d’emploi",
       "procedure": "Proposition de loi ordinaire",
@@ -497,6 +506,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-18T09:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_temps_therapeutique_fonctionnaires_17e"
+    },
+    {
+      "uid": "DLR5L17N55286",
+      "titre": "Proposition de loi visant à garantir aux communes une juste part de la fiscalité des installations éoliennes et photovoltaïques",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-18T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55286"
     },
     {
       "uid": "DLR5L17N54344",
@@ -544,6 +562,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53699"
     },
     {
+      "uid": "DLR5L17N55290",
+      "titre": "Proposition de loi relative au dispositif de sanction pour l'application du code des transports en matière de contrats de transport de marchandises et instaurant un mécanisme d'indexation pour les services occasionnels du transport routier de personnes",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-13T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55290"
+    },
+    {
       "uid": "DLR5L17N55275",
       "titre": "Proposition de loi visant à faire intervenir le versement du Fonds de compensation pour la taxe sur la valeur ajoutée l'année suivant la réalisation de la dépense",
       "procedure": "Proposition de loi ordinaire",
@@ -587,6 +614,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-10T16:30:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_mieux_reconnaitre_et_valoriser_les_aidants_actifs_17e"
+    },
+    {
+      "uid": "DLR5L17N55285",
+      "titre": "Projet de loi visant à renforcer l’investissement publicitaire dans les services de presse en ligne d’information politique et générale",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-10T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55285"
     },
     {
       "uid": "DLR5L17N55247",
@@ -8399,6 +8435,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-01-22T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53638"
+    },
+    {
+      "uid": "DLR5L17N53330",
+      "titre": "Déblocage exceptionnel de la participation et de l’intéressement en 2026",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-01-21T09:35:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/deblocage_exceptionnel_participation_interessement_2026_17e"
     },
     {
       "uid": "DLR5L17N53335",
