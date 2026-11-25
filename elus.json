@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-22T12:48:09.204443+00:00",
+  "genere_le": "2026-11-25T14:15:54.818690+00:00",
   "gouvernement_actuel": {
     "libelle": "LECORNU II",
     "date_debut": "2025-10-11"
@@ -2585,13 +2585,10 @@
     },
     {
       "type": "depute",
-      "nom": "Duizidou",
+      "nom": "Duizidou-Agest",
       "prenom": "David",
       "parti": null,
-      "profession": {
-        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-        "@xsi:nil": "true"
-      },
+      "profession": "Infirmier",
       "uri_hatvp": null
     },
     {
