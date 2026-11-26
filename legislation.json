@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-25T14:16:24.379864+00:00",
+  "genere_le": "2026-11-26T14:04:53.945456+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -11,15 +11,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-12-18T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulation_enseignement_superieur_prive_2026"
-    },
-    {
-      "uid": "DLR5L17N53140",
-      "titre": "Projet de loi portant diverses dispositions d'adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, d’information, de transport, de santé, d’agriculture et de pêche",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-12-15T21:30:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140"
     },
     {
       "uid": "DLR5L17N54703",
@@ -373,6 +364,24 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instances_representatives_francais_etablis_hors_France"
     },
     {
+      "uid": "DLR5L17N53140",
+      "titre": "Projet de loi portant diverses dispositions d'adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, d’information, de transport, de santé, d’agriculture et de pêche",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-25T09:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140"
+    },
+    {
+      "uid": "DLR5L17N51037",
+      "titre": "Reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-25T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre"
+    },
+    {
       "uid": "DLR5L17N55297",
       "titre": "Renforcer l'équilibre économique et concurrentiel des filières de jeux d'argent et de hasard",
       "procedure": "Proposition de loi ordinaire",
@@ -470,6 +479,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-24T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/plafond_logements_intermediation_locative_17e"
+    },
+    {
+      "uid": "DLR5L17N55314",
+      "titre": "Proposition de loi visant à prévenir les ingérences étrangères dans le financement de la vie politique",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-24T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55314"
     },
     {
       "uid": "DLR5L17N55294",
@@ -571,6 +589,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/information_protection_victimes_violences_sexuelles_17e"
     },
     {
+      "uid": "DLR5L17N55315",
+      "titre": "Proposition de loi visant à reconnaître les acquis de l'expérience des chirurgiens-dentistes dans la pratique des soins orthodontiques",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-24T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55315"
+    },
+    {
       "uid": "DLR5L17N55223",
       "titre": "Projet de loi de finances de fin de gestion pour 2026",
       "procedure": "Projet de loi de finances rectificative",
@@ -623,15 +650,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-20T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulariser_travailleurs_sans_papiers_17e"
-    },
-    {
-      "uid": "DLR5L17N51037",
-      "titre": "Reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-20T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre"
     },
     {
       "uid": "DLR5L17N54951",
