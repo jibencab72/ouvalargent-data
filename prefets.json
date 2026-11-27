@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-17T13:25:37.976934+00:00",
+  "genere_le": "2026-11-27T13:46:58.792812+00:00",
   "source": "api-lannuaire.service-public.fr (DILA, Premier ministre)",
   "prefets": [
     {
@@ -125,14 +125,14 @@
     {
       "code_departement": "12",
       "nom_departement": "Aveyron",
-      "civilite": "Mme",
-      "prenom": "Claire",
-      "nom": "CHAUFFOUR-ROUILLARD",
-      "fonction": "Préfète",
-      "grade": "préfète",
-      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050456681",
-      "libelle_nomination_jorf": "JORF n°0264 du 7 novembre 2024",
-      "date_maj_source": "2026-07-03T14:41:22+00:00"
+      "civilite": "M.",
+      "prenom": "Guillaume",
+      "nom": "DOUHERET",
+      "fonction": "Préfet",
+      "grade": "administrateur de l'État",
+      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055144807",
+      "libelle_nomination_jorf": "JORF n°0276 du 26 novembre 2026",
+      "date_maj_source": "2026-11-26T11:59:20+00:00"
     },
     {
       "code_departement": "67",
@@ -329,14 +329,14 @@
     {
       "code_departement": "91",
       "nom_departement": "Essonne",
-      "civilite": null,
-      "prenom": null,
-      "nom": null,
-      "fonction": "Préfet",
-      "grade": null,
-      "lien_nomination_jorf": null,
-      "libelle_nomination_jorf": null,
-      "date_maj_source": "2026-11-09T15:13:09+00:00"
+      "civilite": "Mme",
+      "prenom": "Fabienne",
+      "nom": "BALUSSOU",
+      "fonction": "Préfète",
+      "grade": "administratrice de l'État",
+      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052143823",
+      "libelle_nomination_jorf": "JORF n°0199 du 28 août 2025",
+      "date_maj_source": "2026-11-26T12:07:13+00:00"
     },
     {
       "code_departement": "27",
@@ -389,14 +389,14 @@
     {
       "code_departement": "32",
       "nom_departement": "Gers",
-      "civilite": "M.",
-      "prenom": "Alain",
-      "nom": "CASTANIER",
-      "fonction": "Préfet",
-      "grade": "administrateur général de l'État",
-      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050668287",
-      "libelle_nomination_jorf": "JORF n°0281 du 28 novembre 2024",
-      "date_maj_source": "2026-07-03T15:34:00+00:00"
+      "civilite": "Mme",
+      "prenom": "Corinne",
+      "nom": "SIMON",
+      "fonction": "Préfète",
+      "grade": "administratrice de l'État",
+      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055144821",
+      "libelle_nomination_jorf": "JORF n°0276 du 26 novembre 2026",
+      "date_maj_source": "2026-11-26T12:01:33+00:00"
     },
     {
       "code_departement": "33",
@@ -701,14 +701,14 @@
     {
       "code_departement": "45",
       "nom_departement": "Loiret",
-      "civilite": "M.",
-      "prenom": "Hugues",
-      "nom": "MOUTOUH",
+      "civilite": null,
+      "prenom": null,
+      "nom": null,
       "fonction": "Préfet",
-      "grade": "administrateur de l'État",
-      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053930610",
-      "libelle_nomination_jorf": "JORF n°0096 du 23 avril 2026",
-      "date_maj_source": "2026-05-15T15:28:08+00:00"
+      "grade": null,
+      "lien_nomination_jorf": null,
+      "libelle_nomination_jorf": null,
+      "date_maj_source": "2026-11-26T12:17:31+00:00"
     },
     {
       "code_departement": "46",
@@ -1134,13 +1134,13 @@
       "code_departement": "84",
       "nom_departement": "Vaucluse",
       "civilite": "M.",
-      "prenom": "Thierry",
-      "nom": "SUQUET",
+      "prenom": "Olivier",
+      "nom": "DE MAZIÈRES",
       "fonction": "Préfet",
       "grade": "administrateur de l'État",
-      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049144958",
-      "libelle_nomination_jorf": "JORF n°0038 du 15 février 2024",
-      "date_maj_source": "2026-07-07T10:11:51+00:00"
+      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055144814",
+      "libelle_nomination_jorf": "JORF n°0276 du 26 novembre 2026",
+      "date_maj_source": "2026-11-26T12:00:15+00:00"
     },
     {
       "code_departement": "85",

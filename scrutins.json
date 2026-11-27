@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-26T14:04:54.756894+00:00",
+  "genere_le": "2026-11-27T13:46:53.153935+00:00",
   "note_methode": "Seuls les votes sur « l'ensemble » d'un texte sont retenus (adoption finale) — les votes sur un article ou un amendement isolé (plusieurs milliers pour cette législature) ne sont pas repris, hors du périmètre de cet écran. Résultat par groupe parlementaire (position majoritaire et décompte des voix), jamais nominatif député par député. Source : data.assemblee-nationale.fr, dataset Scrutins, législature 17 — réinterrogé à chaque publication.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/votes",
   "scrutins": [
@@ -122,6 +122,129 @@
           "pour": 0,
           "contre": 0,
           "abstentions": 11,
+          "non_votants": 0
+        }
+      ]
+    },
+    {
+      "uid": "VTANR5L17V10168",
+      "dossier_ref": "DLR5L17N55074",
+      "date_scrutin": "2026-11-26",
+      "titre": "l'ensemble de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+      "sort": "adopté",
+      "sort_libelle": "l'Assemblée nationale a adopté",
+      "nombre_votants": 185,
+      "suffrages_exprimes": 180,
+      "pour": 180,
+      "contre": 0,
+      "abstentions": 5,
+      "groupes": [
+        {
+          "organe_ref": "PO845425",
+          "nom_groupe": "Droite Républicaine",
+          "position_majoritaire": "pour",
+          "pour": 30,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845407",
+          "nom_groupe": "Ensemble pour la République",
+          "position_majoritaire": "abstention",
+          "pour": 21,
+          "contre": 0,
+          "abstentions": 4,
+          "non_votants": 1
+        },
+        {
+          "organe_ref": "PO845514",
+          "nom_groupe": "Gauche Démocrate et Républicaine",
+          "position_majoritaire": "pour",
+          "pour": 8,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845470",
+          "nom_groupe": "Horizons & Indépendants",
+          "position_majoritaire": "pour",
+          "pour": 7,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845413",
+          "nom_groupe": "La France insoumise - Nouveau Front Populaire",
+          "position_majoritaire": "pour",
+          "pour": 37,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845454",
+          "nom_groupe": "Les Démocrates",
+          "position_majoritaire": "pour",
+          "pour": 7,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845485",
+          "nom_groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+          "position_majoritaire": "pour",
+          "pour": 5,
+          "contre": 0,
+          "abstentions": 1,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO840056",
+          "nom_groupe": "Non inscrit",
+          "position_majoritaire": "pour",
+          "pour": 1,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845401",
+          "nom_groupe": "Rassemblement National",
+          "position_majoritaire": "pour",
+          "pour": 37,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 1
+        },
+        {
+          "organe_ref": "PO845419",
+          "nom_groupe": "Socialistes et apparentés",
+          "position_majoritaire": "pour",
+          "pour": 11,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO872880",
+          "nom_groupe": "Union des droites pour la République",
+          "position_majoritaire": "pour",
+          "pour": 2,
+          "contre": 0,
+          "abstentions": 0,
+          "non_votants": 0
+        },
+        {
+          "organe_ref": "PO845439",
+          "nom_groupe": "Écologiste et Social",
+          "position_majoritaire": "pour",
+          "pour": 14,
+          "contre": 0,
+          "abstentions": 0,
           "non_votants": 0
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-26T14:04:53.945456+00:00",
+  "genere_le": "2026-11-27T13:46:29.338616+00:00",
   "note_methode": "Statut calculé depuis la chaîne d'actes législatifs, pas un champ direct de la source : \"promulguee\" (acte de promulgation daté), \"rejetee\" (décision de rejet trouvée), \"retiree\" (initiative retirée), sinon \"en_cours\". Limite assumée : la procédure article 49.3 (\"considéré comme adopté/rejeté\") est traitée comme les décisions ordinaires, pas distinguée à part.",
   "source_url": "https://data.assemblee-nationale.fr/travaux-parlementaires/dossiers-legislatifs",
   "dossiers": [
@@ -11,6 +11,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-12-18T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulation_enseignement_superieur_prive_2026"
+    },
+    {
+      "uid": "DLR5L17N53140",
+      "titre": "Projet de loi portant diverses dispositions d'adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, d’information, de transport, de santé, d’agriculture et de pêche",
+      "procedure": "Projet de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-16T21:30:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140"
     },
     {
       "uid": "DLR5L17N54703",
@@ -175,6 +184,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_autoriser_diagnostic_preimplantatoire_des_aneuploidies_au_benefice_des_couples_et_femmes_engagees_dans_une_demarche_d_assistance_medicale_a_la_procreation_17e"
     },
     {
+      "uid": "DLR5L15N37121",
+      "titre": "Instances représentatives des Français établis hors de France",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-12-03T15:30:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instances_representatives_francais_etablis_hors_France"
+    },
+    {
       "uid": "DLR5L17N55141",
       "titre": "Protéger nos forêts en encadrant les coupes rases",
       "procedure": "Proposition de loi ordinaire",
@@ -270,7 +288,7 @@
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-11-30T00:00:00.000+01:00",
+      "derniere_activite": "2026-11-30T15:45:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/meilleure_equite_pension_alimentaire_familles_monoparentales_17e"
     },
     {
@@ -279,7 +297,7 @@
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-11-30T00:00:00.000+01:00",
+      "derniere_activite": "2026-11-30T15:45:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/favoriser_travail_continu_journee_commande_publique_ameliorer_conditions_domaine_social_emploi_17e"
     },
     {
@@ -288,8 +306,26 @@
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
-      "derniere_activite": "2026-11-30T00:00:00.000+01:00",
+      "derniere_activite": "2026-11-30T15:45:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_les_interdictions_de_detenir_un_animal_par_la_creation_d_un_fichier_national_17e"
+    },
+    {
+      "uid": "DLR5L17N55097",
+      "titre": "Lever les contraintes pesant sur le foncier",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "retiree",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-27T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_lever_les_contraintes_sur_le_foncier_17e"
+    },
+    {
+      "uid": "DLR5L17N53870",
+      "titre": "Instaurer la responsabilité pénale des mineurs à 16 ans  et renforcer la responsabilité pénale des parents",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "retiree",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-27T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/responsabilite_penale_enfants_parents_17e"
     },
     {
       "uid": "DLR5L17N53339",
@@ -301,22 +337,13 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/limiter_versement_rsa_travail_17e"
     },
     {
-      "uid": "DLR5L17N55097",
-      "titre": "Lever les contraintes pesant sur le foncier",
+      "uid": "DLR5L17N53279",
+      "titre": "Mettre fin au devoir conjugal",
       "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2026-11-26T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_lever_les_contraintes_sur_le_foncier_17e"
-    },
-    {
-      "uid": "DLR5L17N53870",
-      "titre": "Instaurer la responsabilité pénale des mineurs à 16 ans  et renforcer la responsabilité pénale des parents",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-26T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/responsabilite_penale_enfants_parents_17e"
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_mettre_fin_au_devoir_conjugual_17e"
     },
     {
       "uid": "DLR5L17N55074",
@@ -328,6 +355,15 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_maintenir_les_pharmacies_existantes_dans_les_communes_rurales_17e"
     },
     {
+      "uid": "DLR5L17N51330",
+      "titre": "Renforcer l’effectivité des droits voisins de la presse",
+      "procedure": "Proposition de loi ordinaire",
+      "statut": "promulguee",
+      "date_promulgation": "2026-11-26T00:00:00.000+01:00",
+      "derniere_activite": "2026-11-26T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/effectivite_droits_voisins_presse"
+    },
+    {
       "uid": "DLR5L17N52293",
       "titre": "Suspendre les droits aux prestations et aux aides publiques pour les personnes reconnues coupables d’exactions lors de rassemblements ou de manifestations",
       "procedure": "Proposition de loi ordinaire",
@@ -335,6 +371,15 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-26T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/suspendre_droits_prestations_casseurs_17e"
+    },
+    {
+      "uid": "DLR5L17N54951",
+      "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+      "procedure": "Projet de loi de financement de la sécurité sociale",
+      "statut": "en_cours",
+      "date_promulgation": null,
+      "derniere_activite": "2026-11-26T00:00:00.000+01:00",
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
     },
     {
       "uid": "DLR5L17N55099",
@@ -353,24 +398,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-26T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_garantir_l_execution_effective_d_une_peine_minimale_des_la_premiere_condamnation_pour_violences_volontaires_17e"
-    },
-    {
-      "uid": "DLR5L15N37121",
-      "titre": "Instances représentatives des Français établis hors de France",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-25T18:15:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/instances_representatives_francais_etablis_hors_France"
-    },
-    {
-      "uid": "DLR5L17N53140",
-      "titre": "Projet de loi portant diverses dispositions d'adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, d’information, de transport, de santé, d’agriculture et de pêche",
-      "procedure": "Projet de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-25T09:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140"
     },
     {
       "uid": "DLR5L17N51037",
@@ -652,13 +679,13 @@
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulariser_travailleurs_sans_papiers_17e"
     },
     {
-      "uid": "DLR5L17N54951",
-      "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
-      "procedure": "Projet de loi de financement de la sécurité sociale",
+      "uid": "DLR5L17N55317",
+      "titre": "Proposition de loi visant à renforcer la transparence et la soutenabilité du financement des infrastructures ferroviaires ultramarines",
+      "procedure": "Proposition de loi ordinaire",
       "statut": "en_cours",
       "date_promulgation": null,
       "derniere_activite": "2026-11-20T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
+      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55317"
     },
     {
       "uid": "DLR5L17N55014",
@@ -722,15 +749,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-19T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51095"
-    },
-    {
-      "uid": "DLR5L17N51330",
-      "titre": "Renforcer l’effectivité des droits voisins de la presse",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-19T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/effectivite_droits_voisins_presse"
     },
     {
       "uid": "DLR5L17N51962",
@@ -1064,15 +1082,6 @@
       "date_promulgation": null,
       "derniere_activite": "2026-11-05T00:00:00.000+01:00",
       "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_de_loi_relatif_a_la_protection_des_enfants"
-    },
-    {
-      "uid": "DLR5L17N53279",
-      "titre": "Mettre fin au devoir conjugal",
-      "procedure": "Proposition de loi ordinaire",
-      "statut": "en_cours",
-      "date_promulgation": null,
-      "derniere_activite": "2026-11-05T00:00:00.000+01:00",
-      "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_mettre_fin_au_devoir_conjugual_17e"
     },
     {
       "uid": "DLR5L17N51518",
