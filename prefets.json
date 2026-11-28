@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-27T13:46:58.792812+00:00",
+  "genere_le": "2026-11-28T12:56:25.418961+00:00",
   "source": "api-lannuaire.service-public.fr (DILA, Premier ministre)",
   "prefets": [
     {
@@ -701,14 +701,14 @@
     {
       "code_departement": "45",
       "nom_departement": "Loiret",
-      "civilite": null,
-      "prenom": null,
-      "nom": null,
+      "civilite": "M.",
+      "prenom": "Pierre",
+      "nom": "ORY",
       "fonction": "Préfet",
-      "grade": null,
-      "lien_nomination_jorf": null,
-      "libelle_nomination_jorf": null,
-      "date_maj_source": "2026-11-26T12:17:31+00:00"
+      "grade": "administrateur de l'État",
+      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055144793",
+      "libelle_nomination_jorf": "JORF n°0276 du 26 novembre 2026",
+      "date_maj_source": "2026-11-27T14:55:41+00:00"
     },
     {
       "code_departement": "46",
@@ -1037,14 +1037,14 @@
     {
       "code_departement": "77",
       "nom_departement": "Seine-et-Marne",
-      "civilite": "M.",
-      "prenom": "Pierre",
-      "nom": "ORY",
+      "civilite": null,
+      "prenom": null,
+      "nom": null,
       "fonction": "Préfet",
-      "grade": "administrateur de l'État",
-      "lien_nomination_jorf": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048049728",
-      "libelle_nomination_jorf": "JORF n°0207 du 7 septembre 2023",
-      "date_maj_source": "2026-11-16T11:46:09+00:00"
+      "grade": null,
+      "lien_nomination_jorf": null,
+      "libelle_nomination_jorf": null,
+      "date_maj_source": "2026-11-27T14:56:08+00:00"
     },
     {
       "code_departement": "80",
